@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250215090002
-! Last modified: 2025/02/15 09:00:02
-! Blocked domains: 6139
+! Version: 20250215161538
+! Last modified: 2025/02/15 16:15:38
+! Blocked domains: 6152
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -376,6 +376,7 @@
 ||595image.com^
 ||59cn.cn^
 ||59gt.cn^
+||5gdonuts.cn^
 ||d1.5h.com^
 ||abcd.5lu.com^
 ||efgh.5lu.com^
@@ -421,10 +422,12 @@
 ||7x24s.com^
 ||cp.7y7.com^
 ||80vn.cn^
+||80w19v.cn^
 ||m1.81312.com^
 ||8181zx.com^
 ||2012.8684.com^
 ||888net.net^
+||88la.la^
 ||88lm05.com^
 ||88lm06.com^
 ||88lm07.com^
@@ -774,6 +777,7 @@
 ||adx.appsdk.com.cn^
 ||appsdt.com^
 ||appuu.cn^
+||static.appbox.apuslauncher.com^
 ||www.aqianniao.com^
 ||vinted-pl-gj32d.aqiwen.top^
 ||aqvi.cn^
@@ -1007,8 +1011,6 @@
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
 ||a.baomihua.com^
-||djs.baomihua.com^
-||resource.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||baxbyfn.cn^
@@ -1201,7 +1203,6 @@
 ||s.btime.com^
 ||btsgroup.cn^
 ||btyou.com^
-||beijing.buzhi5.com^
 ||bvubasnf.com^
 ||ad.bwton.com^
 ||dlogs.bwton.com^
@@ -1238,6 +1239,8 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||gg.caixin.com^
+||pinggai5.caixin.com^
+||promote.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1461,6 +1464,7 @@
 ||counsellor.gov.cn^
 ||course-forge.com^
 ||adt.cpatrk.net^
+||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
 ||agapi.cqjjb.cn^
@@ -1519,7 +1523,6 @@
 ||dadde.cn^
 ||daddq.cn^
 ||js1.dadiniu.cn^
-||dadzz.cn^
 ||daede.cn^
 ||dafdf.cn^
 ||dakawm.cc^
@@ -1578,6 +1581,7 @@
 ||events-dra.op.dbankcloud.com^
 ||events-drcn.op.dbankcloud.com^
 ||events-dre.op.dbankcloud.com^
+||events-drru.op.dbankcloud.com^
 ||grs.dbankcloud.com^
 ||httpdns.platform.dbankcloud.com^
 ||logservice-dra.platform.dbankcloud.com^
@@ -1641,6 +1645,7 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
+||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||dgbaozhuang.cn^
@@ -1674,7 +1679,6 @@
 ||do-global.com^
 ||info.meihua.docer.com^
 ||zx.docin.com^
-||eee.dodecahedron.cn^
 ||doglobal.net^
 ||ads.doit.com.cn^
 ||domob.cn^
@@ -1781,7 +1785,6 @@
 ||adsdkapi.dxys.pro^
 ||fumiad.dxys.pro^
 ||a.dxzy163.com^
-||dycwt.cn^
 ||a.dyjqd.com^
 ||by.dyq.cn^
 ||hl.dyq.cn^
@@ -1968,6 +1971,7 @@
 ||mon11-misc-lf.fqnovel.com^
 ||mon3-misc-lf.fqnovel.com^
 ||fqxkj.cn^
+||freeprelevement-fr.com^
 ||fsijngnfsfk.com^
 ||fsjjrbz.cn^
 ||www.fu166.cn^
@@ -2111,8 +2115,10 @@
 ||adservice.google.com^
 ||pagead-googlehosted.l.google.com^
 ||ssl-google-analytics.l.google.com^
+||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
+||accounts.google.sn.cn^
 ||clickserver.googleads.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -2175,6 +2181,7 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
+||m.gutousoft.com^
 ||a.guzhilin.com^
 ||guzsjdl.cn^
 ||gvt2-cn.com^
@@ -2264,6 +2271,7 @@
 ||i-sg01a.ocloud.heytapmobi.com^
 ||iot-earbuds-cn.heytapmobi.com^
 ||logforward.browser.heytapmobi.com^
+||mdp-usertrace-cn.heytapmobi.com^
 ||obus-cn.dc.heytapmobi.com^
 ||obus-config-cn.heytapmobi.com^
 ||obus-dc10-cn.heytapmobi.com^
@@ -2367,6 +2375,7 @@
 ||hjpqt.cn^
 ||www.smbc-card.ceter.hlktnk.cn^
 ||wwwv.smbc-card.vend.hlktrx.cn^
+||adminuser.hlntqr.cn^
 ||hltqsbl.cn^
 ||www.smbc-card.whoor.hlwtts.cn^
 ||www.smbc-card.creitive.hlwttx.cn^
@@ -2547,6 +2556,7 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
+||daima.ijq.tv^
 ||ijvla.cn^
 ||ili100.cn^
 ||ilkwork.com^
@@ -2590,6 +2600,7 @@
 ||gw.innotechx.com^
 ||inping.com^
 ||click.inplayable.com^
+||ixvdfqi.inqku.cn^
 ||inquire-jq.top^
 ||insenz.com^
 ||ainu.intel.cn^
@@ -2782,7 +2793,6 @@
 ||img.jjiv.top^
 ||jjjcyjj.cn^
 ||jjyx.com^
-||jknrwe.cn^
 ||jlifm.org.cn^
 ||jmgehn.cn^
 ||www.jmine.cn^
@@ -2878,6 +2888,7 @@
 ||kkkaii.cn^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
+||affiliate.klook.com^
 ||kmgfjc.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmihknj.cn^
@@ -3399,6 +3410,7 @@
 ||log-upload-os.mihoyo.com^
 ||reksaidnslog.security.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||mindmanager.cc^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
@@ -3581,9 +3593,6 @@
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||analytics.api.myqnapcloud.cn^
 ||saadsfds7.myshoplaza.com^
-||salewashop-pl.myshoplaza.com^
-||salewashopiing.myshoplaza.com^
-||salewashopping.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -3750,6 +3759,8 @@
 ||palm.tech^
 ||pg.pampers.com.cn^
 ||vip.panggugu.com^
+||api-access.pangolin-sdk-toutiao3.com^
+||api-access.pangolin-sdk-toutiao4.com^
 ||panyh123456.cn^
 ||analytics.partnerboost.com^
 ||bt1.patexplorer.com^
@@ -3921,7 +3932,6 @@
 ||logger.qingting.fm^
 ||kf.qingwk.com^
 ||7xkfic.com2.z0.glb.qiniucdn.com^
-||down.qiqi.cc^
 ||analytics.qiqiuyun.net^
 ||stats.qiumibao.com^
 ||webstat.qiumibao.com^
@@ -4171,6 +4181,7 @@
 ||qtmdzsj.cn^
 ||wwwv.smbc-card.cuption.qtqht.cn^
 ||qcc.qualcomm.com^
+||qcc.qccgeo.qualcomm.com^
 ||quanmama.com^
 ||rhtc.quanminyouxi.cn^
 ||adtrack.quark.cn^
@@ -4210,6 +4221,7 @@
 ||a2.rabbitpre.com^
 ||event.raise3d.cn^
 ||rawmtft.cn^
+||rayjump.com^
 ||bespoke-analytics.razerapi.com^
 ||rbioclv.cn^
 ||rbrbr88p.cn^
@@ -5373,6 +5385,7 @@
 ||wftyehw.cn^
 ||redir.wggames.cn^
 ||www.whalecloud.com^
+||whatsappws.cc^
 ||whytd.com^
 ||a.wifi33.com^
 ||wilf.cn^
@@ -5886,7 +5899,6 @@
 ||dehsbdvz.yoxnx.cn^
 ||gehhfzjj.yoxnx.cn^
 ||gqwwa.yoxnx.cn^
-||grmztpmnmx.yoxnx.cn^
 ||izoghj.yoxnx.cn^
 ||lsaseu.yoxnx.cn^
 ||mqyly.yoxnx.cn^
@@ -5969,6 +5981,7 @@
 ||api-analytics-de.zepp.com^
 ||api-analytics-us.zepp.com^
 ||api-analytics-us3.zepp.com^
+||app-analytics.zepp.com^
 ||app-analytics-de.zepp.com^
 ||app-analytics-ru.zepp.com^
 ||app-analytics-sg.zepp.com^
