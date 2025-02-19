@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250219001706
-! Last modified: 2025/02/19 00:17:06
-! Blocked domains: 207752
+! Version: 20250219090115
+! Last modified: 2025/02/19 09:01:15
+! Blocked domains: 207811
 !
 0-0.fr
 0-02.net
@@ -10216,6 +10216,7 @@ aidspectacle.com
 aidsswaggertrimness.com
 aidxt-odemeleri.com
 aiea6gaza.com
+track.aieic.com
 aiejlfb.com
 aieov.com
 aiethereumsynergy.com
@@ -10617,6 +10618,7 @@ al.test.airtel.in
 digianalytics.airtel.in
 i.airtel.in
 i.test.airtel.in
+airteltower.com
 open.airtelxstream.in
 airtightcounty.com
 airtightfaithful.com
@@ -12656,6 +12658,7 @@ marketing.alphastarcm.com
 collect.alphastream.io
 atoso.alphatonicoffers.online
 alpwclk.alphatonicworks.site
+alphatowercompany.in
 metric.alphatreasury.co.uk
 man.alphawellnesshub.site
 mktg.alphawire.com
@@ -16553,6 +16556,7 @@ olx.app-service.shop
 advertisers.app-shake.com
 app-stock.com
 app-uniswap.icu
+app-uniswap.uno
 app-uniswapping.org
 repdata.app.com
 sp.app.com
@@ -22949,6 +22953,7 @@ connect.care.baptist-health.org
 web.care.baptist-health.org
 baptisttop1000.com
 baptizecontributegreat.com
+baptizespadeaccompanying.com
 wolverine.barac.at
 baracademyturkey.com
 baracoder.com
@@ -23646,6 +23651,7 @@ a8cv.bbt757.com
 bbtt9.com
 bbtta91.shop
 bbttf26.shop
+bbtvnxbcmzyds.com
 bbtyup.com
 a.bbuaa.top
 f.bbuaa.top
@@ -28008,6 +28014,7 @@ data.bilibili.com
 interface.bilibili.com
 miniapp.bilibili.com
 data.bilibili.tv
+bilifeetcheets.com
 line1-log.biligame.net
 bilightonline.com
 bilingualwalking.com
@@ -29399,7 +29406,7 @@ blissfullagoon.com
 register.blissfulltimes.com
 blissfullyorganik.com
 blissfulmass.com
-my.blissgallery.xyz
+blissgallery.xyz
 metrics.blissim.fr
 blissinstalls.com
 cdn.blisspointmedia.com
@@ -34769,8 +34776,10 @@ bsjusnip.com
 events.bsky.app
 bsmartdata.com
 bsnltower5g.com
+bsnltower5g.in
 bsnltowerinstallations.com
 bsnltowersite.in
+bsntowoff.com
 bsourceimpex.com
 l.bspace.io
 ads.bsplayer.com
@@ -41161,6 +41170,7 @@ kzsicw.chip.de
 omniture.chip.de
 r.chip.de
 somniture.chip.de
+sp.chip.de
 tags.chip.de
 utiq.chip.de
 omniture.chip.eu
@@ -49708,6 +49718,7 @@ analytics.cteis.com
 cten10010.com
 www2.ctera.com
 cteripre.com
+cterofhisan.org
 cterpsofcjzcf.life
 doubleclick.ctfile.com
 mydisplay.ctfile.com
@@ -51397,6 +51408,7 @@ d2r3rw91i5z1w9.cloudfront.net
 d2r44jb1nipto0.cloudfront.net
 d2rd7z2m36o6ty.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
+d2rseg7z47iaz3.cloudfront.net
 d2rsvcm1r8uvmf.cloudfront.net
 d2rx475ezvxy0h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -55679,6 +55691,7 @@ dhadbeensoattr.info
 dhads.net
 dhamakamusics.com
 dhammasugati.com
+dhannaq.com
 dharmikmarg.com
 dharnaslaked.top
 butterfly.dharsh.dev
@@ -58780,6 +58793,7 @@ dotsonian.org
 dotsrv.com
 dotstationdesign.com
 dottilyjerky.com
+dottysur.shop
 affil.dotykacka.cz
 dotyruntchan.com
 dotzup.com
@@ -67453,6 +67467,7 @@ ewruuqe5p8ca.com
 ewspgaw.cc
 host207.ewtn.com
 ewuipld.pro
+ewuvpujntjoael.com
 ewvyns.top
 smetrics.ewweb.com
 ewxufqs.cn
@@ -72180,6 +72195,7 @@ data-75adc1b92b.fleischerei.de
 data-7e48679b06.fleischerei.de
 data-4cf73e282f.fleischwirtschaft.de
 data-9b6c55490e.fleischwirtschaft.de
+flemechoed.com
 flenserencloud.click
 flerap.com
 fleraprt.com
@@ -72862,6 +72878,7 @@ marketing.flynth.nl
 delivery-ci360.flypgs.com
 go.flyreel.co
 flyroll.ru
+log-auth.flysleep.cn
 vintet-pl-kl2112.flystay.xyz
 flytech247.com
 flytechb.com
@@ -74573,7 +74590,6 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
-freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -78485,6 +78501,7 @@ getsthis.com
 getstyle.monster
 getstylify.com
 getsupplies.click
+getsupport-lcloud.com
 getsurv2you.com
 getsurv2youu.com
 getsurv4you.org
@@ -82471,6 +82488,7 @@ greepseedrobouk.net
 greerogloo.net
 greesesexage.life
 greesseeghoas.net
+greeterstaniel.com
 greetham.net
 greetingcardexperts.com
 greetmypet.com
@@ -83163,7 +83181,10 @@ tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 gtir5die6sutngr.jpn.com
+gtlinfrastructurelimited.com
 gtlpaj.com
+gtltelecomgroup.in
+gtltower.com
 gtltowerinfratel.in
 a8.gtm.co.jp
 gtmjs.com
@@ -85765,6 +85786,7 @@ frqbff.hedleyandbennett.com
 hedmisreputys.info
 article.hedsmedia.com
 fakty.hedsmedia.com
+hedungirgassi.xyz
 hedwigmonday.com
 hedwigsantos.com
 stats.hedy.dev
@@ -87069,6 +87091,7 @@ hindupujaonline.com
 hindustannews18.in
 analytics.hindustantimes.com
 notify.hindustantimes.com
+hindustantowergroupltd.com
 marketing.hines.com
 ad-ettoday.cdn.hinet.net
 adv-ettoday.cdn.hinet.net
@@ -87304,6 +87327,7 @@ hitbox.com
 cmpv2.hitc.com
 hitcashtag.com
 hitcents.com
+hitcheddayanim.top
 hitchimmerse.com
 hitchprivilege.com
 hitcount.dk
@@ -90764,6 +90788,7 @@ stats.www.ibm.com
 tgt.maep.ibm.com
 planning-analytics.ibmcloud.com
 tealeaf.ibmcloud.com
+ibmfunk.com
 ibmmarketingcloud.com
 ibmvideo.com
 join.ibo.org
@@ -91259,6 +91284,7 @@ idapple.com
 idaracing.com
 idasdesing.com
 stat-ssl.idaten.ne.jp
+idbagqaerpifx.icu
 insights.idbs.com
 qnzczf.idc-otsuka.jp
 idc.com.ua
@@ -92853,6 +92879,7 @@ impeccable-official.com
 impeccableauction.com
 impeccablewriter.com
 impendingboisterousastray.com
+impendtewter.com
 imperative.site
 imperativetheirs.com
 imperfectyogapr.com
@@ -93460,6 +93487,7 @@ metrics.clairvoyance.indrive.tech
 indsy.com
 inducesmile.com
 print.indusanalytics.co.in
+industower.org
 a8.industrial-branch.com
 data-ee28b6fae3.industrial-production.de
 info.industrial-software.com
@@ -101331,6 +101359,7 @@ jsfir.cyou
 jsftzha.com
 jsfuz.com
 priv.jsh.marketing
+jshilr.icu
 jsing.net
 tiz.jsite.top
 ao.jsitel.com
@@ -101414,6 +101443,7 @@ jtj-law.com
 pay.jtkj99.com
 jtkjixnmj.org
 jtmatch.com
+jtmwjbgoz.com
 jtniekamp.com
 jtoabhvw.com
 jtpostsu.vip
@@ -107658,6 +107688,7 @@ lazieneczka.pl
 qejrwy.lazienkaplus.pl
 lazosrunning.org
 lazter.com
+lazuliempall.com
 secure.lazy8krti.com
 www.lazy8krti.com
 lazychord.com
@@ -118441,6 +118472,7 @@ mtracking.mhequipment.com
 mhessc.org
 mhfkleqnjlfbqe.com
 a8cv.mhg-webstore.com
+mhgwqipkwqhtbva.xyz
 mhiiopll.net
 marketing.mhinvest.com
 analytics.mhk.hu
@@ -124018,6 +124050,7 @@ omns.murdoch.edu.au
 murdoog.com
 sst.murgiadei.it
 murhack.com
+muridvikings.shop
 posthog.murj.com
 murkymouse.online
 murlidharrope.com
@@ -124529,6 +124562,7 @@ sstats.myafco.com
 myaffiliateprogram.com
 myaffiliates.com
 ok.myallowance.org
+myalltomb.shop
 myamericanprzs.com
 info.myameriflex.com
 cookie.myamerigas.com
@@ -126700,7 +126734,7 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
+navi41.ru
 navi45.ru
 navi5.com
 navi53.com
@@ -131673,6 +131707,7 @@ e20d8e38992b.o3n.io
 o3sxhw5ad.com
 marketing.o3world.com
 o4nofsh6.de
+o4q.fun
 o4svlxhjun.xyz
 o4uxrk33.com
 o626b32etkg6.com
@@ -132292,6 +132327,7 @@ matomo.acdh.oeaw.ac.at
 piwik.oeaw.ac.at
 matomopvext.oebb.at
 oecherdeal.de
+oedipalchuppah.shop
 oefg-mvx.sbs
 tracking.info.oegig.at
 oehgk.com
@@ -138085,6 +138121,7 @@ server.parnasse-store.com
 parnelfirker.com
 paroasse.xyz
 sgtm.paroledifaber.it
+parolersheeve.com
 ad.parom.hu
 paronymtethery.com
 war5.parquewarner.com
@@ -141086,6 +141123,7 @@ pingpaid.com
 pingpongup.com
 card.pingpro.com
 api.pingstart.com
+pinguinmildews.shop
 pinion-innovations.com
 pinion.gg
 pinionsmamry.top
@@ -151047,6 +151085,7 @@ quatrefeuillepolonaise.xyz
 a8cv.quattrocart.com
 quattrodelmardubai.com
 uxtqtg.quattroruote.it
+quavereverydayby.com
 quayolderinstance.com
 quaysomediamart2024.vip
 quazar360ai.org
@@ -157689,6 +157728,7 @@ uoty.rskpppfp.top
 rsldfvt.com
 experience.rsm.com.au
 rsntcgoowyxsu.com
+rsohvot.xyz
 rspbharat.com
 delta.rspcdn.com
 rspectr.com
@@ -163019,6 +163059,7 @@ setforconfigplease.com
 sether.ws
 setiadiweb.com
 referral.setipe.com
+setitoefanyor.com
 setka.media
 setkuttina.pages.dev
 tq.setlitescmode-2.online
@@ -164204,6 +164245,7 @@ shoftoussees.com
 shogla.com
 shohipsoalr.top
 shoio.com
+shokanouch.com
 track.go.shokubai.co.jp
 a8.shokubun.net
 shokunintv.com
@@ -165264,6 +165306,7 @@ metrics.silive.com
 mms.silive.com
 secure.silk0palm.com
 ss.silkandsonder.com
+silkcaseplunge.com
 silkenwindhounds.org
 ftzets.silkfred.com
 silklanguish.com
@@ -168510,6 +168553,7 @@ data-60d896f23d.solinger-tageblatt.de
 data-6dde45f576.solinger-tageblatt.de
 metrics.solinst.com
 smetrics.solinst.com
+solipedvagas.com
 solispartner.com
 solitaire-game.ru
 solitairetime.com
@@ -172478,6 +172522,7 @@ protection.stpolice.com
 stpsychologists.com
 stqagmrylm.xyz
 stquality.org
+tracker.str-nrg.com
 go.str.com
 str1kee.com
 str3ssed.me
@@ -175473,6 +175518,7 @@ tabun.net
 ooqbml.tac-school.co.jp
 arnasynir.tac.is
 tacasweb.com
+tacetunsweat.com
 tachogenerator.ru
 tachyondigibiz.com
 metrics.tacit.dk
@@ -176364,6 +176410,7 @@ tasksimplify.com
 marketing.taskus.com
 tasmygrozy.rest
 analytics.tasnimnews.com
+tasophaltodsost.net
 tasoqio.com
 tasselapp.com
 tasselgin.com
@@ -176404,6 +176451,7 @@ tataskyconnection.com
 discover.tatatechnologies.com
 content.tatatelebusiness.com
 ad.tatatimes.com
+tatatowers.com
 refer.tatcha.com
 b.tate.it
 message.tatebible.com
@@ -179303,6 +179351,7 @@ tfaln.com
 tfarruaxzgi.com
 tfauwtzipxob.com
 marketing.tfawealthplanning.com
+tfaxtyhedrwub.global
 tfb7jc.de
 lp.tfd-corp.co.jp
 afilyo.tfehotels.com
@@ -182473,6 +182522,7 @@ lvcrvm.tkc110.jp
 trck.e.tkd-kabel.de
 www.tkdami.net
 dichvucong.tkgov.com
+tkivhuluzcwi.com
 tklac.com
 tklh.info
 creative.tklivechat.com
@@ -183990,6 +184040,9 @@ towardwhere.com
 towarzyskizamosc.pl
 tawmbg.tower-london.com
 qmiiln.tower.jp
+tower5ginstallation.com
+toweragency.in
+towerdepartment.com
 towerecords.com
 marketing.towerfcu.org
 towerinstallation5g.com
@@ -187706,6 +187759,7 @@ dl.tytocare.com
 dl-dev.tytocare.com
 deeplink.tytod.com
 e.hellermann.tyton.com
+tytorimmer.shop
 beatriz.tytusbrian.pl
 bnxbm.tytusbrian.pl
 chrzecijaski.tytusbrian.pl
@@ -189473,6 +189527,7 @@ unjustsubmerge.com
 unkempt-hand.com
 unki-josho.com
 unki-max.com
+unkinpaynim.com
 unkinpigsty.com
 unknownbooter.co
 unknowncontrol.com
@@ -202762,6 +202817,7 @@ xiunux.com
 xius.com
 xiuty.com
 load.capi.xivada.nl
+xivghukko.com
 xixil.cn
 a.xixiyishu.com
 xixotech.com
@@ -203188,6 +203244,7 @@ xqblnei.cn
 xqcjfcb.cn
 xqeoitqw.site
 xqmvzmt.com
+xqrydt.icu
 xqwcryh.com
 marketing.xr.global
 xravengames.com
@@ -206352,6 +206409,7 @@ zerospinstocks.com
 zerostear.world
 matomo.zerotier.com
 zttemail.zerotothree.org
+zerowasteinitiative.com
 www.zerowastesaigon.com
 analytics.zerto.com
 analytics.api.zerto.com
@@ -207725,6 +207783,7 @@ v.zysklonet.top
 zyskon.top
 zysterformulations.com
 zytpirwai.net
+zyvbvqvjjkvqz.top
 load.sgtm.zyxel.com
 zyxellicense.com
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
