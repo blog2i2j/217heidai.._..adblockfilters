@@ -3,17 +3,20 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250224090323
-! Last modified: 2025/02/24 09:03:23
-! Blocked domains: 6096
+! Version: 20250224161836
+! Last modified: 2025/02/24 16:18:36
+! Blocked domains: 6098
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
 kwflvcdn.000dn.com
 00xvppy.cn
 img.0279.net
+027dir.com
 o.027eat.com
+027lyty.com
 0351dvd.cn
+036e.cn
 appimg.0575bbs.com
 pic.0597kk.com
 gg.0598yu.com
@@ -370,7 +373,6 @@ analytics.58pic.com
 595image.com
 59cn.cn
 59gt.cn
-5gdonuts.cn
 d1.5h.com
 abcd.5lu.com
 efgh.5lu.com
@@ -774,6 +776,7 @@ st.appsad.cn
 adx.appsdk.com.cn
 appsdt.com
 appuu.cn
+static.appbox.apuslauncher.com
 www.aqianniao.com
 vinted-pl-gj32d.aqiwen.top
 aqvi.cn
@@ -1008,6 +1011,7 @@ q.baminw.com.cn
 active.baofeng.com
 midinfo.baofeng.com
 a.baomihua.com
+djs.baomihua.com
 resource.baomihua.com
 bartender.cc
 webpage.batianhu.cn
@@ -1238,7 +1242,7 @@ b1.c1km4.com
 dispatcher.c360dn.com
 dispatcher-bsy.c360dn.com
 download.caihong.com
-gg.caixin.com
+promote.caixin.com
 ad.caiyunapp.com
 api.callget.cn
 smetrics.calvinklein.cn
@@ -1459,7 +1463,6 @@ n.cosbot.cn
 counsellor.gov.cn
 course-forge.com
 adt.cpatrk.net
-ap.cpatrk.net
 me.cpatrk.net
 tdsdk.cpatrk.net
 agapi.cqjjb.cn
@@ -1531,7 +1534,6 @@ daque.cn
 dashet.com
 datacaciques.com
 datamaster.com.cn
-matomo.datasanalytics.com
 datayi.cn
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
@@ -1552,6 +1554,7 @@ events-dra.op.dbankcloud.cn
 events-drcn.op.dbankcloud.cn
 grs.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
+httpdns.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 logservice.dbankcloud.cn
 logservice-dra.platform.dbankcloud.cn
@@ -1637,7 +1640,6 @@ api.dewmobile.net
 downloada.dewmobile.net
 dexinyi.cn
 dfhag.cn
-dfkd.xyz
 newswifiapi.dfshurufa.com
 dg186.cn
 dgbaozhuang.cn
@@ -1651,6 +1653,7 @@ bea-s.dinghuoche.com
 resolver.dingtalk.com
 matomo.diningcity.asia
 linktrace.diningcity.cn
+stdown.dinju.com
 dipan.com
 code.ditiezu.net
 olx-pol-kxlsw2.diyang.top
@@ -1988,7 +1991,6 @@ xyoss.g.com.cn
 r01.g1c5.com
 galeden.cn
 tg.game2.cn
-gameanalytics.com
 ng-vn-notice.gameitop.com
 click.gamersky.com
 ja.gamersky.com
@@ -2101,8 +2103,8 @@ ads.google.cn
 adsense.google.cn
 adservice.google.com
 pagead-googlehosted.l.google.com
-partnerad.l.google.com
 ssl-google-analytics.l.google.com
+static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 accounts.google.sn.cn
@@ -2255,7 +2257,6 @@ i-cn01a.ocloud.heytapmobi.com
 i-sg01a.ocloud.heytapmobi.com
 iot-earbuds-cn.heytapmobi.com
 logforward.browser.heytapmobi.com
-mdp-usertrace-cn.heytapmobi.com
 obus-cn.dc.heytapmobi.com
 obus-config-cn.heytapmobi.com
 obus-dc10-cn.heytapmobi.com
@@ -2426,6 +2427,7 @@ drcn-weather.cloud.huawei.com
 hwa.his.huawei.com
 httpdns.huaweicloud.com
 matomo.huazhi.cloud
+matomocdn.huazhi.cloud
 hubcloud.com.cn
 hubiazhi.com
 hufajushi.top
@@ -2528,7 +2530,6 @@ ad.iii.co.uk
 iimedia.cn
 www.iiyout.cn
 ijinshan.com
-daima.ijq.tv
 ijvla.cn
 ili100.cn
 ilkwork.com
@@ -2621,6 +2622,7 @@ subscription.iqiyi.com
 tracker.sns.iqiyi.com
 yuedu.iqiyi.com
 am.g.ireader.com
+irs01.com
 irs03.com
 iscrv.com
 m.ishangtong.com
@@ -2853,6 +2855,7 @@ adl.kkguan.com
 kkkaii.cn
 houyi.kkmh.com
 ipv4.kkmh.com
+affiliate.klook.com
 kmgfjc.cn
 ykkvnoxal.kmhul.cn
 kmihknj.cn
@@ -2862,6 +2865,7 @@ kxlogo.knet.cn
 rr.knet.cn
 ss.knet.cn
 knliylh.cn
+kokojia.com
 info.kollmorgen.cn
 kolsh.cn
 dpi.networkorder.komect.com
@@ -3184,7 +3188,6 @@ lishuaibin.cn
 litchiads.com
 liujiahao6.cn
 v88.live800.com
-a.llysc.cn
 bffbdo.lmsae.cn
 lmwmm.com
 lnk0.com
@@ -3352,7 +3355,6 @@ miaozhen.com
 microad-cn.com
 microad.jp
 stat.microvirt.com
-pylon.micstatic.com
 plausible.midway.run
 track.midway.run
 app.log.nf.migu.cn
@@ -3373,7 +3375,6 @@ log-upload-eur.mihoyo.com
 log-upload-os.mihoyo.com
 reksaidnslog.security.mihoyo.com
 gg.miinaa.com
-360down7.miiyun.cn
 mindmanager.cc
 src1.minibai.com
 wm.mipcdn.com
@@ -3510,7 +3511,6 @@ moodoo.com.cn
 moogos.com
 sync.mookie1.cn
 m.moomoo.com
-moquanad.com
 motsjnv.cn
 motuopj.cn
 elq.mouser.cn
@@ -3760,6 +3760,7 @@ pmm.people.com.cn
 a1.peoplecdn.cn
 pepnsnq.cn
 pepsico.com.cn
+pexnjio.cn
 pf0755.cn
 pfskzj.cn
 pgzs.com
@@ -4143,7 +4144,6 @@ api-zhibo.qtfm.cn
 upload-up.qtfm.cn
 qtmdzsj.cn
 qcc.qualcomm.com
-qcc.qccgeo.qualcomm.com
 quanmama.com
 rhtc.quanminyouxi.cn
 adtrack.quark.cn
@@ -4905,6 +4905,7 @@ trackingio.com
 tradplus.cn
 tradplus.com
 tradplusad.com
+trafficjam.cn
 cnzz.trafficmanager.net
 analysis.tratao.com
 ta.trs.cn
@@ -5682,6 +5683,7 @@ hao123.xywy.com
 stat.xywy.com
 stat-y.xywy.com
 stat-z.xywy.com
+xz0206.cn
 vinted-pl-gj32d.xz5.xyz
 cp.xz6.com
 xz618.com
@@ -5728,6 +5730,7 @@ ygxgk.cn
 ygzqlnt.cn
 yhbsk.cn
 yhjccj.cn
+data.yhydl.com
 yhz18.com
 analytics.yicai.com
 yicha.cn
@@ -5763,7 +5766,6 @@ l.ykimg.com
 ykkbwdf.cn
 ykkhihg.cn
 yklfg.cn
-yl04z4v.cn
 yladm.com
 ylznwl.cn
 ymapp.com
@@ -5924,7 +5926,6 @@ api-analytics-cn3.zepp.com
 api-analytics-de.zepp.com
 api-analytics-us.zepp.com
 api-analytics-us3.zepp.com
-app-analytics.zepp.com
 app-analytics-de.zepp.com
 app-analytics-ru.zepp.com
 app-analytics-sg.zepp.com
@@ -6095,6 +6096,7 @@ yty.zxkzy.cn
 zxptw.cn
 zxqiwe.cn
 api.ssp.zxrtb.com
+zxsruvd.cn
 zxw51.com
 httpdns.zybang.com
 zykwnj.cn
