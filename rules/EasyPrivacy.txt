@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: f81R3SbM9d37FLyjqsSqJQ
-! Version: 202503100741
+! Checksum: DKfF7Sn0mS3DlYIRoM8BSQ
+! Version: 202503101851
 ! Title: EasyPrivacy
-! Last modified: 10 Mar 2025 07:41 UTC
+! Last modified: 10 Mar 2025 18:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3064,6 +3064,7 @@ _WebVitalsReporter_
 /MailIsRead?$image
 /maillist.*/t/*$image
 /maling.roidusat.com/t/*$image
+/marketing.wrightentgroup.com/t/*$image
 /media.sailthru.com/5ik/1k4/9/*.gif
 /newsletter/log/*$image
 /newsletter/read?s=$image
@@ -4556,7 +4557,6 @@ omni.soundestlink.com$image
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
 ||ic-live.com^$third-party
-||icanhazip.com^$third-party
 ||iclive.com^$third-party
 ||icstats.nl^$third-party
 ||iculture.report^$third-party
@@ -11928,7 +11928,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||google.com/async/ddllog
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
-||google.com/log?
+||google.com/log^$domain=~meet.google.com
 ||google.com/pagead/1p-conversion/
 ||grabify.link/api/js
 ||grgnsht.nzxt.com^
@@ -12354,7 +12354,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plausible.omgapi.org^
 ||plausible.safing.io^
 ||plausible.tubemagic.com^
-||play.google.com/log
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
 ||playvideohd.com/cdn-cgi/trace
