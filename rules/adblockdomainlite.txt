@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250404161851
-! Last modified: 2025/04/04 16:18:51
-! Blocked domains: 6544
+! Version: 20250405001725
+! Last modified: 2025/04/05 00:17:25
+! Blocked domains: 6542
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -308,7 +308,6 @@ d3d.3dwwwgame.com
 r01.3dwwwgame.com
 gostat.3g.cn
 goupdate.3g.cn
-imupdate.3g.cn
 launchermsg.3g.cn
 acc.3gbizhi.com
 uu1.3gu.com
@@ -1750,6 +1749,7 @@ net.daraz.pk
 dashet.com
 datacaciques.com
 datamaster.com.cn
+matomo.datasanalytics.com
 datouniao.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
@@ -3215,7 +3215,6 @@ kixlt.ksapisrv.com
 kixpg.ksapisrv.com
 kixpg-log.ksapisrv.com
 kixzw.ksapisrv.com
-live.ksapisrv.com
 live-redpackrain.ksapisrv.com
 livenew.ksapisrv.com
 lives1.ksapisrv.com
@@ -3237,7 +3236,6 @@ sf2018.ksapisrv.com
 sf2018-api.ksapisrv.com
 sf2020-api.ksapisrv.com
 sf2020-nebula.ksapisrv.com
-sfaf.ksapisrv.com
 sfaf-api1.ksapisrv.com
 sfaf1.ksapisrv.com
 sfaf2.ksapisrv.com
@@ -3410,6 +3408,7 @@ pscdn1.lbesec.com
 lbprjdi.cn
 fbmnovbqf.lbqxi.cn
 lccfjszp.cn
+ldcdn.ldmnq.com
 mnqlog.ldmnq.com
 storeen.ldmnq.com
 ad.ldplayer.net
@@ -4583,7 +4582,6 @@ iot-eu-logser.realme.com
 iot-in-logser.realme.com
 iot-logser.realme.com
 bdapi-ads.realmemobile.com
-bdapi-id-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 data-in-ads.realmemobile.com
 ablink.em.redmart.com
