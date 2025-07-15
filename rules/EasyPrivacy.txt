@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VD+OkyIGP05Fz8HKXHCKrw
-! Version: 202507141611
+! Checksum: UOAWgeMsu4glTeNyWDHHBA
+! Version: 202507150231
 ! Title: EasyPrivacy
-! Last modified: 14 Jul 2025 16:11 UTC
+! Last modified: 15 Jul 2025 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8294,6 +8294,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||digimedia.com/pageviews.php?
+||digitaloceanspaces.com/pixel.min.js
 ||digitaloceanspaces.com/pixel/
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
@@ -8437,6 +8438,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
 ||experience.contextly.com^
+||experiments.parsely.com^
 ||extole.io/core.js
 ||extole.io^*/core.js
 ||ezoic.net/ezqlog?
@@ -9817,6 +9819,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tourradar.com/def/partner?$third-party
 ||tout.com/tracker.js
 ||tpx.tesseradigital.com^
+||tr-experiments.parsely.com^
 ||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
