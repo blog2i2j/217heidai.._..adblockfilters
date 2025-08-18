@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: p7DDkk3Lkift/v/Ou+2dZA
-! Version: 202508180811
+! Checksum: 7fJ40Isn1Bv/fT4PDaEukA
+! Version: 202508181701
 ! Title: EasyPrivacy
-! Last modified: 18 Aug 2025 08:11 UTC
+! Last modified: 18 Aug 2025 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1637,6 +1637,7 @@
 /owa.tracker-combined-min.js
 /oxAnalytics.js
 /p.gif?
+/p/tm.js?
 /page-addviews?
 /page-analytics.js
 /page-events/trackclick/*
@@ -5260,6 +5261,7 @@ omni.soundestlink.com$image
 ||openstat.net^$third-party
 ||opentracker.net^$third-party
 ||openvenue.com^$third-party
+||openweb.bid^$third-party
 ||oproi.com^$third-party
 ||opstag.com^$third-party
 ||optify.net^$third-party
@@ -7172,6 +7174,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pdmp.jp^$third-party
 ||performancefirst.jp^$third-party
 ||polymorphicads.jp^$third-party
+||pop.unitedgate.co.jp^$third-party
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$script,third-party
 ||rays-counter.com^$third-party
@@ -7192,6 +7195,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thesmilingpencils.com^$third-party
 ||trackfeed.com^$third-party
 ||uncn.jp^$third-party
+||valis-cpx.jp^$third-party
 ||viaklera.com^$third-party
 ||wonder-ma.com^$third-party
 ||woomy.me^$third-party
@@ -11219,6 +11223,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.spearly.com^
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
+||api.quantumgraph.com/web/cm/
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
 ||appront.net/click.js
 ||asumi.shinobi.jp^
@@ -11345,6 +11350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
+||tag.eisa.mercari.com^
 ||tag.flvcdn.net/lytag.js
 ||targeting.focas.jp^
 ||tetori-colorme.com/share/js/tracking.js
