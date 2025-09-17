@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250917002046
-# Last modified: 2025/09/17 00:20:46
-# Blocked domains: 6294
+# Version: 20250917144053
+# Last modified: 2025/09/17 14:40:53
+# Blocked domains: 6290
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -245,6 +245,7 @@ local=/tr.p.360.cn/
 local=/u.api.look.360.cn/
 local=/vconf.f.360.cn/
 local=/wan.360.cn/
+local=/ykapi.luyou.360.cn/
 local=/yule.360.com/
 local=/360ads.com/
 local=/360app.cn/
@@ -3189,7 +3190,6 @@ local=/cr.m.liebao.cn/
 local=/dl.liebao.cn/
 local=/j.wan.liebao.cn/
 local=/liebaovip.com/
-local=/juvacle.lihuazixun.cn/
 local=/linger-youtube.online/
 local=/ads.linkedin.cn/
 local=/linkhaitao.com/
@@ -3989,7 +3989,6 @@ local=/qooic.com/
 local=/log.qookkagames.com/
 local=/gvideo.qpic.cn/
 local=/mmgame.qpic.cn/
-local=/qpncx.cn/
 local=/act.qq.com/
 local=/ad.qq.com/
 local=/ad.weixin.qq.com/
@@ -4189,7 +4188,6 @@ local=/tracelog-debug.qquanquan.com/
 local=/img2.qqwangming6.com/
 local=/qqxi6.icu/
 local=/dpvc1.qqyy.com/
-local=/qsljw.cn/
 local=/f.qstatic.com/
 local=/qstzar.cn/
 local=/cruciical.qswenjx.cn/
@@ -4292,7 +4290,6 @@ local=/rmzbfum.cn/
 local=/tags.roberthalf.cn/
 local=/egwlnfujwi.robodelta.cn/
 local=/uwtmxlwqf.robodelta.cn/
-local=/zeiwzlaf.robodelta.cn/
 local=/a.rohde-schwarz.com.cn/
 local=/metrics.rolex.cn/
 local=/midas.rong360.com/
@@ -4960,7 +4957,6 @@ local=/tjqwb.cn/
 local=/tkfeyc.cn/
 local=/livetech.shopee.co.th.tlivecdn.com/
 local=/jx.tmall.com/
-local=/bvflxjoil.tncuio.cn/
 local=/tnfno.icu/
 local=/pxx.tnklrs.cn/
 local=/hbv.tobeacon.cn/
