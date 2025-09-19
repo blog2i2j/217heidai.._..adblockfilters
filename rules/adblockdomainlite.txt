@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250919054950
-! Last modified: 2025/09/19 05:49:50
-! Blocked domains: 6175
+! Version: 20250920071617
+! Last modified: 2025/09/20 07:16:17
+! Blocked domains: 6166
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -102,7 +102,6 @@ crash.163.com
 crashlytics.163.com
 du.163.com
 e-p4p.163.com
-fa.163.com
 fp-upload.dun.163.com
 g.163.com
 g1.163.com
@@ -609,7 +608,6 @@ report-north-america.agora.io
 report-oversea.agora.io
 report-oversea2.agora.io
 statscollector-1.agora.io
-statscollector-1-asia.agora.io
 statscollector-1-north-america.agora.io
 tracking.agora.io
 webcollector-rtm.agora.io
@@ -1508,7 +1506,6 @@ dashet.com
 gate.datacaciques.com
 pv.datacaciques.com
 datamaster.com.cn
-matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
 dazhantai.com
@@ -1788,7 +1785,6 @@ h-adashx.ut.ele.me
 newton-api.ele.me
 file.elecfans.com
 metrics.ellechina.com
-trk.elmorietschle.cn
 emarbox.com
 emknyoj.cn
 ename.com.cn
@@ -2032,7 +2028,6 @@ electronics.tradeshow.globalsources.com
 exhibition.edm.globalsources.com
 fashion.edm.globalsources.com
 fashion.tradeshow.globalsources.com
-goe.edm.globalsources.com
 gslive.edm.globalsources.com
 gsmatch.edm.globalsources.com
 gsol.edm.globalsources.com
@@ -2149,6 +2144,7 @@ share.gzdsw.com
 gzpinda.com
 gzqvd.cn
 gzzkjdam.cn
+h4k5.com
 bm.h576.com
 t.h5data.com
 h6295.com
@@ -2311,7 +2307,6 @@ gentian-frd.hjapi.com
 resu8.hjfile.cn
 hjpqt.cn
 hkeig.com
-hkho5p7.cn
 hlstlyy.com
 hly.com
 hlzyb.cn
@@ -2547,6 +2542,7 @@ ssp.indexmob.com
 inepost.top
 link.infineon.cn
 link.infineon.com
+reply.infineon.com
 ssgtm.infineon.com
 track-e.infineon.com
 trk.ingersollrandproducts.cn
@@ -2617,7 +2613,6 @@ yuedu.iqiyi.com
 m.iqiyipic.com
 trk.irco.com.cn
 am.g.ireader.com
-authority.iripsfx.cn
 irs03.com
 iscrv.com
 istartsurf.com
@@ -2717,7 +2712,6 @@ jeuqwv.cn
 jfqua.cn
 countrydom.jfuevalz.cn
 jg1668.com
-jggioc.cn
 api.jialiangad.com
 8961.jianbihua.com
 wj.jiancai365.cn
@@ -2932,7 +2926,6 @@ tddznew.ksapisrv.com
 tddzsrc.ksapisrv.com
 uget-log-sdk.ksapisrv.com
 ulog.ksapisrv.com
-ulog-sdk.ksapisrv.com
 ulog3.ksapisrv.com
 ulogjs.ksapisrv.com
 ulogs1.ksapisrv.com
@@ -3097,7 +3090,6 @@ lehaitv.com
 ads-api-o.api.leiniao.com
 euads-o.api.leiniao.com
 update.lejiao.tv
-adm.leju.com
 src.leju.com
 tongji.leju.com
 lejuliang.com
@@ -3606,6 +3598,7 @@ pdns.nudt.edu.cn
 synad2.nuffnang.com.cn
 c.nuhcpf.com
 log.nuomi.com
+ads.nuonuo.com
 metric.nuonuo.com
 promotionad.nvcam.net
 ad.nvdvr.cn
@@ -3734,7 +3727,6 @@ motherness.pgiyuwd.cn
 pgzs.com
 smetrics.marketing.lighting.philips.com.cn
 phormchina.com
-notb9gt.phruah.cn
 f1.pig66.com
 pincai.com
 adim.pinduoduo.com
@@ -3910,7 +3902,6 @@ qiyou.com
 8131.qizhihaotian.cn
 bd888.qizuang.com
 qktmwiq.cn
-qlaocny.cn
 q2.qlogo.cn
 qlrtpn.cn
 a6-remad.qm989.com
@@ -4554,6 +4545,7 @@ xls.go.sohu.com
 yule.sohu.com
 click.hd.sohu.com.cn
 pb.hd.sohu.com.cn
+643108e7617ef.cdn.sohucs.com
 e8aeb8bbdbbd7.cdn.sohucs.com
 smetrics.solidigmtech.com.cn
 smetrics.solidigmtechnology.cn
@@ -4785,7 +4777,6 @@ log.tec73.com
 1.tecbbs.com
 tongji.techweb.com.cn
 tecunonline.com
-tedbbb.cn
 teddymobile.cn
 telegram-bot-cloud.xyz
 telegramcn.co
@@ -4928,6 +4919,7 @@ traditionallyobjectlessblinked.com
 tradplus.cn
 tradplus.com
 tradplusad.com
+telemetry.trae.com.cn
 trafficjam.cn
 analysis.tratao.com
 trgtsq.cn
@@ -4955,6 +4947,7 @@ api.tusdk.com
 tutuapp.com
 smetrics.tuvsud.cn
 tuvtpxp.cn
+tuxi.com.cn
 tv-live.top
 appwall.tv2phone.cn
 tvabqt.cn
@@ -5406,7 +5399,6 @@ webdissector.com
 log.webnovel.com
 webterren.com
 log.wechatpay.cn
-event.stat.wedobest.com.cn
 dns.weibo.cn
 dp.im.weibo.cn
 gw5.push.mcp.weibo.cn
@@ -5773,7 +5765,6 @@ yaodaipeishi.cn
 cps.yaoqing.com
 yatemy.cn
 ybvehl.cn
-ycoam3t.cn
 ycsshb.cn
 kl.yditweb.cn
 adpublish.ydstatic.com
