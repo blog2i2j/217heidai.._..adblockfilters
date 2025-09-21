@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250921021652
-! Last modified: 2025/09/21 02:16:52
-! Blocked domains: 6160
+! Version: 20250921185850
+! Last modified: 2025/09/21 18:58:50
+! Blocked domains: 6171
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -102,6 +102,7 @@ crash.163.com
 crashlytics.163.com
 du.163.com
 e-p4p.163.com
+fa.163.com
 fp-upload.dun.163.com
 g.163.com
 g1.163.com
@@ -595,7 +596,6 @@ af6s.icu
 analytics.afirstsoft.cn
 app.aflink.com
 ad.aginomoto.com
-agmajm.cn
 data-reporting.agora.io
 logservice.agora.io
 logservice-rtm.agora.io
@@ -608,6 +608,7 @@ report-north-america.agora.io
 report-oversea.agora.io
 report-oversea2.agora.io
 statscollector-1.agora.io
+statscollector-1-asia.agora.io
 statscollector-1-north-america.agora.io
 tracking.agora.io
 webcollector-rtm.agora.io
@@ -643,7 +644,6 @@ hk-datareceiver.aki-game.net
 jp-datareceiver.aki-game.net
 us-datareceiver.aki-game.net
 ako.cc
-aktuaris.or.id
 smetrics.alfalaval.cn
 dsp.ali213.net
 web.ali213.net
@@ -794,7 +794,6 @@ anfeng.com
 anpu119.com
 anquan.org
 antarctic.com
-yyclz.anthropicbots.cn
 api.antibanads.com
 anysdk.com
 aoqinglv.cn
@@ -884,9 +883,6 @@ tjinit-global-register.babybus.com
 titan.babytree.com
 titan01.babytree.com
 tracking.babytree.com
-bafkreiahl67johqp4zzv67df6uaxaw7eapx5wsejzwbzqivcpli2q6sp3m.ipfs.dweb.link
-bafkreig4dfb2j6slv2ug5zmv3lgmsflh2xkxsc6uwh2by4jecanhiwzpym.ipfs.dweb.link
-bafkreihanifu2khj7ha5h2g5owjwegmmdrguna3zshetpdaqedtrshkkti.ipfs.dweb.link
 game.baichuanhd.cn
 advertise.baicizhan.com
 events.baicizhan.com
@@ -1506,6 +1502,7 @@ dashet.com
 gate.datacaciques.com
 pv.datacaciques.com
 datamaster.com.cn
+matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
 dazhantai.com
@@ -1987,6 +1984,7 @@ gdfp.gifshow.com
 log-sdk.gifshow.com
 ulog.gifshow.com
 ulog-sdk.gifshow.com
+ulog.v6.gifshow.com
 ulogjp.gifshow.com
 ulogjs.gifshow.com
 ulogko.gifshow.com
@@ -2110,6 +2108,7 @@ tianshu.gtimg.cn
 bla.gtimg.com
 ra.gtimg.com
 splashqqlive.gtimg.com
+tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 gtpxvpi.cn
@@ -2272,6 +2271,7 @@ hiido.com
 analytics.shop.hisense.com
 api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
+api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -3107,6 +3107,7 @@ fsr.lenovomm.com
 mb.lenovomm.com
 prw.lenovomm.com
 pushapi.lenovomm.com
+sdac.lenovomm.com
 susapi.lenovomm.com
 uss-pid.lenovomm.com
 lenzmx.com
@@ -3165,6 +3166,7 @@ lnk0.com
 lnk8.cn
 lockview.cn
 deeplink.locokids.cn
+logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 webanalytics.logitech.com.cn
 webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -3357,6 +3359,7 @@ api.aurogon.intl.miui.com
 api.bbs.miui.com
 api.browser.intl.miui.com
 api.brs.intl.miui.com
+api.calendar.intl.miui.com
 api.collect.data.intl.miui.com
 api.competition.intl.miui.com
 api.launcher.intl.miui.com
@@ -4194,7 +4197,6 @@ info.revvity.cn
 track.msadcenter.rfjq.com
 rh31.com
 rhinogo.cn
-rhinovate.tech
 rhohns.cn
 richh.cn
 ad.richmob.cn
@@ -4308,6 +4310,7 @@ jpaasne.e.shifen.com
 shijixinrui.cn
 shilian168.cn
 analysis.shixunsuda.com
+tracking.shopee.cn
 1.shopit.cn
 d1.showself.com
 shrrft.cn
@@ -4321,6 +4324,7 @@ shunxingmc.cn
 www.shuqw.com
 shuyu2001.cn
 shuzilm.cn
+ads-monitoring.shziyi.com
 sigmob.com
 sikncs.com
 simicloud.com
@@ -4406,6 +4410,7 @@ analytics.sixt.cn
 sjdfuvz.cn
 sjoy7rq.cn
 static.m.sjzhushou.com
+clog.skysrt.com
 fpa-cdn.slate.com
 slrqm.cn
 m.slshiye.cn
@@ -4458,6 +4463,7 @@ is.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
+log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
@@ -4513,6 +4519,7 @@ theta.sogoucdn.com
 ad.sohu.com
 ads.sohu.com
 api.danmu.tv.sohu.com
+api.tv.sohu.com
 assp.sohu.com
 bd.hd.sohu.com
 changyan.sohu.com
@@ -4780,7 +4787,6 @@ jpz.telegramn.com.cn
 telepzow.cn
 teleqpnm.cn
 go.telesafe.cn
-info.telesafe.cn
 apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
@@ -4949,7 +4955,6 @@ tvabqt.cn
 tvdpebx.cn
 md.tvzhe.com
 cs.twcczhu.com
-phloeise.twglcgf.cn
 tjpv.twh5.com
 twjsx.cn
 tb.code.twyxi.com
@@ -5187,6 +5192,7 @@ cname-de-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-err-up.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
@@ -5198,6 +5204,7 @@ co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 co-vcode-or.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
+de-gdpr-vcode-od.vivoglobal.com
 err-up.vivoglobal.com
 err.up.vivoglobal.com
 eu-domaincfg.vivoglobal.com
@@ -5207,6 +5214,7 @@ eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
+eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
 eu-vcode-api.vivoglobal.com
 eu-vcode-od.vivoglobal.com
@@ -5270,6 +5278,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -5317,6 +5326,7 @@ tr-ort-stsdk.vivoglobal.com
 tr-p.vivoglobal.com
 tr-romsp-unifyconfig.vivoglobal.com
 tr-st-sl.vivoglobal.com
+tr-stsdk.vivoglobal.com
 tr-timesync.vivoglobal.com
 tr-vcode-api.vivoglobal.com
 tr-vcode-od.vivoglobal.com
@@ -5325,7 +5335,6 @@ vlgkotr.cn
 vlion.cn
 vlnkvw.cn
 service.vmos.cn
-mfvrqa.vmrcl.cn
 vns01444.com
 vns10555.com
 vnuuh.icu
@@ -5347,7 +5356,6 @@ vpsgu.cn
 vrbrothers.com
 vsojfsoj.com
 vungle.cn
-vuukqn.cn
 oligsome.vvmkrse.cn
 bu1.vvvdj.com
 vxrdwo.cn
@@ -5363,6 +5371,7 @@ tongdun-fingerprint.walmartmobile.cn
 mlog.wangsu.com
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
+dlog.wanmei.com
 m.wantemachine.com.cn
 a.wanzhuang.com
 data.waptime.cn
@@ -5394,6 +5403,8 @@ webdissector.com
 log.webnovel.com
 webterren.com
 log.wechatpay.cn
+event.wedobest.com.cn
+event.stat.wedobest.com.cn
 dns.weibo.cn
 dp.im.weibo.cn
 gw5.push.mcp.weibo.cn
@@ -5509,7 +5520,6 @@ wy213.com
 polside.wywenho.cn
 a.wzu.com
 x-steam.com
-bvzpbwici.x393.cn
 xa7j.icu
 xbfk.cn
 xbtw.com
@@ -5530,7 +5540,6 @@ dt.xfyun.cn
 analytics.xgimi.com
 pics.xgo-img.com.cn
 stat.xgo.com.cn
-darkant.xgwenwn.cn
 xhkvff.cn
 ads-img-al.xhscdn.com
 ads-img-qc.xhscdn.com
@@ -5579,6 +5588,7 @@ data.mistat.intl.xiaomi.com
 de.pandora.xiaomi.com
 dvb.pandora.xiaomi.com
 global-ad-extranet-pri-azams.alb.xiaomi.com
+global-ad-extranet-pri-azpn.alb.xiaomi.com
 global-ad-intl-pri-alisgp.alb.xiaomi.com
 globalvideo.cdn.pandora.intl.xiaomi.com
 image.cdn.pandora.xiaomi.com
@@ -5760,7 +5770,6 @@ yangshengzu.cn
 yaodaipeishi.cn
 cps.yaoqing.com
 yatemy.cn
-ybvehl.cn
 ycsshb.cn
 kl.yditweb.cn
 adpublish.ydstatic.com
@@ -5883,6 +5892,7 @@ msg.youku.com
 myes.youku.com
 orange-dc.youku.com
 pcapp-data-collect.youku.com
+pis-tel-pcdn.youku.com
 player-lg.youku.com
 playlog.youku.com
 push.m.youku.com
@@ -5898,6 +5908,7 @@ ykad-gateway.youku.com
 ykrec.youku.com
 ykrectab.youku.com
 youku-crm-product.youku.com
+519332da.rtc.youme.im
 youmi.net
 report.ml.youngjoygame.com
 api.youngle.site
