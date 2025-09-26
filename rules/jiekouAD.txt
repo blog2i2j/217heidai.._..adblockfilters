@@ -1,11 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2025-09-07 22:58:01（北京时间）
-! Version: 20250907225801
-! Total Count: 5702
+! Update Time: 2025-09-26 15:38:47（北京时间）
+! Version: 20250926153847
+! Total Count: 5708
 ! by: 酷安@大萌主
 ! domain name
+||dwuupq.com^
+||tuobeng.net^
+||cekrfk.com^
+||r0l7cp.com^
+||nzl09251oa.com^
 ||vbc08111op.com^
 ||uuyeghhbdhyetghuj.top^
 ||datakkko.top^
@@ -4992,6 +4997,7 @@ bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.pa_sb
 cn.bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
 bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
