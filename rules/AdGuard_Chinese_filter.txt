@@ -1258,6 +1258,8 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+||litv.tv/library/comscore/
+litv.tv#%#//scriptlet('trusted-replace-fetch-response', '"PlayAds":true', '"PlayAds":false', 'api/get-urls')
 uaa.com#%#//scriptlet('trusted-set-local-storage-item', 'lastShowTime', '9999999999999')
 uaa.com##.shortcut_box
 ||luogu.me/static/anti_block.json
@@ -5313,6 +5315,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||nzl09270oa.com^
+||mfhxz0hz7.com^
+||r0eybo511.com^
+||twinkleop.com^
+||mwgooq.icu^
+||nx2ucbzw1.com^
+||ivhv.cn^
+||rwtezd.icu^
+||ivrokpyr.com^
 ||ttxjnt.icu^
 ||giwl0p3gx7.com^
 ||m6d3h9vc3z.com^
@@ -5325,6 +5336,8 @@ newduba.cn###jq_youxi
 ||ck4g3p2x92.com^
 ||nzl09261oa.com^
 ||fahwlqf37l.com^
+||pimuedrozt.com^
+||ewgu.cn^
 ||dfi09250kq.com^
 ||s72h7io4o.com^
 ||5mn041cdz.com^

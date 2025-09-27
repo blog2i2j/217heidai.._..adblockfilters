@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250926154838
-! Last modified: 2025/09/26 15:48:38
-! Blocked domains: 6099
+! Version: 20250927125635
+! Last modified: 2025/09/27 12:56:35
+! Blocked domains: 6098
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -607,7 +607,6 @@
 ||report-oversea.agora.io^
 ||report-oversea2.agora.io^
 ||statscollector-1.agora.io^
-||statscollector-1-asia.agora.io^
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
 ||webcollector-rtm.agora.io^
@@ -1609,6 +1608,7 @@
 ||vhs.wwstat.com.eo.dnse0.com^
 ||dnyzbp.cn^
 ||do-global.com^
+||stat.doc88.com^
 ||info.meihua.docer.com^
 ||zx.docin.com^
 ||doglobal.net^
@@ -1781,7 +1781,6 @@
 ||ad.entgroup.cn^
 ||js.entm.top^
 ||jquery.envi-met.com.cn^
-||eodybd.cn^
 ||eoyqzzk.cn^
 ||lib.eqh5.com^
 ||eavs02.eqifa.com^
@@ -4271,6 +4270,7 @@
 ||shijixinrui.cn^
 ||shilian168.cn^
 ||analysis.shixunsuda.com^
+||tracking.shopee.cn^
 ||1.shopit.cn^
 ||d1.showself.com^
 ||shrrft.cn^
@@ -4658,6 +4658,7 @@
 ||agoodm.m.taobao.com^
 ||ai.taobao.com^
 ||ai.m.taobao.com^
+||alimelog.taobao.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||audid-api.taobao.com^
@@ -4909,7 +4910,6 @@
 ||twjsx.cn^
 ||tb.code.twyxi.com^
 ||twzui6.com^
-||whatever.txkntml.cn^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
@@ -5302,7 +5302,6 @@
 ||executive.vxwenjq.cn^
 ||vytn.cn^
 ||vzvvifw.cn^
-||vigensive.w0aouys.cn^
 ||w59g.icu^
 ||w8.com.cn^
 ||w.waacorp.com^
@@ -5311,6 +5310,7 @@
 ||mlog.wangsu.com^
 ||analytics.wanmei.com^
 ||analytics-gw.games.wanmei.com^
+||dlog.wanmei.com^
 ||m.wantemachine.com.cn^
 ||a.wanzhuang.com^
 ||data.waptime.cn^
@@ -5679,7 +5679,6 @@
 ||xxxx68xxxx.com^
 ||xy.com^
 ||xycdn.com^
-||volaglass.xyutqzh.cn^
 ||a.xywy.com^
 ||bdmjs.xywy.com^
 ||stat.xywy.com^
@@ -5855,6 +5854,7 @@
 ||yoyi.tv^
 ||analysis.yozocloud.cn^
 ||ys630.com^
+||ad-material.ys7.com^
 ||log.ys7.com^
 ||seriesfaction.ysao3o8.cn^
 ||ysdqww.com^
@@ -6098,7 +6098,6 @@
 ||zxiws.cn^
 ||zxrcfw.com^
 ||zxrtb.com^
-||zxy33.cn^
 ||httpdns.zybang.com^
 ||zykwnj.cn^
 ||zyxyfy.com^

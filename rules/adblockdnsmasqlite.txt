@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250926154838
-# Last modified: 2025/09/26 15:48:38
-# Blocked domains: 6099
+# Version: 20250927125635
+# Last modified: 2025/09/27 12:56:35
+# Blocked domains: 6098
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -606,7 +606,6 @@ local=/report-north-america.agora.io/
 local=/report-oversea.agora.io/
 local=/report-oversea2.agora.io/
 local=/statscollector-1.agora.io/
-local=/statscollector-1-asia.agora.io/
 local=/statscollector-1-north-america.agora.io/
 local=/tracking.agora.io/
 local=/webcollector-rtm.agora.io/
@@ -1608,6 +1607,7 @@ local=/sp.dnqc.com/
 local=/vhs.wwstat.com.eo.dnse0.com/
 local=/dnyzbp.cn/
 local=/do-global.com/
+local=/stat.doc88.com/
 local=/info.meihua.docer.com/
 local=/zx.docin.com/
 local=/doglobal.net/
@@ -1780,7 +1780,6 @@ local=/kmr.enrosr.cn/
 local=/ad.entgroup.cn/
 local=/js.entm.top/
 local=/jquery.envi-met.com.cn/
-local=/eodybd.cn/
 local=/eoyqzzk.cn/
 local=/lib.eqh5.com/
 local=/eavs02.eqifa.com/
@@ -4270,6 +4269,7 @@ local=/jpaasne.e.shifen.com/
 local=/shijixinrui.cn/
 local=/shilian168.cn/
 local=/analysis.shixunsuda.com/
+local=/tracking.shopee.cn/
 local=/1.shopit.cn/
 local=/d1.showself.com/
 local=/shrrft.cn/
@@ -4657,6 +4657,7 @@ local=/adashxgc.ut.taobao.com/
 local=/agoodm.m.taobao.com/
 local=/ai.taobao.com/
 local=/ai.m.taobao.com/
+local=/alimelog.taobao.com/
 local=/amdc.m.taobao.com/
 local=/amdcopen.m.taobao.com/
 local=/audid-api.taobao.com/
@@ -4908,7 +4909,6 @@ local=/tjpv.twh5.com/
 local=/twjsx.cn/
 local=/tb.code.twyxi.com/
 local=/twzui6.com/
-local=/whatever.txkntml.cn/
 local=/livetech.shopee.co.id.txlivecdn.com/
 local=/livetech.shopee.co.th.txlivecdn.com/
 local=/livetech.shopee.vn.txlivecdn.com/
@@ -5301,7 +5301,6 @@ local=/vxrdwo.cn/
 local=/executive.vxwenjq.cn/
 local=/vytn.cn/
 local=/vzvvifw.cn/
-local=/vigensive.w0aouys.cn/
 local=/w59g.icu/
 local=/w8.com.cn/
 local=/w.waacorp.com/
@@ -5310,6 +5309,7 @@ local=/tongdun-fingerprint.walmartmobile.cn/
 local=/mlog.wangsu.com/
 local=/analytics.wanmei.com/
 local=/analytics-gw.games.wanmei.com/
+local=/dlog.wanmei.com/
 local=/m.wantemachine.com.cn/
 local=/a.wanzhuang.com/
 local=/data.waptime.cn/
@@ -5678,7 +5678,6 @@ local=/p2p-punch.xxpkg.com/
 local=/xxxx68xxxx.com/
 local=/xy.com/
 local=/xycdn.com/
-local=/volaglass.xyutqzh.cn/
 local=/a.xywy.com/
 local=/bdmjs.xywy.com/
 local=/stat.xywy.com/
@@ -5854,6 +5853,7 @@ local=/youzu.com/
 local=/yoyi.tv/
 local=/analysis.yozocloud.cn/
 local=/ys630.com/
+local=/ad-material.ys7.com/
 local=/log.ys7.com/
 local=/seriesfaction.ysao3o8.cn/
 local=/ysdqww.com/
@@ -6097,7 +6097,6 @@ local=/5mm.zxfw5.cn/
 local=/zxiws.cn/
 local=/zxrcfw.com/
 local=/zxrtb.com/
-local=/zxy33.cn/
 local=/httpdns.zybang.com/
 local=/zykwnj.cn/
 local=/zyxyfy.com/
