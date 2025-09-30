@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250930055842
-# Last modified: 2025/09/30 05:58:42
-# Blocked domains: 6107
+# Version: 20250930191401
+# Last modified: 2025/09/30 19:14:01
+# Blocked domains: 6099
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -1613,7 +1613,6 @@ local=/zx.docin.com/
 local=/doczj.com/
 local=/doglobal.net/
 local=/ads.doit.com.cn/
-local=/dolzsr.cn/
 local=/go.domino.com.cn/
 local=/domob.cn/
 local=/domob.com.cn/
@@ -2024,7 +2023,6 @@ local=/sensorsdata.glowapp.vip/
 local=/l.glrcy.cn/
 local=/glwxw.net/
 local=/gmanhua.com/
-local=/gmilku.cn/
 local=/cpux.gmud.top/
 local=/ad.gmw.cn/
 local=/channel-analysis-js.gmw.cn/
@@ -3688,7 +3686,6 @@ local=/pepsico.com.cn/
 local=/plumness.pfuibxzr.cn/
 local=/partyitor.pfuuegvw.cn/
 local=/pg2bk.icu/
-local=/motherness.pgiyuwd.cn/
 local=/pgzs.com/
 local=/smetrics.marketing.lighting.philips.com.cn/
 local=/phormchina.com/
@@ -3733,7 +3730,6 @@ local=/log.cs.pp.cn/
 local=/patriot.cs.pp.cn/
 local=/server.m.pp.cn/
 local=/pp5200.com/
-local=/ppc078a.cn/
 local=/ppedp.cn/
 local=/asimgs.pplive.cn/
 local=/ads.data.pplive.com/
@@ -4234,7 +4230,6 @@ local=/scjpqut.cn/
 local=/sckfcn.cn/
 local=/statscollector.sd-rtn.com/
 local=/sd6hon.cn/
-local=/sdmibv.cn/
 local=/adrs.sdo.com/
 local=/dwtracking.sdo.com/
 local=/reportsk.web.sdo.com/
@@ -4392,7 +4387,6 @@ local=/form-submission-workspace.ajo-stage.srv.smart.com/
 local=/raffle-entry.info.smart.com/
 local=/smetrics.future.smart.com/
 local=/sms.info.smart.com/
-local=/tracking.smobird.cc/
 local=/smpkw.com/
 local=/smucdn.com/
 local=/analytics-api.smzdm.com/
@@ -4839,7 +4833,6 @@ local=/ato.tooopen.com/
 local=/toponad.com/
 local=/topsem.com/
 local=/static.topxgun.com/
-local=/yodobashi-numer.tostog.cn/
 local=/api.touchxd.com/
 local=/touclick.com/
 local=/toushibao.com/
@@ -6061,7 +6054,6 @@ local=/r.zlongad.com/
 local=/s.zlongad.com/
 local=/zmdesf.cn/
 local=/zmhqhuq.cn/
-local=/resoacard-furti.zmtne.cn/
 local=/p.zol-img.com.cn/
 local=/pic.zol-img.com.cn/
 local=/cpro.zol.com.cn/
