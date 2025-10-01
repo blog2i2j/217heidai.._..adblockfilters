@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251001082520
-! Last modified: 2025/10/01 08:25:20
-! Blocked domains: 6091
+! Version: 20251001235116
+! Last modified: 2025/10/01 23:51:16
+! Blocked domains: 6075
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -236,7 +236,6 @@ tr.p.360.cn
 u.api.look.360.cn
 vconf.f.360.cn
 wan.360.cn
-ykapi.luyou.360.cn
 yule.360.com
 360ads.com
 360app.cn
@@ -485,6 +484,7 @@ web.900.la
 bcs.91.com
 www.91.com
 zs.91.com
+cpt.9136.com
 new.915yzt.cn
 m.91heima.cn
 t.91syun.com
@@ -912,6 +912,7 @@ cdn-haokanapk.baidu.com
 click.bes.baidu.com
 cm.baidu.com
 collector.dcdn.baidu.com
+console.bce.baidu.com
 cpro.baidu.com
 cpro.zhidao.baidu.com
 cpu.baidu.com
@@ -959,6 +960,7 @@ itsdata.map.baidu.com
 kstj.baidu.com
 libs.baidu.com
 log.music.baidu.com
+login.bce.baidu.com
 luimg.baidu.com
 m1.baidu.com
 miao.baidu.com
@@ -968,7 +970,6 @@ mipengine.baidu.com
 mo.baidu.com
 mobads.baidu.com
 mobads-logs.baidu.com
-mobile-global.baidu.com
 mountain.zhidao.baidu.com
 mscbos.baidu.com
 msite.baidu.com
@@ -1149,7 +1150,6 @@ bluemountcapital.cn
 license.bluesoleil.com
 license2.bluesoleil.com
 images.bluetime.com
-bmlink.com
 as.boc.cn
 jf365.boc.cn
 www.bodog.eu
@@ -1295,7 +1295,6 @@ same.chinadaily.com.cn
 usercollection.chinadaily.com.cn
 sdkoptedge.chinanetcenter.com
 adq.chinaso.com
-chinaxinge.com
 a2put.chinaz.com
 stats.chinaz.com
 chinemiss.com
@@ -1610,7 +1609,6 @@ do-global.com
 stat.doc88.com
 info.meihua.docer.com
 zx.docin.com
-doczj.com
 doglobal.net
 ads.doit.com.cn
 go.domino.com.cn
@@ -1734,14 +1732,12 @@ eccki.cn
 eclicks.cn
 ecudsc.cn
 eddcc.icu
-flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 pdfworknew-6d9lnfzqgb.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
 webjolsksdjdhfurieowpdddjcnbvm-l91qjpjscw.edgeone.app
 webmail-ahu9fi8hu2.edgeone.app
 webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
-weerrtyy-i4on0bpgim.edgeone.app
 ediuschina.com
 eexlgyn.cn
 eeyy.com
@@ -1865,7 +1861,6 @@ api-flow.flyme.cn
 bro.flyme.cn
 t-e.flyme.cn
 t-flow.flyme.cn
-log-auth.flysleep.cn
 data.fnexpress.cn
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
@@ -1951,7 +1946,6 @@ getui.cn
 getui.com
 gymnitor.gewenzj.cn
 biz.gexing.com
-gezila.com
 gggfjeiijw.cn
 zxcs.ggwan.com
 jy.ggweb.net
@@ -3168,7 +3162,6 @@ lyszsz.cn
 lyua.cn
 lywdoo.cn
 ggle.lywf.me
-lywww.com
 mlog.m1905.cn
 counter.m1905.com
 m.m216j.cn
@@ -3328,7 +3321,6 @@ api.aurogon.intl.miui.com
 api.bbs.miui.com
 api.browser.intl.miui.com
 api.brs.intl.miui.com
-api.calendar.intl.miui.com
 api.collect.data.intl.miui.com
 api.competition.intl.miui.com
 api.launcher.intl.miui.com
@@ -3364,7 +3356,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -3645,7 +3636,6 @@ vip.panggugu.com
 api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
-pansoso.com
 panyh123456.cn
 papapa.tv
 passionsex.vip
@@ -3707,7 +3697,6 @@ specaneous.pjaonhl.cn
 pjcqzm.cn
 pkjl00l.cn
 pkoplink.com
-ichthy.pkwenuk.cn
 placidocn.com
 open.play.cn
 res.play700.com
@@ -4141,7 +4130,6 @@ data-in-ads.realmemobile.com
 redlk.com
 ablink.em.redmart.com
 a8cv.jp.redodopower.com
-redshu.com
 news.reedexpo.com.cn
 solutions.refinitiv.cn
 www2.info.renesas.cn
@@ -4260,7 +4248,6 @@ jpaasne.e.shifen.com
 shijixinrui.cn
 shilian168.cn
 analysis.shixunsuda.com
-tracking.shopee.cn
 1.shopit.cn
 d1.showself.com
 shrrft.cn
@@ -5191,7 +5178,6 @@ kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-romsp-unifyconfig.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
-kz-st-sl.vivoglobal.com
 kz-stsdk.vivoglobal.com
 kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
@@ -5299,7 +5285,6 @@ tongdun-fingerprint.walmartmobile.cn
 mlog.wangsu.com
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
-dlog.wanmei.com
 m.wantemachine.com.cn
 a.wanzhuang.com
 data.waptime.cn
@@ -5676,7 +5661,6 @@ stat.xywy.com
 stat-y.xywy.com
 stat-z.xywy.com
 cp.xz6.com
-xz7.com
 xzorci.cn
 bmjs.xzw.com
 y0764.cn
@@ -5699,6 +5683,7 @@ ycsshb.cn
 kl.yditweb.cn
 adpublish.ydstatic.com
 oimagea2.ydstatic.com
+bdm.ye-su.cn
 ir.mail.yeah.net
 ncz.yeepay.com
 a.yellowurl.cn
@@ -5949,7 +5934,6 @@ cnt.zhaopin.com
 mg09.zhaopin.com
 slotabrosdev.zharev.com
 slotabrosuat.zharev.com
-zhcw.com
 cdnlog.zhenai.com
 1.zhev.com.cn
 zhidian3g.cn
