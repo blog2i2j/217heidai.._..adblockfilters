@@ -641,8 +641,9 @@ slashlook.com#$#body.modal-open { padding-right: 0!important; overflow: visible!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/21669
 ! https://github.com/AdguardTeam/AdguardFilters/issues/21072
 ! https://github.com/AdguardTeam/AdguardFilters/issues/15480
+4gtv.tv#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 @@||service.4gtv.tv/4gtv/Data/GetAD.ashx
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=4gtv.tv
 ||vast.doublemax.net/adserver/vast.xml$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
@@ -3038,6 +3039,7 @@ $$script:contains(/document\.write[^|&%$#@!]{0,400}:8007"\+"\/cc\//)
 ! Periodically updated, so placed in this filter
 .com:8007/sc/*?n=$third-party,script
 ! Chinese online books
+! Site with mirrors: https://cxysb.com/
 ! https://m.xddxsw.net/723/723946/7041611.html
 ! Examples:
 ! - https://241028z.1iuh5l.com:9001/sc/1028?n=llvukcwa
@@ -3049,6 +3051,7 @@ $$script:contains(/document\.write[^|&%$#@!]{0,400}:8007"\+"\/cc\//)
 ! - https://241028z.1iuh5l.com:9001/sc/1028?n=llvukcwa
 ! - https://246xgtyyh.frify.xyz:9369/hm/6?x=u46hl2p1sb&r=0&t=2sb3yi92g9&v=2
 ! - wss://17667nwyoht.rpwvu.xyz:2919/6637?x=a3iuljp50h&r=2&t=u50zxjo55k&v=2
+$$div[style="display: none !important; width: 1px"]:contains(ed2k://)
 $$script:contains(?is_not=1&target=1&ty=2)
 ##div[style^="position:fixed; bottom:0vw; left:"][style$="vw;background: #000;opacity:0.01;"]
 /^(https|ws|wss):\/\/[a-z0-9]+\.[a-z0-9]+\.[a-z]{2,3}:\d{1,6}\/([a-z]{1,3}\/){0,1}\d+\?[a-z]+=[a-z0-9]+($|&)/$script,websocket,third-party
@@ -5321,6 +5324,18 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||sz2xlvu6jq.com^
+||saptuqse29.com^
+||hlj10020ip.com^
+||mnkusi.icu^
+||iauw.cn^
+||discards55.com^
+||rnxhdv.icu^
+||trundrak.com^
+||p7d3miyh2q.com^
+||hlj10021ip.com^
+||qj9m4nou8t.com^
+||deemainunh.com^
 ||a2424xe80.com^
 ||ddrqd9eox.com^
 ||hlj10010ip.com^
@@ -13722,6 +13737,7 @@ meijutt.*/js/pcjs/
 ||lancdn.com/public/images/view/Tencent-
 ||5dm.link/htm1/$image
 ||cdxyspa.com/js/e
+||layuion.com/get/showcase/
 zhihu.com##.Pc-word-new
 ydwgame.net###float_mask
 ydwgame.net###diy3
@@ -18998,6 +19014,7 @@ wantgoo.com##div[type="adv"]
 zuoye.baidu.com##dl[class="card related"]
 douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
+douyin.com#?#.discover-video-card-item:-abp-has(>div>div>span:-abp-contains(广告))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])

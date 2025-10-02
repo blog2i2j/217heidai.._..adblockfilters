@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251001235116
-# Last modified: 2025/10/01 23:51:16
-# Blocked domains: 6075
+# Version: 20251003072400
+# Last modified: 2025/10/03 07:24:00
+# Blocked domains: 6067
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -152,7 +152,6 @@ local=/1rtb.com/
 local=/1rtb.net/
 local=/1s8pj.cn/
 local=/1sapp.com/
-local=/www.1ting.com/
 local=/1uo9djbnsr.com/
 local=/phylacfication.1vaozxr.cn/
 local=/1wkg.cn/
@@ -422,7 +421,6 @@ local=/6789.net/
 local=/67it.com/
 local=/68287zubo85737.com/
 local=/www.6998cdn.com/
-local=/mostization.6aao4y2.cn/
 local=/6ft8a.icu/
 local=/6gute.icu/
 local=/6hejing.cn/
@@ -609,7 +607,6 @@ local=/report-north-america.agora.io/
 local=/report-oversea.agora.io/
 local=/report-oversea2.agora.io/
 local=/statscollector-1.agora.io/
-local=/statscollector-1-asia.agora.io/
 local=/statscollector-1-north-america.agora.io/
 local=/tracking.agora.io/
 local=/webcollector-rtm.agora.io/
@@ -1732,7 +1729,6 @@ local=/eccki.cn/
 local=/eclicks.cn/
 local=/ecudsc.cn/
 local=/eddcc.icu/
-local=/pdfworknew-6d9lnfzqgb.edgeone.app/
 local=/sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app/
 local=/webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app/
 local=/webjolsksdjdhfurieowpdddjcnbvm-l91qjpjscw.edgeone.app/
@@ -1909,7 +1905,6 @@ local=/xyoss.g.com.cn/
 local=/r01.g1c5.com/
 local=/g41i.icu/
 local=/ky.g66667777.com/
-local=/gaikpqk.cn/
 local=/gainifyads.com/
 local=/fc.gaizong.cn/
 local=/tg.game2.cn/
@@ -4250,7 +4245,6 @@ local=/shilian168.cn/
 local=/analysis.shixunsuda.com/
 local=/1.shopit.cn/
 local=/d1.showself.com/
-local=/shrrft.cn/
 local=/shtatuo.cn/
 local=/1178.shucong.com/
 local=/shudi8.com/
@@ -4326,7 +4320,6 @@ local=/saxn.sina.com.cn/
 local=/saxs.sina.com.cn/
 local=/sbeacon.sina.com.cn/
 local=/slog.sina.com.cn/
-local=/woocall.sina.com.cn/
 local=/pfp.sina.net/
 local=/ad.us.sinaimg.cn/
 local=/d1.sinaimg.cn/
@@ -5111,7 +5104,6 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
-local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
 local=/co-ort-stsdk.vivoglobal.com/
