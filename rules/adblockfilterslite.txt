@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20251005073856
-! Last modified: 2025/10/05 07:38:56
-! Blocked Filters: 42443
+! Version: 20251005160756
+! Last modified: 2025/10/05 16:07:56
+! Blocked Filters: 42446
 !
 ###AC_ad
 ###AD_160
@@ -27385,6 +27385,7 @@ androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androiddevtools.cn###auto-scroll-ad-box
 androidheadlines.com,dailyveganmeal.com,discussingfilm.net,gcaptain.com,mp1st.com,thedebrief.org,unofficialnetworks.com##.adthrive
 androidinfotech.com,thomasmaurer.ch##.sidebar > #custom_html-3
+androidmagazine.eu,samsungmagazine.eu##.lsads-banner
 androidpctv.com,brigantinenow.com,downbeachbuzz.com,thecatholictravelguide.com##.widget_sp_image
 androidpit.it,androidpit.com.br##.bannerSidebar
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.adsninja-ad-zone-container-with-set-height
@@ -33783,6 +33784,7 @@ multporn.net,xrule34.com##.region-content > .block:has(> .content:only-child > i
 mumayi.com##.clientBox
 mumayi.com##.h80
 mummumtime.com,downloader.is##body > .slideout-overlay + div[id][class*=" "]
+mumu*.com/js/cdn.js$~third-party
 mumu.163.com##.pic-con
 music.wandhi.com##.google-auto-placed
 musictimes.com,sciencetimes.com,techtimes.com##.ad_wrapper_video
@@ -41256,6 +41258,7 @@ zzzyk.com###Tinfo
 ||qidou.com^$third-party
 ||qilanxiaozhu.*/data/attachment/portal/
 ||qinbing.cn/data/upload/ueditor/
+||qingqingxs.*/static/xbiquge/js/wap.
 ||qingqingxs.*/static/xbiquge/wap.js
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qiuyi.cn/Baojian/
