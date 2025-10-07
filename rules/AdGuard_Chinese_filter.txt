@@ -325,10 +325,6 @@ xchina.co#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'check')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/191724
 @@/js/adview_*.adsbygoogle.js$~third-party,domain=letv8.cc|zhibo1.cc
 letv8.cc,zhibo1.cc#%#//scriptlet('trusted-set-constant', 'adsv', '"Y"')
-! https://github.com/AdguardTeam/AdguardFilters/issues/189087
-hmanga.world#%#//scriptlet('prevent-fetch', 'method:HEAD')
-!+ PLATFORM(ios, ext_android_cb)
-@@||hdbkell.com/xv8ip.js$domain=hmanga.world
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183017
 fsbot.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
@@ -4768,7 +4764,6 @@ newduba.cn###jq_youxi
 ##.apd-footer
 ##.apd-home
 ##.apd-right
-##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
 ##.archive > a[ontouchstart="this.click();"]
 ##.area > .tuiguang
@@ -5301,9 +5296,10 @@ newduba.cn###jq_youxi
 ###index_banner[src*=".imgdd.com"]
 ###ad-float.kyty
 ##.banner-adv-new
+##.m0auto > div:not([class]):not([id]) > div > .swiper-initialized
+##.grid > .m0auto > div > .grid + div:not([class]):not([id])
 ##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
-##.relative > div > img[sizes="100vh"][width="0"]
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ###banner_links.banner-container
 ##.a-media.ex-728-90
@@ -5333,6 +5329,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||nvxq.cn^
+||m1jm3nzf2.com^
+||javdtezk7.com^
+||kpapyw.icu^
+||hlj10070ip.com^
+||anode67.top^
+||wzvaknomh.com^
+||1jlp1qbgu.com^
+||hlj10071ip.com^
+||u7ugo0jr3.com^
+||xpncjj.icu^
 ||steamers77.com^
 ||hlj10060ip.com^
 ||meimpheaea.com^
@@ -21523,7 +21530,9 @@ yydstxt*.com/js/cdn.
 ||banzhu33333.net/js/html
 ||djdedu.net/static/*.gif
 ||28lu.net^*/0
+||28lu.net^*/1
 ||wodeshucheng.com^*/0
+||wodeshucheng.com^*/1
 ||xiguasuwu.com/static/m.
 ||biqgg.com/n.
 ||biqgg.com/w.
