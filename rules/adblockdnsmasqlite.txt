@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251009012237
-# Last modified: 2025/10/09 01:22:37
-# Blocked domains: 6049
+# Version: 20251010055711
+# Last modified: 2025/10/10 05:57:11
+# Blocked domains: 6043
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -772,7 +772,6 @@ local=/dualstack-logs.amap.com/
 local=/h-adashx.ut.amap.com/
 local=/logs.amap.com/
 local=/optimus-ads.amap.com/
-local=/advertising.amazon.cn/
 local=/amazoni2.com/
 local=/log.amemv.com/
 local=/log0-misc-alinc2.amemv.com/
@@ -1927,7 +1926,6 @@ local=/static.gaomaer.cn/
 local=/img.gaore.com/
 local=/gaoshouyou.com/
 local=/trk.gardnerdenver.com.cn/
-local=/gazxurg.cn/
 local=/gbsp002.com/
 local=/gdtimg.com/
 local=/gdyjs.com/
@@ -2697,7 +2695,6 @@ local=/h5.jiumaster.com/
 local=/jiuyuntian3.cn/
 local=/analytics.jiuzhilan.com/
 local=/app.jiuzhilan.com/
-local=/stat.m.jj.cn/
 local=/jj123.com.cn/
 local=/img.jjiv.top/
 local=/jjjcyjj.cn/
@@ -3121,7 +3118,6 @@ local=/lnk0.com/
 local=/lnk8.cn/
 local=/lockview.cn/
 local=/deeplink.locokids.cn/
-local=/logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn/
 local=/webanalytics.logitech.com.cn/
 local=/webtarget.logitech.com.cn/
 local=/webanalytics.logitechg.com.cn/
@@ -3256,7 +3252,6 @@ local=/mgzjin.cn/
 local=/mhwy6.icu/
 local=/resolver.gslb.mi-idc.com/
 local=/ad.mi.com/
-local=/adx.tv.mi.com/
 local=/api.jr.mi.com/
 local=/d.g.mi.com/
 local=/e.mi.com/
@@ -5088,7 +5083,6 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
-local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
 local=/co-ort-stsdk.vivoglobal.com/
@@ -5111,7 +5105,6 @@ local=/eu-ort-stsdk.vivoglobal.com/
 local=/eu-p.vivoglobal.com/
 local=/eu-romsp-unifyconfig.vivoglobal.com/
 local=/eu-st-sl.vivoglobal.com/
-local=/eu-stsdk.vivoglobal.com/
 local=/eu-timesync.vivoglobal.com/
 local=/eu-vcode-api.vivoglobal.com/
 local=/eu-vcode-od.vivoglobal.com/
@@ -5227,6 +5220,7 @@ local=/tr-timesync.vivoglobal.com/
 local=/tr-vcode-api.vivoglobal.com/
 local=/tr-vcode-od.vivoglobal.com/
 local=/tr-vcode-or.vivoglobal.com/
+local=/zasc-vcode-od.vivoglobal.com/
 local=/vlgkotr.cn/
 local=/vlion.cn/
 local=/service.vmos.cn/
