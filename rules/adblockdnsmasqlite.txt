@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251012191051
-# Last modified: 2025/10/12 19:10:51
-# Blocked domains: 6027
+# Version: 20251013050953
+# Last modified: 2025/10/13 05:09:53
+# Blocked domains: 6032
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -908,7 +908,6 @@ local=/cdn-haokanapk.baidu.com/
 local=/click.bes.baidu.com/
 local=/cm.baidu.com/
 local=/collector.dcdn.baidu.com/
-local=/console.bce.baidu.com/
 local=/cpro.baidu.com/
 local=/cpro.zhidao.baidu.com/
 local=/cpu.baidu.com/
@@ -956,7 +955,6 @@ local=/itsdata.map.baidu.com/
 local=/kstj.baidu.com/
 local=/libs.baidu.com/
 local=/log.music.baidu.com/
-local=/login.bce.baidu.com/
 local=/luimg.baidu.com/
 local=/m1.baidu.com/
 local=/miao.baidu.com/
@@ -2065,6 +2063,7 @@ local=/tianshu.gtimg.cn/
 local=/bla.gtimg.com/
 local=/ra.gtimg.com/
 local=/splashqqlive.gtimg.com/
+local=/tui.gtimg.com/
 local=/vmat.gtimg.com/
 local=/wa.gtimg.com/
 local=/gtpxvpi.cn/
@@ -2226,6 +2225,7 @@ local=/hiido.com/
 local=/analytics.shop.hisense.com/
 local=/api-4know-em.hismarttv.com/
 local=/api-4know-eu.hismarttv.com/
+local=/api-cloudfalcon.hismarttv.com/
 local=/api-gps.hismarttv.com/
 local=/api-gps-em.hismarttv.com/
 local=/api-gps-eu.hismarttv.com/
@@ -3949,6 +3949,7 @@ local=/report.gamecenter.qq.com/
 local=/report.imtt.qq.com/
 local=/report.kg.qq.com/
 local=/report.nfa.qq.com/
+local=/report.qcloudcdn.qq.com/
 local=/report.qqweb.qq.com/
 local=/report.syzs.qq.com/
 local=/report.trade.weixin.qq.com/
@@ -4364,6 +4365,7 @@ local=/is.snssdk.com/
 local=/lianmengapi.snssdk.com/
 local=/log.snssdk.com/
 local=/log-hl.snssdk.com/
+local=/log-lf.snssdk.com/
 local=/log-lq.snssdk.com/
 local=/mcs.snssdk.com/
 local=/mercury-sdk.snssdk.com/
@@ -4420,6 +4422,7 @@ local=/888.tv.sohu.com/
 local=/ad.sohu.com/
 local=/ads.sohu.com/
 local=/api.danmu.tv.sohu.com/
+local=/api.tv.sohu.com/
 local=/assp.sohu.com/
 local=/bd.hd.sohu.com/
 local=/changyan.sohu.com/
@@ -5072,6 +5075,7 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
+local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
 local=/co-ort-stsdk.vivoglobal.com/
@@ -5243,6 +5247,7 @@ local=/tongdun-fingerprint.walmartmobile.cn/
 local=/mlog.wangsu.com/
 local=/analytics.wanmei.com/
 local=/analytics-gw.games.wanmei.com/
+local=/dlog.wanmei.com/
 local=/m.wantemachine.com.cn/
 local=/a.wanzhuang.com/
 local=/data.waptime.cn/
