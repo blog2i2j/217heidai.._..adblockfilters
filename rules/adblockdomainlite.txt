@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251013174553
-! Last modified: 2025/10/13 17:45:53
-! Blocked domains: 6031
+! Version: 20251014124728
+! Last modified: 2025/10/14 12:47:28
+! Blocked domains: 6038
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -605,6 +605,7 @@ report-north-america.agora.io
 report-oversea.agora.io
 report-oversea2.agora.io
 statscollector-1.agora.io
+statscollector-1-asia.agora.io
 statscollector-1-north-america.agora.io
 tracking.agora.io
 webcollector-rtm.agora.io
@@ -1332,7 +1333,6 @@ log-api.cli.im
 clicki.cn
 app.clickmobi.cn
 log-sdk.clickwifi.net
-7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -2235,6 +2235,7 @@ api-launcher-em.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
 api-launcher-sa.hismarttv.com
+api-vidaaasst.hismarttv.com
 api.eu.hismarttv.com
 auth-em.hismarttv.com
 auth-eu.hismarttv.com
@@ -3112,6 +3113,7 @@ lnk0.com
 lnk8.cn
 lockview.cn
 deeplink.locokids.cn
+logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 webanalytics.logitech.com.cn
 webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -3298,6 +3300,7 @@ api.aurogon.intl.miui.com
 api.bbs.miui.com
 api.browser.intl.miui.com
 api.brs.intl.miui.com
+api.calendar.intl.miui.com
 api.collect.data.intl.miui.com
 api.competition.intl.miui.com
 api.launcher.intl.miui.com
@@ -3592,6 +3595,7 @@ at-af.outfit7.com
 bidder.dsp.outfit7.com
 cdn.outfit7.com
 cdn-gcs.outfit7.com
+events-api-ak.outfit7.com
 hb-af-us-central1.outfit7.com
 ouyaoxiazai.com
 ov8ct.icu
@@ -3617,7 +3621,6 @@ papapa.tv
 passionsex.vip
 bt1.patexplorer.com
 pbaiyho.cn
-pbghgb8.cn
 ipad.pc899.cn
 count.pcauto.com.cn
 counter.pcauto.com.cn
@@ -4327,8 +4330,6 @@ image-ad.sm.cn
 log.m.sm.cn
 sugs.m.sm.cn
 video-ad.sm.cn
-data.aftersales.smart.com
-data.ajo-dev.notifications.future.smart.com
 data.ajo-dev.srv.smart.com
 data.dev-notifications.future.smart.com
 data.marketing.smart.com
@@ -5077,6 +5078,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-err-up.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
@@ -5091,6 +5093,7 @@ de-gdpr-err-up.vivoglobal.com
 de-gdpr-vcode-od.vivoglobal.com
 err-up.vivoglobal.com
 err.up.vivoglobal.com
+eu-album-api.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
@@ -5098,6 +5101,7 @@ eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
+eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
 eu-vcode-api.vivoglobal.com
 eu-vcode-od.vivoglobal.com
@@ -5120,6 +5124,7 @@ in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com
 in-ctdbpnrt-stsdk.vivoglobal.com
+in-ctdbprt-stsdk.vivoglobal.com
 in-domaincfg.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
@@ -5142,7 +5147,9 @@ kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-romsp-unifyconfig.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
+kz-st-sl.vivoglobal.com
 kz-stsdk.vivoglobal.com
+kz-timesync.vivoglobal.com
 kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
@@ -5161,6 +5168,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -5390,7 +5398,6 @@ vhs.wwstat.com
 wxdgut.cn
 wxdqgmr.cn
 wy213.com
-polside.wywenho.cn
 a.wzu.com
 x-steam.com
 xa7j.icu
