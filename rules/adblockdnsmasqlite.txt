@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251017134052
-# Last modified: 2025/10/17 13:40:52
-# Blocked domains: 6011
+# Version: 20251018150234
+# Last modified: 2025/10/18 15:02:34
+# Blocked domains: 6007
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -768,6 +768,7 @@ local=/dualstack-logs.amap.com/
 local=/h-adashx.ut.amap.com/
 local=/logs.amap.com/
 local=/optimus-ads.amap.com/
+local=/advertising.amazon.cn/
 local=/amazoni2.com/
 local=/log.amemv.com/
 local=/log0-misc-alinc2.amemv.com/
@@ -979,6 +980,7 @@ local=/paimgcdn-feed.baidu.com/
 local=/pimlog.baidu.com/
 local=/plugin.mobopay.baidu.com/
 local=/pos.baidu.com/
+local=/publish-pic-cpu.baidu.com/
 local=/pups.baidu.com/
 local=/qapm.baidu.com/
 local=/qianclick.baidu.com/
@@ -2656,7 +2658,6 @@ local=/jdnlynb.cn/
 local=/jdpm.net.cn/
 local=/pic.jdunion.com/
 local=/jesgoo.com/
-local=/jeuqwv.cn/
 local=/jg1668.com/
 local=/api.jialiangad.com/
 local=/8961.jianbihua.com/
@@ -3758,7 +3759,6 @@ local=/e-tax-celer.qerdocb.cn/
 local=/qfnoyix.cn/
 local=/qgg7e.icu/
 local=/qguwoq.cn/
-local=/m-sbisec.qhddjzs.cn/
 local=/sbisec-jp.qhddjzs.cn/
 local=/qhicumg.cn/
 local=/jspassport.ssl.qhimg.com/
@@ -4135,7 +4135,6 @@ local=/abc.ruodian360.com/
 local=/rvbztg.cn/
 local=/rvyjbwr.cn/
 local=/rvzlobj.cn/
-local=/rwsignal.com/
 local=/rxys.cn/
 local=/rz261.cn/
 local=/rzsgxmm.cn/
@@ -4207,7 +4206,6 @@ local=/jpaasne.e.shifen.com/
 local=/shijixinrui.cn/
 local=/shilian168.cn/
 local=/analysis.shixunsuda.com/
-local=/tracking.shopee.cn/
 local=/1.shopit.cn/
 local=/d1.showself.com/
 local=/shtatuo.cn/
@@ -4769,6 +4767,7 @@ local=/sky.tongjiai.com/
 local=/ato.tooopen.com/
 local=/toponad.com/
 local=/topsem.com/
+local=/static.topxgun.com/
 local=/api.touchxd.com/
 local=/touclick.com/
 local=/toushibao.com/
@@ -5059,7 +5058,6 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
-local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
 local=/co-ort-stsdk.vivoglobal.com/
@@ -5389,7 +5387,6 @@ local=/analytics2.xdiarys.com/
 local=/xdrig.com/
 local=/sensors.h5.xed.plus/
 local=/xftsjv.top/
-local=/processious.xfuiiqvw.cn/
 local=/dt.xfyun.cn/
 local=/analytics.xgimi.com/
 local=/pics.xgo-img.com.cn/
@@ -5770,7 +5767,6 @@ local=/analysis.yozocloud.cn/
 local=/ys630.com/
 local=/ad-material.ys7.com/
 local=/log.ys7.com/
-local=/seriesfaction.ysao3o8.cn/
 local=/ysdqww.com/
 local=/ysjwj.com/
 local=/www.yuanchengxiezuo.com/
