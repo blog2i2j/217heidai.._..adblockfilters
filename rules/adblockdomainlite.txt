@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251021073525
-! Last modified: 2025/10/21 07:35:25
-! Blocked domains: 6016
+! Version: 20251022073446
+! Last modified: 2025/10/22 07:34:46
+! Blocked domains: 6015
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -162,6 +162,7 @@ www.20171117.com
 ssp.21ic.com
 tj.21ic.com
 222aa333bb.com
+228tuchuang.com
 2345.cn
 2345.com
 www.2345at.com
@@ -234,7 +235,6 @@ tr.p.360.cn
 u.api.look.360.cn
 vconf.f.360.cn
 wan.360.cn
-ykapi.luyou.360.cn
 yule.360.com
 360ads.com
 360app.cn
@@ -351,6 +351,7 @@ go.5211game.com
 52pk.com
 adm.52swine.com
 slzs.52xiyou.com
+api.52youtu.com
 52z.com
 a.52zxw.com
 53kf.com
@@ -565,7 +566,7 @@ adquan.com
 adreal.cn
 ads-go.adroi.com.cn
 ads360.cn
-www.adsage.cn
+adsage.cn
 adsaide.cn
 adsame.com
 adsmogo.com
@@ -1787,6 +1788,7 @@ excsyrv.cn
 exevcl.cn
 ad.exyws.org
 veepai-device-log.eye4.cn
+qp.ezfxpuo.cn
 g.f11w.com
 sccdn.f2zd.com
 g.f5gh.com
@@ -2025,6 +2027,7 @@ s0-2mdn-net.l.google.com
 ssl-google-analytics.l.google.com
 static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
 id.google.ru
 googleadservices-cn.com
 googleadservices.com
@@ -2314,6 +2317,7 @@ hsrgnac.cn
 hstpnetwork.com
 g.hsw.cn
 hswfj.cn
+hsych.com
 ht55.cn
 hthvc.icu
 httpdns.pro
@@ -2489,7 +2493,6 @@ dlres.ind9ed.com
 ssp.indexmob.com
 inepost.top
 link.infineon.cn
-go.infineon.com
 link.infineon.com
 reply.infineon.com
 ssgtm.infineon.com
@@ -3295,7 +3298,6 @@ api.aurogon.intl.miui.com
 api.bbs.miui.com
 api.browser.intl.miui.com
 api.brs.intl.miui.com
-api.calendar.intl.miui.com
 api.collect.data.intl.miui.com
 api.competition.intl.miui.com
 api.launcher.intl.miui.com
@@ -3495,6 +3497,7 @@ ggdm1.nhaidu.net
 nhjsw.cn
 nimaxrv.cn
 ninebox.cn
+down.nishuoa.com
 nisihu.com.cn
 nithisp.cn
 taobao.niucha.ren
@@ -3643,7 +3646,6 @@ pmm.people.com.cn
 a1.peoplecdn.cn
 pepnsnq.cn
 pepsico.com.cn
-partyitor.pfuuegvw.cn
 pg2bk.icu
 pgzs.com
 smetrics.marketing.lighting.philips.com.cn
@@ -3803,7 +3805,6 @@ data.video.qiyi.com
 meta.video.qiyi.com
 msg.video.qiyi.com
 msg2.video.qiyi.com
-static.qiyi.com
 mall0.qiyipic.com
 paopao0.qiyipic.com
 paopao1.qiyipic.com
@@ -4413,7 +4414,6 @@ theta.sogoucdn.com
 ad.sohu.com
 ads.sohu.com
 api.danmu.tv.sohu.com
-api.tv.sohu.com
 assp.sohu.com
 bd.hd.sohu.com
 changyan.sohu.com
@@ -4906,7 +4906,6 @@ px-intl.ucweb.com
 rescn.u3.ucweb.com
 safe.ucweb.com
 sea.napi.ucweb.com
-slot.union.ucweb.com
 uc.ucweb.com
 uc9.ucweb.com
 ucads.ucweb.com
@@ -5067,6 +5066,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-err-up.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
@@ -5390,7 +5390,6 @@ jcmonitor.xcar.com.cn
 pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
-analytics.xdiarys.com
 analytics1.xdiarys.com
 analytics2.xdiarys.com
 xdrig.com
@@ -5444,7 +5443,6 @@ cdn.fds.api.xiaomi.com
 cnbj1.fds.api.xiaomi.com
 controller.india.xiaomi.com
 data.game.xiaomi.com
-data.mistat.xiaomi.com
 data.mistat.intl.xiaomi.com
 de.pandora.xiaomi.com
 dvb.pandora.xiaomi.com
@@ -5776,6 +5774,7 @@ yoyi.tv
 analysis.yozocloud.cn
 ys630.com
 ad-material.ys7.com
+log.ys7.com
 ysdqww.com
 ysjwj.com
 www.yuanchengxiezuo.com
