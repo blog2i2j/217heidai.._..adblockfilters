@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251023083947
-! Last modified: 2025/10/23 08:39:47
-! Blocked domains: 6006
+! Version: 20251024085718
+! Last modified: 2025/10/24 08:57:18
+! Blocked domains: 5995
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -585,7 +585,6 @@ adwetec.com
 adwo.com
 adxmi.com
 api.adxpand.com
-monitor.adxsenmeng.com
 adxvip.com
 track.adxwork.com
 adyun.com
@@ -614,7 +613,6 @@ a1.aichagu.com
 brc.aigrammar.net
 brc2.aigrammar.net
 aihaoduo.cn
-www.aihuishou.com
 aili.com
 atiws.aipai.com
 mlog.aipai.com
@@ -980,7 +978,6 @@ paimgcdn-feed.baidu.com
 pimlog.baidu.com
 plugin.mobopay.baidu.com
 pos.baidu.com
-publish-pic-cpu.baidu.com
 pups.baidu.com
 qapm.baidu.com
 qianclick.baidu.com
@@ -1786,6 +1783,7 @@ excsyrv.cn
 exevcl.cn
 ad.exyws.org
 veepai-device-log.eye4.cn
+qp.ezfxpuo.cn
 g.f11w.com
 sccdn.f2zd.com
 g.f5gh.com
@@ -2063,7 +2061,6 @@ tianshu.gtimg.cn
 bla.gtimg.com
 ra.gtimg.com
 splashqqlive.gtimg.com
-tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 gtpxvpi.cn
@@ -2311,6 +2308,7 @@ hsrgnac.cn
 hstpnetwork.com
 g.hsw.cn
 hswfj.cn
+hsych.com
 ht55.cn
 hthvc.icu
 httpdns.pro
@@ -3326,7 +3324,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -4133,7 +4130,6 @@ rvzlobj.cn
 rxys.cn
 rz261.cn
 rzsgxmm.cn
-s11.cn
 g.s8dj.com
 sacre.cn
 404.safedog.cn
@@ -4347,7 +4343,6 @@ is.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
-log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
@@ -4504,7 +4499,6 @@ analytics.sve.cc
 api.sve.cc
 api.taboola.sve.cc
 svvbrkk.cn
-fr.swissquote.cn
 cdn0.sxhjty.cn
 sxk9m8x.cn
 sxundrh.cn
@@ -5071,7 +5065,6 @@ de-gdpr-err-up.vivoglobal.com
 de-gdpr-vcode-od.vivoglobal.com
 err-up.vivoglobal.com
 err.up.vivoglobal.com
-eu-album-api.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
@@ -5079,7 +5072,6 @@ eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
-eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
 eu-vcode-api.vivoglobal.com
 eu-vcode-od.vivoglobal.com
@@ -5125,7 +5117,6 @@ kz-ort-stsdk.vivoglobal.com
 kz-romsp-unifyconfig.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
-kz-timesync.vivoglobal.com
 kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
@@ -5144,7 +5135,6 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
-pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -5764,8 +5754,8 @@ wenxue.youzhicn.com
 youzu.com
 yoyi.tv
 analysis.yozocloud.cn
-ys630.com
 ad-material.ys7.com
+log.ys7.com
 ysdqww.com
 ysjwj.com
 www.yuanchengxiezuo.com
@@ -5887,7 +5877,6 @@ t.zhipin.com
 zhisuyunonline.cn
 zhiziyun.com
 w11.zhongkaohelp.com
-zhongkaowu.com
 www.zhongmin.cn
 zhongsijiacheng.com
 zhongwangmy.cn
