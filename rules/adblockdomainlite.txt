@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251102125624
-! Last modified: 2025/11/02 12:56:24
-! Blocked domains: 5973
+! Version: 20251103002832
+! Last modified: 2025/11/03 00:28:32
+! Blocked domains: 5972
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -161,7 +161,6 @@ www.20171117.com
 ssp.21ic.com
 tj.21ic.com
 222aa333bb.com
-228tuchuang.com
 2345.cn
 2345.com
 www.2345at.com
@@ -348,7 +347,6 @@ game.51yund.com
 52pk.com
 adm.52swine.com
 slzs.52xiyou.com
-api.52youtu.com
 52z.com
 a.52zxw.com
 53kf.com
@@ -562,7 +560,7 @@ adquan.com
 adreal.cn
 ads-go.adroi.com.cn
 ads360.cn
-adsage.cn
+www.adsage.cn
 adsaide.cn
 adsame.com
 adsmogo.com
@@ -1754,7 +1752,6 @@ brc.englishtimes.cc
 eap.enorth.com.cn
 eap.big5.enorth.com.cn
 kmr.enrosr.cn
-ad.entgroup.cn
 js.entm.top
 jquery.envi-met.com.cn
 eoyqzzk.cn
@@ -1776,7 +1773,6 @@ excsyrv.cn
 exevcl.cn
 ad.exyws.org
 veepai-device-log.eye4.cn
-qp.ezfxpuo.cn
 g.f11w.com
 sccdn.f2zd.com
 g.f5gh.com
@@ -2014,7 +2010,6 @@ s0-2mdn-net.l.google.com
 ssl-google-analytics.l.google.com
 static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
 id.google.ru
 googleadservices-cn.com
 googleadservices.com
@@ -2054,6 +2049,7 @@ tianshu.gtimg.cn
 bla.gtimg.com
 ra.gtimg.com
 splashqqlive.gtimg.com
+tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 gtpxvpi.cn
@@ -2299,7 +2295,6 @@ hsrgnac.cn
 hstpnetwork.com
 g.hsw.cn
 hswfj.cn
-hsych.com
 ht55.cn
 hthvc.icu
 httpdns.pro
@@ -3115,6 +3110,7 @@ www.lx167.com
 analytics.ly200.com
 lydownload.net
 lyf.com
+lyin.xyz
 lyszsz.cn
 lyua.cn
 lywdoo.cn
@@ -3311,6 +3307,7 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
+pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -3473,7 +3470,6 @@ ggdm1.nhaidu.net
 nhjsw.cn
 nimaxrv.cn
 ninebox.cn
-down.nishuoa.com
 nisihu.com.cn
 nithisp.cn
 taobao.niucha.ren
@@ -4032,7 +4028,6 @@ a.qunzou.com
 ad.quwin.cn
 vn-ebay.quxlpuj.cn
 zzy1.quyaoya.com
-api.qvpublish.com
 qwer220.cn
 u.qxen.com
 api.ts.feedback.qy.net
@@ -4326,6 +4321,7 @@ is.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
+log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
@@ -4811,7 +4807,6 @@ tb.code.twyxi.com
 twzui6.com
 livetech.shopee.co.id.txlivecdn.com
 livetech.shopee.co.th.txlivecdn.com
-livetech.shopee.vn.txlivecdn.com
 txscn.cn
 m.txtxr.com
 u.txuesoft.cn
@@ -4872,6 +4867,7 @@ px-intl.ucweb.com
 rescn.u3.ucweb.com
 safe.ucweb.com
 sea.napi.ucweb.com
+slot.union.ucweb.com
 uc.ucweb.com
 uc9.ucweb.com
 ucads.ucweb.com
@@ -5031,6 +5027,7 @@ cname-asia-stsdk09.vivoglobal.com
 cname-de-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
@@ -5077,6 +5074,7 @@ in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com
 in-ctdbpnrt-stsdk.vivoglobal.com
+in-ctdbprt-stsdk.vivoglobal.com
 in-domaincfg.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
@@ -5118,6 +5116,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -5408,6 +5407,7 @@ cdn.fds.api.xiaomi.com
 cnbj1.fds.api.xiaomi.com
 controller.india.xiaomi.com
 data.game.xiaomi.com
+data.mistat.xiaomi.com
 data.mistat.intl.xiaomi.com
 de.pandora.xiaomi.com
 dvb.pandora.xiaomi.com
@@ -5736,7 +5736,6 @@ youzu.com
 yoyi.tv
 analysis.yozocloud.cn
 ad-material.ys7.com
-log.ys7.com
 ysdqww.com
 ysjwj.com
 www.yuanchengxiezuo.com
