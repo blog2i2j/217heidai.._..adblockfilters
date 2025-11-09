@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251109072513
-# Last modified: 2025/11/09 07:25:13
-# Blocked domains: 7129
+# Version: 20251109173336
+# Last modified: 2025/11/09 17:33:36
+# Blocked domains: 7123
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -516,6 +516,7 @@ DOMAIN-SUFFIX,www.805m.com
 DOMAIN-SUFFIX,80vn.cn
 DOMAIN-SUFFIX,m1.81312.com
 DOMAIN-SUFFIX,8181zx.com
+DOMAIN-SUFFIX,8684.com
 DOMAIN-SUFFIX,88362zubo95838.com
 DOMAIN-SUFFIX,888abc333abc.com
 DOMAIN-SUFFIX,888bb555ww.com
@@ -1380,7 +1381,6 @@ DOMAIN-SUFFIX,bj5iodzgyi.com
 DOMAIN-SUFFIX,as.bjmama.net
 DOMAIN-SUFFIX,bjmantis.net
 DOMAIN-SUFFIX,bjxcredit.cn
-DOMAIN-SUFFIX,www3-vpass.bkogd.cn
 DOMAIN-SUFFIX,file.blackint3.com
 DOMAIN-SUFFIX,adimage.blm.net
 DOMAIN-SUFFIX,blsenpg.cn
@@ -2762,7 +2762,6 @@ DOMAIN-SUFFIX,stat.house365.com
 DOMAIN-SUFFIX,abtest-api-data-sg.hoyoverse.com
 DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,bh3-sdk-os-static.hoyoverse.com
 DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
@@ -3233,7 +3232,6 @@ DOMAIN-SUFFIX,jlifm.org.cn
 DOMAIN-SUFFIX,ad-track.jmedium.cn
 DOMAIN-SUFFIX,jmgehn.cn
 DOMAIN-SUFFIX,www.jmine.cn
-DOMAIN-SUFFIX,jncaofb.cn
 DOMAIN-SUFFIX,ub1.job592.com
 DOMAIN-SUFFIX,yqg.jobui.com
 DOMAIN-SUFFIX,jojog.com
@@ -3594,7 +3592,6 @@ DOMAIN-SUFFIX,cdn1.lbesec.com
 DOMAIN-SUFFIX,pscdn1.lbesec.com
 DOMAIN-SUFFIX,lccfjszp.cn
 DOMAIN-SUFFIX,test-perfops.ldgslb.com
-DOMAIN-SUFFIX,www3-vpass.ldkls.cn
 DOMAIN-SUFFIX,adabdapi.ldmnq.com
 DOMAIN-SUFFIX,apien.ldmnq.com
 DOMAIN-SUFFIX,mnqlog.ldmnq.com
@@ -4177,7 +4174,6 @@ DOMAIN-SUFFIX,njzyjy.cn
 DOMAIN-SUFFIX,nkscdn.com
 DOMAIN-SUFFIX,nlyuuy.cn
 DOMAIN-SUFFIX,nmgyllh.cn
-DOMAIN-SUFFIX,www-sbisec-co-jp.nmgymx.com
 DOMAIN-SUFFIX,nmntgd.cn
 DOMAIN-SUFFIX,nmrdnqn.cn
 DOMAIN-SUFFIX,jaccs-boxate.nnalyw.cn
@@ -4792,7 +4788,6 @@ DOMAIN-SUFFIX,qsng.cn
 DOMAIN-SUFFIX,f.qstatic.com
 DOMAIN-SUFFIX,qstzar.cn
 DOMAIN-SUFFIX,smbc-co-jp.qtevy.cn
-DOMAIN-SUFFIX,www-smbc-co.qtevy.cn
 DOMAIN-SUFFIX,www-smbc-jp.qtevy.cn
 DOMAIN-SUFFIX,ad-cdn.qtfm.cn
 DOMAIN-SUFFIX,adlaunch.qtfm.cn
@@ -5096,7 +5091,6 @@ DOMAIN-SUFFIX,ad3.sina.com.cn
 DOMAIN-SUFFIX,ad4.sina.com.cn
 DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
-DOMAIN-SUFFIX,ads3.cj.sina.com.cn
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,counter.sina.com.cn
 DOMAIN-SUFFIX,cpoml.iask.sina.com.cn
@@ -6616,7 +6610,6 @@ DOMAIN-SUFFIX,xs7.com
 DOMAIN-SUFFIX,bchina-1.xsfaya.com
 DOMAIN-SUFFIX,xshellcn.com
 DOMAIN-SUFFIX,rdbd.xsread.com
-DOMAIN-SUFFIX,xtrfr.com
 DOMAIN-SUFFIX,a.xue126.com
 DOMAIN-SUFFIX,xueaaaw.cn
 DOMAIN-SUFFIX,t1.xuefen.com.cn
@@ -6942,6 +6935,7 @@ DOMAIN-SUFFIX,xue.zbyw.cn
 DOMAIN-SUFFIX,m.zdjgj.cn
 DOMAIN-SUFFIX,s2.zdmimg.com
 DOMAIN-SUFFIX,s3.zdmimg.com
+DOMAIN-SUFFIX,sentry-monitor-new.zdmimg.com
 DOMAIN-SUFFIX,zegarkirepliki.pl
 DOMAIN-SUFFIX,analytics-dev.whoami.ecp.zenlayer.net
 DOMAIN-SUFFIX,ad-cross-aws.whoami.zenlink.net
