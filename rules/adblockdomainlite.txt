@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251110171937
-! Last modified: 2025/11/10 17:19:37
-! Blocked domains: 7125
+! Version: 20251111163436
+! Last modified: 2025/11/11 16:34:36
+! Blocked domains: 7128
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -823,7 +823,6 @@ badding.oss-ap-southeast-1.aliyuncs.com
 beacon-api.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 chaoku.oss-cn-chengdu.aliyuncs.com
-cknd8dw8eg-default-cn.rum.aliyuncs.com
 cloudauth.aliyuncs.com
 commondata.oss-cn-hangzhou.aliyuncs.com
 coocentpromotion.oss-us-west-1.aliyuncs.com
@@ -1776,7 +1775,6 @@ ctrmi.com
 ctwfan.cn
 ads.cup.com.cn
 switch.cup.com.cn
-cveprws.cn
 myou.cvte.com
 z1.cwbaike.com
 cx0001.cn
@@ -2513,6 +2511,7 @@ tianshu.gtimg.cn
 bla.gtimg.com
 ra.gtimg.com
 splashqqlive.gtimg.com
+tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 gtpxvpi.cn
@@ -2587,6 +2586,7 @@ hapying.com
 hashnest.com
 a.hbf23.cn
 img1.hblds.com
+sensorsdata.hbooker.com
 hbqabbg.cn
 hbzhenquan.cn
 hcbmq.cn
@@ -2696,6 +2696,7 @@ analytics.shop.hisense.com
 ad-cmp.hismarttv.com
 api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
+api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -3302,7 +3303,6 @@ p.kf3msfm.com
 ssp1.kfadx.tech
 j.kfd3sm2c.com
 mail.kguapp.com
-khjzaz.cn
 kingdeecn.cn
 abroad-ad.kingsoft-office-service.com
 cloudservice13.kingsoft-office-service.com
@@ -3694,6 +3694,7 @@ lockview.cn
 deeplink.locokids.cn
 affiliate.loctek.com
 ad.lofter.com
+logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 webanalytics.logitech.com.cn
 webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -4667,7 +4668,6 @@ mtrace.qq.com
 oimsgad.qq.com
 omgid.qq.com
 omgmta1.qq.com
-openmsf.3g.qq.com
 p.store.qq.com
 p2p.qq.com
 p2pupdate.gamedl.qq.com
@@ -4757,6 +4757,7 @@ uu.qq.com
 video.dispatch.tc.qq.com
 vlive.qqvideo.tc.qq.com
 vmindhls.tc.qq.com
+vpic.video.qq.com
 w.inews.qq.com
 wns.qq.com
 wnsmusic.qq.com
@@ -5214,6 +5215,7 @@ learning.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
+log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
@@ -5281,6 +5283,7 @@ ad.sohu.com
 ads.sohu.com
 api.danmu.tv.sohu.com
 api.k.sohu.com
+api.tv.sohu.com
 assp.sohu.com
 bd.hd.sohu.com
 changyan.sohu.com
@@ -5346,6 +5349,7 @@ sscefsol.com
 show.ssports.com
 ad-union.ssread.cn
 stargame.com
+stat-nba.com
 staticfile.net
 staticfile.org
 trackmarketing.staubli.cn
@@ -6024,6 +6028,7 @@ cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
@@ -6400,7 +6405,6 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
 analytics1.xdiarys.com
-analytics2.xdiarys.com
 xdrig.com
 sensors.h5.xed.plus
 sensors.xeknow.com
@@ -6728,7 +6732,6 @@ yiqifa.com
 11.yiqig.cn
 m.baidu.com.yiqisee.cn
 yiranxian.cn
-pamzqm.yitechnology.com
 yitongwl.cn
 info.yitsoftware.com
 yiwk.com
