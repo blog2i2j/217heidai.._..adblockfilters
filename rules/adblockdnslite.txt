@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251111163435
-! Last modified: 2025/11/11 16:34:35
-! Blocked domains: 7128
+! Version: 20251113000713
+! Last modified: 2025/11/13 00:07:13
+! Blocked domains: 7110
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -156,6 +156,7 @@
 ||s.17173cdn.com^
 ||trk1.17admob.com^
 ||17kxgame.com^
+||t.17track.net^
 ||17u.cn^
 ||vstlog.17usoft.com^
 ||st.19mi.net^
@@ -807,7 +808,6 @@
 ||osfota.cdn.aliyun.com^
 ||promotion.aliyun.com^
 ||7vyou.oss-cn-shenzhen.aliyuncs.com^
-||ac9olrggo8-default-cn.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -942,7 +942,6 @@
 ||appuu.cn^
 ||track-ger.aqara.com^
 ||pay.aqiu6.com^
-||mastercard-rhizat.aqssw.cn^
 ||www3-vpass.aqzmp.cn^
 ||stat.armvm.com^
 ||a.armystar.com^
@@ -2041,7 +2040,6 @@
 ||dspunion.com^
 ||analytics.dsyqt.com^
 ||dt0j.icu^
-||www3-vpass.dtlxi.cn^
 ||dtsxn.cn^
 ||duapp.com^
 ||duapps.com^
@@ -2260,6 +2258,7 @@
 ||fjshxjs.cn^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||datareport.fkw.com^
 ||flash.cn^
 ||flashjoin.net^
 ||bd1.flfgw.cn^
@@ -2321,7 +2320,6 @@
 ||trk.futureelectronics.cn^
 ||fwmbjrl.cn^
 ||down.fwqlt.com^
-||fwtd.cn^
 ||ad.fx168api.com^
 ||dms.fx678.com^
 ||www3-vpass-jp.fxiyy.cn^
@@ -2512,7 +2510,6 @@
 ||bla.gtimg.com^
 ||ra.gtimg.com^
 ||splashqqlive.gtimg.com^
-||tui.gtimg.com^
 ||vmat.gtimg.com^
 ||wa.gtimg.com^
 ||gtpxvpi.cn^
@@ -2587,7 +2584,6 @@
 ||hashnest.com^
 ||a.hbf23.cn^
 ||img1.hblds.com^
-||sensorsdata.hbooker.com^
 ||hbqabbg.cn^
 ||hbzhenquan.cn^
 ||hcbmq.cn^
@@ -2697,7 +2693,6 @@
 ||ad-cmp.hismarttv.com^
 ||api-4know-em.hismarttv.com^
 ||api-4know-eu.hismarttv.com^
-||api-cloudfalcon.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -3282,7 +3277,6 @@
 ||smart-789.kakamobi.cn^
 ||js.kalvinbg.cn^
 ||cps.kaola.com^
-||data.kaoyany.top^
 ||smetrics.karcher.cn^
 ||www3-vpass.kczag.cn^
 ||kdcxhr.cn^
@@ -3329,7 +3323,6 @@
 ||ss.knet.cn^
 ||knliylh.cn^
 ||ofkqiy.knowfashionstyle.com^
-||kokojia.com^
 ||kolhudg.cn^
 ||info.kollmorgen.cn^
 ||kolsh.cn^
@@ -3695,7 +3688,6 @@
 ||deeplink.locokids.cn^
 ||affiliate.loctek.com^
 ||ad.lofter.com^
-||logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn^
 ||webanalytics.logitech.com.cn^
 ||webtarget.logitech.com.cn^
 ||webanalytics.logitechg.com.cn^
@@ -3710,7 +3702,7 @@
 ||lrswl.com^
 ||a1.lshou.com^
 ||lshuaibin.cn^
-||apse.s.ludashi.com^
+||ludashi.com^
 ||metrics.lululemon.cn^
 ||smetrics.lululemon.cn^
 ||logs.luojilab.com^
@@ -3979,7 +3971,6 @@
 ||metok.sys.miui.com^
 ||mqs-log.miui.com^
 ||notify.sec.miui.com^
-||pmir.sec.miui.com^
 ||port.sec.miui.com^
 ||port.sec.intl.miui.com^
 ||protect.dev.sec.intl.miui.com^
@@ -4427,7 +4418,6 @@
 ||ptmabek.cn^
 ||ptmind.com^
 ||smbc-co-jp.ptoxy.cn^
-||www-smbc-co.ptoxy.cn^
 ||pufhzpt.cn^
 ||pulton.info^
 ||pig.pupuapi.com^
@@ -4861,7 +4851,6 @@
 ||hades.qyer.com^
 ||z4yp9a.qygs08.cn^
 ||u1.qyxxpd.com^
-||qzg81kw.cn^
 ||v11-reading-ad.qznovelvod.com^
 ||v26-reading-ad.qznovelvod.com^
 ||v3-reading-ad.qznovelvod.com^
@@ -5216,7 +5205,6 @@
 ||lianmengapi.snssdk.com^
 ||log.snssdk.com^
 ||log-hl.snssdk.com^
-||log-lf.snssdk.com^
 ||log-lq.snssdk.com^
 ||mcs.snssdk.com^
 ||mercury-sdk.snssdk.com^
@@ -5284,7 +5272,6 @@
 ||ads.sohu.com^
 ||api.danmu.tv.sohu.com^
 ||api.k.sohu.com^
-||api.tv.sohu.com^
 ||assp.sohu.com^
 ||bd.hd.sohu.com^
 ||changyan.sohu.com^
@@ -5656,7 +5643,6 @@
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
 ||gjh9v.tianshilv.cn^
-||fz.tiansys.cn^
 ||adx-bid.tianzhuobj.com^
 ||tiexing.com^
 ||smetrics.tiffany.cn^
@@ -5774,7 +5760,6 @@
 ||twzui6.com^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
-||livetech.shopee.vn.txlivecdn.com^
 ||m.txtxr.com^
 ||u.txuesoft.cn^
 ||tyawwj.cn^
@@ -6029,7 +6014,6 @@
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
-||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
 ||co-ort-stsdk.vivoglobal.com^
@@ -6120,7 +6104,6 @@
 ||mx-vcode-od.vivoglobal.com^
 ||mx-vcode-or.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
-||pnrt-stsdk.vivoglobal.com^
 ||ro-up.vivoglobal.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
@@ -6855,6 +6838,7 @@
 ||youzu.com^
 ||yoyi.tv^
 ||analysis.yozocloud.cn^
+||ys630.com^
 ||ad-material.ys7.com^
 ||adx.ys7.com^
 ||stats.ys7.com^
@@ -6882,7 +6866,6 @@
 ||adsclick.yx.js.cn^
 ||www.yx3377.com^
 ||tg.yxdou.com^
-||qiniuyunxz.yxflzs.com^
 ||yxgfcj.com^
 ||ad.a.yximgs.com^
 ||ali-ad.a.yximgs.com^
@@ -7091,7 +7074,6 @@
 ||zoosnet.net^
 ||zoossoft.net^
 ||www-sbisec-co-jp.zpyffund.com^
-||zqvhr.cn^
 ||zsjxwj.com^
 ||steam.zssjsq.com^
 ||zsyj.com.cn^
