@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251113000713
-! Last modified: 2025/11/13 00:07:13
-! Blocked domains: 7110
+! Version: 20251114155617
+! Last modified: 2025/11/14 15:56:17
+! Blocked domains: 7091
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -145,8 +145,6 @@
 ||ac.dun.163yun.com^
 ||ye.dun.163yun.com^
 ||165tchuang.com^
-||advertisement.1688.com^
-||analytics-mind.1688.com^
 ||dj.1688.com^
 ||dmtracking.1688.com^
 ||match.p4p.1688.com^
@@ -156,7 +154,6 @@
 ||s.17173cdn.com^
 ||trk1.17admob.com^
 ||17kxgame.com^
-||t.17track.net^
 ||17u.cn^
 ||vstlog.17usoft.com^
 ||st.19mi.net^
@@ -599,7 +596,6 @@
 ||ads.activepower.net^
 ||ad-plus.cn^
 ||ad-scope.com.cn^
-||ad01.trafficmanager.net^
 ||ad7.com^
 ||adanxing.com^
 ||adbana.com^
@@ -672,13 +668,11 @@
 ||report-oversea.agora.io^
 ||report-oversea2.agora.io^
 ||statscollector-1.agora.io^
-||statscollector-1-asia.agora.io^
 ||statscollector-1-europe.agora.io^
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
 ||webcollector-rtm.agora.io^
 ||ahov1.top^
-||aicvstudy.com^
 ||brc.aigrammar.net^
 ||brc2.aigrammar.net^
 ||aihaoduo.cn^
@@ -942,7 +936,6 @@
 ||appuu.cn^
 ||track-ger.aqara.com^
 ||pay.aqiu6.com^
-||www3-vpass.aqzmp.cn^
 ||stat.armvm.com^
 ||a.armystar.com^
 ||trk.arozone.cn^
@@ -1803,7 +1796,6 @@
 ||daeis.cn^
 ||dagwi.cn^
 ||daiitmk.cn^
-||ad.daimatu.cn^
 ||daliantong.com.cn^
 ||api-user.dalyfeds.com^
 ||cicd-release-api.dalyfeds.com^
@@ -2449,7 +2441,6 @@
 ||gmsys.cn^
 ||gmtbc.cn^
 ||gmtpq.cn^
-||gmtqp.cn^
 ||cpux.gmud.top^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
@@ -2871,7 +2862,6 @@
 ||udblog.huya.com^
 ||va.huya.com^
 ||ylog.huya.com^
-||hwrqj.cn^
 ||hypers.com^
 ||t.hypers.com.cn^
 ||clientlognew.hzage.cn^
@@ -2881,7 +2871,6 @@
 ||adashx.ut.hzshudian.com^
 ||h-adashx.ut.hzshudian.com^
 ||glxccx.hztaida.cn^
-||ad.hzyoka.com^
 ||ad-collect.hzyoka.com^
 ||hzyxd.cn^
 ||i-click.com^
@@ -2948,7 +2937,6 @@
 ||fpbone.ihowguide.com^
 ||ihtqqws.cn^
 ||ad.ihuman.com^
-||adapi.ihuman.com^
 ||appadapi.ihuman.com^
 ||iimedia.cn^
 ||www.iiyout.cn^
@@ -3277,6 +3265,7 @@
 ||smart-789.kakamobi.cn^
 ||js.kalvinbg.cn^
 ||cps.kaola.com^
+||data.kaoyany.top^
 ||smetrics.karcher.cn^
 ||www3-vpass.kczag.cn^
 ||kdcxhr.cn^
@@ -3542,7 +3531,6 @@
 ||kwsa.cn^
 ||ky595images.com^
 ||kychq.cn^
-||ad-dumbo-log.kydce.cn^
 ||ad-union.kydce.cn^
 ||go.eml.l-com.cn^
 ||trk.l-com.cn^
@@ -3722,7 +3710,6 @@
 ||mlog.m1905.cn^
 ||counter.m1905.com^
 ||m.m216j.cn^
-||click-ad.m2time.net^
 ||madhouse.cn^
 ||tongji.mafengwo.cn^
 ||track.oasis.magictavern.com^
@@ -4041,7 +4028,6 @@
 ||event.msi.com^
 ||srtb.msn.cn^
 ||c.msn.com.cn^
-||msns.cn^
 ||livewebbs2pcdn.msstatic.com^
 ||pp-cdnfile1pcdn.msstatic.com^
 ||qn-cdnfile1pcdn.msstatic.com^
@@ -4136,7 +4122,6 @@
 ||advert.lx.netease.com^
 ||analytics.hz.netease.com^
 ||analytics.mpay.netease.com^
-||ar.hz.netease.com^
 ||da.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||httpdns.n.netease.com^
@@ -4417,7 +4402,6 @@
 ||ptgdb.cn^
 ||ptmabek.cn^
 ||ptmind.com^
-||smbc-co-jp.ptoxy.cn^
 ||pufhzpt.cn^
 ||pulton.info^
 ||pig.pupuapi.com^
@@ -5130,7 +5114,6 @@
 ||tjs.sjs.sinajs.cn^
 ||sinawap.com^
 ||reportms.singaporepaya.com^
-||www.sinochem.com^
 ||sinoclick.com^
 ||mail.siom.ac.cn^
 ||sdk.sipujia.cn^
@@ -5643,6 +5626,7 @@
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
 ||gjh9v.tianshilv.cn^
+||fz.tiansys.cn^
 ||adx-bid.tianzhuobj.com^
 ||tiexing.com^
 ||smetrics.tiffany.cn^
@@ -5760,6 +5744,7 @@
 ||twzui6.com^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
+||livetech.shopee.vn.txlivecdn.com^
 ||m.txtxr.com^
 ||u.txuesoft.cn^
 ||tyawwj.cn^
@@ -5843,7 +5828,6 @@
 ||udrayyq.cn^
 ||udrig.com^
 ||uebabuf.cn^
-||uemddka.cn^
 ||uenmh.cn^
 ||uerzyr.cn^
 ||ugdtimg.com^
@@ -6012,7 +5996,6 @@
 ||cname-de-stsdk.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
-||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
@@ -6722,7 +6705,6 @@
 ||wr.yiyouliao.com^
 ||js.yjbys.com^
 ||yje912.cn^
-||qpb1.sohu.com.cname209.yjs-cdn.com^
 ||ykcjxvg.cn^
 ||g3.ykimg.com^
 ||l.ykimg.com^
@@ -6866,6 +6848,7 @@
 ||adsclick.yx.js.cn^
 ||www.yx3377.com^
 ||tg.yxdou.com^
+||qiniuyunxz.yxflzs.com^
 ||yxgfcj.com^
 ||ad.a.yximgs.com^
 ||ali-ad.a.yximgs.com^
@@ -7055,7 +7038,6 @@
 ||zmdesf.cn^
 ||zmhqhuq.cn^
 ||p.zol-img.com.cn^
-||pic.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||dynamic.zol.com.cn^
 ||imp.zol.com.cn^
@@ -7106,7 +7088,6 @@
 ||zxrcfw.com^
 ||zxrtb.com^
 ||httpdns.zybang.com^
-||ys.zybest.com^
 ||zygkzytb.cn^
 ||zykwnj.cn^
 ||foreign-ime-ad.zyukj6l.com^
