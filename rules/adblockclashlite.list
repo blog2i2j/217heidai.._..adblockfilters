@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251116065147
-# Last modified: 2025/11/16 06:51:47
-# Blocked domains: 7090
+# Version: 20251116215717
+# Last modified: 2025/11/16 21:57:17
+# Blocked domains: 7077
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -111,7 +111,6 @@ DOMAIN-SUFFIX,count.mail.163.com
 DOMAIN-SUFFIX,countly.mail.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
-DOMAIN-SUFFIX,dl.reg.163.com
 DOMAIN-SUFFIX,du.163.com
 DOMAIN-SUFFIX,e-p4p.163.com
 DOMAIN-SUFFIX,fa.163.com
@@ -800,6 +799,7 @@ DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,promotion.aliyun.com
 DOMAIN-SUFFIX,7vyou.oss-cn-shenzhen.aliyuncs.com
+DOMAIN-SUFFIX,ac9olrggo8-default-cn.rum.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-america.oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1085,8 +1085,6 @@ DOMAIN-SUFFIX,fxgate.baidu.com
 DOMAIN-SUFFIX,g.baidu.com
 DOMAIN-SUFFIX,gdown.baidu.com
 DOMAIN-SUFFIX,gimg.baidu.com
-DOMAIN-SUFFIX,gips1.baidu.com
-DOMAIN-SUFFIX,gips2.baidu.com
 DOMAIN-SUFFIX,goutong.baidu.com
 DOMAIN-SUFFIX,gsp1.baidu.com
 DOMAIN-SUFFIX,h2tcbox.baidu.com
@@ -1146,7 +1144,6 @@ DOMAIN-SUFFIX,pcrec.baidu.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
-DOMAIN-SUFFIX,ps.map.baidu.com
 DOMAIN-SUFFIX,pups.baidu.com
 DOMAIN-SUFFIX,qapm.baidu.com
 DOMAIN-SUFFIX,qianclick.baidu.com
@@ -1267,7 +1264,6 @@ DOMAIN-SUFFIX,httpdns.bcelive.com
 DOMAIN-SUFFIX,m.bchchk.cn
 DOMAIN-SUFFIX,ad.bczcdn.com
 DOMAIN-SUFFIX,bdhcpll.cn
-DOMAIN-SUFFIX,baikebcs.bdimg.com
 DOMAIN-SUFFIX,ecma.bdimg.com
 DOMAIN-SUFFIX,ecmb.bdimg.com
 DOMAIN-SUFFIX,ecmc.bdimg.com
@@ -1343,7 +1339,6 @@ DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,game.bilibili.com
 DOMAIN-SUFFIX,interface.bilibili.com
 DOMAIN-SUFFIX,miniapp.bilibili.com
-DOMAIN-SUFFIX,pay.bilibili.com
 DOMAIN-SUFFIX,security.bilibili.com
 DOMAIN-SUFFIX,tracker.chat.bilibili.com
 DOMAIN-SUFFIX,line1-log.biligame.net
@@ -1731,7 +1726,6 @@ DOMAIN-SUFFIX,sentry-v2.coros.com
 DOMAIN-SUFFIX,cppty.cn
 DOMAIN-SUFFIX,cpqfc.cn
 DOMAIN-SUFFIX,cpqhd.cn
-DOMAIN-SUFFIX,cpqjc.cn
 DOMAIN-SUFFIX,cbjg.cqnews.net
 DOMAIN-SUFFIX,crasheye.cn
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
@@ -2350,7 +2344,6 @@ DOMAIN-SUFFIX,gdyjs.com
 DOMAIN-SUFFIX,log.geetest.com
 DOMAIN-SUFFIX,onepass.geetest.com
 DOMAIN-SUFFIX,g.gegeyingshi.com
-DOMAIN-SUFFIX,geminimaritimebd.com
 DOMAIN-SUFFIX,image.gentags.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getmyip.top
@@ -2746,7 +2739,6 @@ DOMAIN-SUFFIX,stat.house365.com
 DOMAIN-SUFFIX,abtest-api-data-sg.hoyoverse.com
 DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,bh3-sdk-os-static.hoyoverse.com
 DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
@@ -3524,7 +3516,6 @@ DOMAIN-SUFFIX,v66-ad.ndcjl.com.v1.kwaiselfcdn.com
 DOMAIN-SUFFIX,api.kwaizt.com
 DOMAIN-SUFFIX,open.kwaizt.com
 DOMAIN-SUFFIX,kwcmrfb.cn
-DOMAIN-SUFFIX,kwsa.cn
 DOMAIN-SUFFIX,ky595images.com
 DOMAIN-SUFFIX,kychq.cn
 DOMAIN-SUFFIX,ad-union.kydce.cn
@@ -3746,7 +3737,6 @@ DOMAIN-SUFFIX,mdvdns.com
 DOMAIN-SUFFIX,lepodownload.mediatek.com
 DOMAIN-SUFFIX,mepodownload.mediatek.com
 DOMAIN-SUFFIX,mgepodownload.mediatek.com
-DOMAIN-SUFFIX,sepodownload.mediatek.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,medproad.com
 DOMAIN-SUFFIX,meibu.com
@@ -5306,7 +5296,6 @@ DOMAIN-SUFFIX,soul-ad.soulapp.cn
 DOMAIN-SUFFIX,sgg.southcn.com
 DOMAIN-SUFFIX,cod.southmoney.com
 DOMAIN-SUFFIX,tongji.southmoney.com
-DOMAIN-SUFFIX,speedhorse.site
 DOMAIN-SUFFIX,forge.speedtest.cn
 DOMAIN-SUFFIX,spkh.cn
 DOMAIN-SUFFIX,www-smbc-co.spkyy.cn
@@ -5995,6 +5984,7 @@ DOMAIN-SUFFIX,cname-in-apport-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-bom01-nginxpool03.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-ctdbonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-sin01-stsdk09.vivoglobal.com
+DOMAIN-SUFFIX,co-cota.vivoglobal.com
 DOMAIN-SUFFIX,co-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,co-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,co-ort-stsdk.vivoglobal.com
@@ -6085,6 +6075,7 @@ DOMAIN-SUFFIX,mx-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,onrt-stsdk.vivoglobal.com
+DOMAIN-SUFFIX,pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ro-up.vivoglobal.com
 DOMAIN-SUFFIX,ru-commonitor-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comonrt-stsdk.vivoglobal.com
@@ -6242,7 +6233,6 @@ DOMAIN-SUFFIX,statistic.weimobdc.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,code.wenbanzhu.com
 DOMAIN-SUFFIX,mps.wenkuzu.com
-DOMAIN-SUFFIX,sentry.wenxiaobai.com
 DOMAIN-SUFFIX,ad.weplayer.cc
 DOMAIN-SUFFIX,bugly.weplayer.cc
 DOMAIN-SUFFIX,crosspromotion.weplayer.cc
@@ -6297,7 +6287,6 @@ DOMAIN-SUFFIX,matomo.wongcw.com
 DOMAIN-SUFFIX,woniu.com
 DOMAIN-SUFFIX,analytics.woozooo.com
 DOMAIN-SUFFIX,statics.woozooo.com
-DOMAIN-SUFFIX,wordpress.la
 DOMAIN-SUFFIX,www.wowostar.cn
 DOMAIN-SUFFIX,v1.wphonelife.com
 DOMAIN-SUFFIX,ad.docer.wps.cn
@@ -6754,7 +6743,6 @@ DOMAIN-SUFFIX,log.yex.youdao.com
 DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,sdk-log.youdao.com
 DOMAIN-SUFFIX,sdk-log-inter.youdao.com
-DOMAIN-SUFFIX,shared.youdao.com
 DOMAIN-SUFFIX,union.youdao.com
 DOMAIN-SUFFIX,ydpushserver.youdao.com
 DOMAIN-SUFFIX,bdcode.youke.com
@@ -6905,7 +6893,6 @@ DOMAIN-SUFFIX,xue.zbyw.cn
 DOMAIN-SUFFIX,m.zdjgj.cn
 DOMAIN-SUFFIX,s2.zdmimg.com
 DOMAIN-SUFFIX,s3.zdmimg.com
-DOMAIN-SUFFIX,sentry-monitor-new.zdmimg.com
 DOMAIN-SUFFIX,zegarkirepliki.pl
 DOMAIN-SUFFIX,analytics-dev.whoami.ecp.zenlayer.net
 DOMAIN-SUFFIX,ad-cross-aws.whoami.zenlink.net

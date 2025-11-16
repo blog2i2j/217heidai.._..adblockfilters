@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251116065147
-! Last modified: 2025/11/16 06:51:47
-! Blocked domains: 7090
+! Version: 20251116215717
+! Last modified: 2025/11/16 21:57:17
+! Blocked domains: 7077
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -111,7 +111,6 @@ count.mail.163.com
 countly.mail.163.com
 crash.163.com
 crashlytics.163.com
-dl.reg.163.com
 du.163.com
 e-p4p.163.com
 fa.163.com
@@ -800,6 +799,7 @@ acjs.aliyun.com
 osfota.cdn.aliyun.com
 promotion.aliyun.com
 7vyou.oss-cn-shenzhen.aliyuncs.com
+ac9olrggo8-default-cn.rum.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1085,8 +1085,6 @@ fxgate.baidu.com
 g.baidu.com
 gdown.baidu.com
 gimg.baidu.com
-gips1.baidu.com
-gips2.baidu.com
 goutong.baidu.com
 gsp1.baidu.com
 h2tcbox.baidu.com
@@ -1146,7 +1144,6 @@ pcrec.baidu.com
 pimlog.baidu.com
 plugin.mobopay.baidu.com
 pos.baidu.com
-ps.map.baidu.com
 pups.baidu.com
 qapm.baidu.com
 qianclick.baidu.com
@@ -1267,7 +1264,6 @@ httpdns.bcelive.com
 m.bchchk.cn
 ad.bczcdn.com
 bdhcpll.cn
-baikebcs.bdimg.com
 ecma.bdimg.com
 ecmb.bdimg.com
 ecmc.bdimg.com
@@ -1343,7 +1339,6 @@ data.bilibili.com
 game.bilibili.com
 interface.bilibili.com
 miniapp.bilibili.com
-pay.bilibili.com
 security.bilibili.com
 tracker.chat.bilibili.com
 line1-log.biligame.net
@@ -1731,7 +1726,6 @@ sentry-v2.coros.com
 cppty.cn
 cpqfc.cn
 cpqhd.cn
-cpqjc.cn
 cbjg.cqnews.net
 crasheye.cn
 crashlyticsreports-pa.googleapis.com
@@ -2350,7 +2344,6 @@ gdyjs.com
 log.geetest.com
 onepass.geetest.com
 g.gegeyingshi.com
-geminimaritimebd.com
 image.gentags.com
 gepush.com
 getmyip.top
@@ -2746,7 +2739,6 @@ stat.house365.com
 abtest-api-data-sg.hoyoverse.com
 ad-log-upload-os.hoyoverse.com
 apm-log-upload-os.hoyoverse.com
-bh3-sdk-os-static.hoyoverse.com
 devlog-upload-os.hoyoverse.com
 hkrpg-log-upload-os.hoyoverse.com
 log-upload-os.hoyoverse.com
@@ -3524,7 +3516,6 @@ v66-ad.ndcjl.com.v1.kwaiselfcdn.com
 api.kwaizt.com
 open.kwaizt.com
 kwcmrfb.cn
-kwsa.cn
 ky595images.com
 kychq.cn
 ad-union.kydce.cn
@@ -3746,7 +3737,6 @@ mdvdns.com
 lepodownload.mediatek.com
 mepodownload.mediatek.com
 mgepodownload.mediatek.com
-sepodownload.mediatek.com
 mediav.com
 medproad.com
 meibu.com
@@ -5306,7 +5296,6 @@ soul-ad.soulapp.cn
 sgg.southcn.com
 cod.southmoney.com
 tongji.southmoney.com
-speedhorse.site
 forge.speedtest.cn
 spkh.cn
 www-smbc-co.spkyy.cn
@@ -5995,6 +5984,7 @@ cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
@@ -6085,6 +6075,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -6242,7 +6233,6 @@ statistic.weimobdc.com
 badjs.weixinbridge.com
 code.wenbanzhu.com
 mps.wenkuzu.com
-sentry.wenxiaobai.com
 ad.weplayer.cc
 bugly.weplayer.cc
 crosspromotion.weplayer.cc
@@ -6297,7 +6287,6 @@ matomo.wongcw.com
 woniu.com
 analytics.woozooo.com
 statics.woozooo.com
-wordpress.la
 www.wowostar.cn
 v1.wphonelife.com
 ad.docer.wps.cn
@@ -6754,7 +6743,6 @@ log.yex.youdao.com
 rlogs.youdao.com
 sdk-log.youdao.com
 sdk-log-inter.youdao.com
-shared.youdao.com
 union.youdao.com
 ydpushserver.youdao.com
 bdcode.youke.com
@@ -6905,7 +6893,6 @@ xue.zbyw.cn
 m.zdjgj.cn
 s2.zdmimg.com
 s3.zdmimg.com
-sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
 analytics-dev.whoami.ecp.zenlayer.net
 ad-cross-aws.whoami.zenlink.net
