@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9mU8b1EJ5vbCTpGC2JoZpw
-! Version: 202511182211
+! Checksum: drBVijSB71eq4my5J3ZhBQ
+! Version: 202511200001
 ! Title: EasyPrivacy
-! Last modified: 18 Nov 2025 22:11 UTC
+! Last modified: 20 Nov 2025 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7660,6 +7660,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adsmoloco.com^$third-party
 ||adsolutions.com^$third-party
 ||adv-analytics-collector.videograph.ai^
+||adyen.com/checkoutanalytics/
 ||adyen.com/checkoutshopper/images/analytics.png?
 ||adyen.com/checkoutshopper/v2/analytics/log?
 ||affiliate-api.raptive.com^
@@ -8121,6 +8122,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||calltrk.com/companies/
 ||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
+||campaign.fbot.me^
 ||canada.com/js/analytics/
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
@@ -9148,6 +9150,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.yandex.com^
 ||mc.yandex.ru^
 ||mc.yango.com^
+||mccdn.me/assets/js/widget.js
 ||mcdp-*.outbrain.com^
 ||mcssl.com^*/track.ashx?
 ||mdxprod.io/analytics.js
@@ -9885,10 +9888,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stg.truvidplayer.com/*/v.php?st=
 ||stileproject.com/vhtk/
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/builder-preview/iframe/pixel.js
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
 ||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
+||stormgate.production.raptive.com^
 ||stream-log.dditscdn.com^
 ||streamads.com/view?
 ||streamate.icfcdn.com/dist/getPerformanceMetrics.$script
@@ -12440,6 +12445,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dd.auspost.com.au^
 ||dd.g2.com^
 ||dd.nytimes.com^
+||dd.viator.com^
 ||ddome-tag.blablacar.com^
 ||dealdash.com/tracker-json
 ||dealnews.com/lw/ul.php
@@ -51740,6 +51746,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||nicovideo.jp/analyze/
 ||nicovideo.jp/api/counter/
 ||nikkei.com/.resources/tracking/
+||nkis.nikkei.com/imp?
 ||nvapi.nicovideo.jp/v1/bandit-machine/
 ||odsyms15.com/impression?
 ||oita-press.co.jp/js2020/analytics.js
