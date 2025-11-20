@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251120081952
-! Last modified: 2025/11/20 08:19:52
-! Blocked domains: 7068
+! Version: 20251121075159
+! Last modified: 2025/11/21 07:51:59
+! Blocked domains: 7043
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -211,7 +211,6 @@ www.2b26.com
 app-cdn.2q10.com
 app-push.2q10.com
 2qpqwkx.cn
-2tr1kkz.cn
 2vqgtxw.cn
 ad.3.cn
 atom-log.3.cn
@@ -800,7 +799,6 @@ acjs.aliyun.com
 osfota.cdn.aliyun.com
 promotion.aliyun.com
 7vyou.oss-cn-shenzhen.aliyuncs.com
-ac9olrggo8-default-cn.rum.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1355,8 +1353,6 @@ ai.bioon.com
 biqubao.com
 carstat.bitauto.com
 log.bitauto.com
-ad-vulcan.bitonloop.com
-ad-vulcan-bj.bitonloop.com
 img11.biyan8.com
 track-ad.biyingniao.com
 pubserver1.bizport.cn
@@ -1723,7 +1719,6 @@ bdu1.coozhi.cn
 coreldrawchina.com
 sentry-v2.coros.com
 cppty.cn
-cpqfc.cn
 cpqhd.cn
 cbjg.cqnews.net
 crasheye.cn
@@ -2310,7 +2305,6 @@ fy60.icu
 simulatelab-datasink.fzzixun.com
 xyoss.g.com.cn
 r01.g1c5.com
-g3user.com
 g41i.icu
 ky.g66667777.com
 g9hc4.cn
@@ -2966,7 +2960,6 @@ ssp.indexmob.com
 inepost.top
 link.infineon.cn
 link.infineon.com
-reply.infineon.com
 ssgtm.infineon.com
 track-e.infineon.com
 trk.ingersollrandproducts.cn
@@ -3207,7 +3200,6 @@ jojog.com
 jollyspring.com
 cookies.joneslanglasalle.com.cn
 email-ap.joneslanglasalle.com.cn
-email-cm.joneslanglasalle.com.cn
 ad.jooancloud.com
 telemetry.api.joox.com
 jpush.cn
@@ -3238,7 +3230,6 @@ jxhshg.cn
 ad.jxnews.com.cn
 jy135.com
 a.jyeoo.com
-smbc-co-jp.jyxbe.cn
 jzyx.com
 k2n0f.cn
 k5uj.icu
@@ -3264,7 +3255,6 @@ scene.ke.com
 kexin001.com
 keyshot.cc
 elq.keysight.com.cn
-sandbox-elq.keysight.com.cn
 ad.keytop.cn
 ad-service.keytop.cn
 p.kf3msfm.com
@@ -4394,7 +4384,6 @@ pv4b.com
 log.pwesports.cn
 pxhuiben.com
 cdn.pyadx.com
-pydzxs.cn
 pygokay.cn
 vv1.pyhfxdm.cn
 pzkrgcp.cn
@@ -4465,7 +4454,6 @@ misc-pili-qos-report.qiniuapi.com
 ads-vp5-xhscdn-com-idvnw0v.qiniudns.com
 analytics.qiqiuyun.net
 kbae.qiqqh.cn
-qiumiba.cn
 stats.qiumibao.com
 tj.qiumibao.com
 up.qiumibao.com
@@ -4828,7 +4816,6 @@ luaqxb.rainso.com
 bespoke-analytics.razerapi.com
 rb1hdiqv.cn
 rbjpti.top
-www3-vpass.rcmlb.cn
 rcqmvmq.cn
 rcqqlwb.cn
 rdbousn.cn
@@ -5005,7 +4992,6 @@ shuzilm.cn
 ads-monitoring.shziyi.com
 www.ad.siemens.com.cn
 sigmob.com
-smetrics.marketing.signify.com.cn
 sikncs.com
 simicloud.com
 9ibbcq2d.sina.cn
@@ -5122,17 +5108,12 @@ sdk-log.partner.sm.cn
 sugs.m.sm.cn
 video-ad.sm.cn
 data.aftersales.smart.com
-data.ajo-dev.srv.smart.com
-data.ajo-stage.notifications.future.smart.com
 data.ajo-stage.srv.smart.com
 data.dev-notifications.future.smart.com
 data.info.smart.com
 data.marketing.smart.com
 data.smartinfo.future.smart.com
 data.smartmkt.future.smart.com
-form-submission-workspace.ajo-stage.srv.smart.com
-form-submission.marketing.smart.com
-raffle-entry.info.smart.com
 smetrics.future.smart.com
 sms.info.smart.com
 smucdn.com
@@ -5607,7 +5588,6 @@ yptqys.tianqistatic.com
 gjh9v.tianshilv.cn
 fz.tiansys.cn
 adx-bid.tianzhuobj.com
-tiexing.com
 smetrics.tiffany.cn
 tingyun.com
 tisszhb.cn
@@ -5675,7 +5655,6 @@ towmfs.com
 track718.net
 trackingio.com
 sentry.trademessenger.com
-im.tradew.com
 traditionallyobjectlessblinked.com
 tradplus.cn
 tradplus.com
@@ -6239,7 +6218,6 @@ mtrace.wetvinfo.com
 wfbdjl.cn
 redir.wggames.cn
 www.whalecloud.com
-xapp-ad.yawentv.com.whecloud.com
 whyfate.cn
 whytd.com
 wi1f.icu
@@ -6797,7 +6775,6 @@ wenxue.youzhicn.com
 youzu.com
 yoyi.tv
 analysis.yozocloud.cn
-ys630.com
 ad-material.ys7.com
 adx.ys7.com
 stats.ys7.com
@@ -6884,7 +6861,6 @@ xue.zbyw.cn
 m.zdjgj.cn
 s2.zdmimg.com
 s3.zdmimg.com
-sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
 analytics-dev.whoami.ecp.zenlayer.net
 ad-cross-aws.whoami.zenlink.net
@@ -7032,7 +7008,6 @@ zonst.com
 adm.zookingsoft.com
 zoosnet.net
 zoossoft.net
-www-sbisec-co-jp.zpyffund.com
 zsjxwj.com
 steam.zssjsq.com
 zsyj.com.cn
