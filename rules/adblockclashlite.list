@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251122075100
-# Last modified: 2025/11/22 07:51:00
-# Blocked domains: 7041
+# Version: 20251123005137
+# Last modified: 2025/11/23 00:51:37
+# Blocked domains: 7037
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -184,6 +184,7 @@ DOMAIN-SUFFIX,tj.21ic.com
 DOMAIN-SUFFIX,222aa333bb.com
 DOMAIN-SUFFIX,api-ad.233lyly.com
 DOMAIN-SUFFIX,baoku-safe.2345.cc
+DOMAIN-SUFFIX,cloud-pinyin.2345.cc
 DOMAIN-SUFFIX,db-safe.2345.cc
 DOMAIN-SUFFIX,help-tower.2345.cc
 DOMAIN-SUFFIX,safe-api.2345.cc
@@ -1279,7 +1280,6 @@ DOMAIN-SUFFIX,sofire.bdstatic.com
 DOMAIN-SUFFIX,su.bdstatic.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,ads-i3.xhscdn.com.a.bdydns.com
-DOMAIN-SUFFIX,aff-im.cdn.bcebos.com.a.bdydns.com
 DOMAIN-SUFFIX,p5-ad.adukwai.com.a.bdydns.com
 DOMAIN-SUFFIX,v5-ad.adukwai.com.a.bdydns.com
 DOMAIN-SUFFIX,smetrics.beatsbydre.com
@@ -2298,7 +2298,6 @@ DOMAIN-SUFFIX,down.fwqlt.com
 DOMAIN-SUFFIX,fwtd.cn
 DOMAIN-SUFFIX,ad.fx168api.com
 DOMAIN-SUFFIX,dms.fx678.com
-DOMAIN-SUFFIX,www3-vpass-jp.fxiyy.cn
 DOMAIN-SUFFIX,a.fxltsbl.com
 DOMAIN-SUFFIX,fy14.cn
 DOMAIN-SUFFIX,fy60.icu
@@ -2420,7 +2419,6 @@ DOMAIN-SUFFIX,sensorsdata.glowapp.vip
 DOMAIN-SUFFIX,l.glrcy.cn
 DOMAIN-SUFFIX,glwxw.net
 DOMAIN-SUFFIX,gmanhua.com
-DOMAIN-SUFFIX,gmsys.cn
 DOMAIN-SUFFIX,gmtbc.cn
 DOMAIN-SUFFIX,gmtpq.cn
 DOMAIN-SUFFIX,cpux.gmud.top
@@ -3216,7 +3214,6 @@ DOMAIN-SUFFIX,jsmxkj.com
 DOMAIN-SUFFIX,fpb1.jsq886.com
 DOMAIN-SUFFIX,jssdhjsj.com
 DOMAIN-SUFFIX,jszctech.com
-DOMAIN-SUFFIX,v-vpass-jp.jtohp.cn
 DOMAIN-SUFFIX,lm10111.jtrincc.cn
 DOMAIN-SUFFIX,junshi8181.com
 DOMAIN-SUFFIX,y1.junshitt.com
@@ -3300,7 +3297,6 @@ DOMAIN-SUFFIX,b.kouke5.com
 DOMAIN-SUFFIX,kqgn.cn
 DOMAIN-SUFFIX,kqjtj.com
 DOMAIN-SUFFIX,kqtpd.cn
-DOMAIN-SUFFIX,kqtzl.cn
 DOMAIN-SUFFIX,marketing.krones.com
 DOMAIN-SUFFIX,liebao.us-uplive.ks-cdn.com
 DOMAIN-SUFFIX,p3-ad.adukwai.com.download.ks-cdn.com

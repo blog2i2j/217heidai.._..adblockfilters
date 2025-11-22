@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251122075100
-! Last modified: 2025/11/22 07:51:00
-! Blocked domains: 7041
+! Version: 20251123005137
+! Last modified: 2025/11/23 00:51:37
+! Blocked domains: 7037
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -185,6 +185,7 @@
 ||222aa333bb.com^
 ||api-ad.233lyly.com^
 ||baoku-safe.2345.cc^
+||cloud-pinyin.2345.cc^
 ||db-safe.2345.cc^
 ||help-tower.2345.cc^
 ||safe-api.2345.cc^
@@ -1280,7 +1281,6 @@
 ||su.bdstatic.com^
 ||zz.bdstatic.com^
 ||ads-i3.xhscdn.com.a.bdydns.com^
-||aff-im.cdn.bcebos.com.a.bdydns.com^
 ||p5-ad.adukwai.com.a.bdydns.com^
 ||v5-ad.adukwai.com.a.bdydns.com^
 ||smetrics.beatsbydre.com^
@@ -2299,7 +2299,6 @@
 ||fwtd.cn^
 ||ad.fx168api.com^
 ||dms.fx678.com^
-||www3-vpass-jp.fxiyy.cn^
 ||a.fxltsbl.com^
 ||fy14.cn^
 ||fy60.icu^
@@ -2421,7 +2420,6 @@
 ||l.glrcy.cn^
 ||glwxw.net^
 ||gmanhua.com^
-||gmsys.cn^
 ||gmtbc.cn^
 ||gmtpq.cn^
 ||cpux.gmud.top^
@@ -3217,7 +3215,6 @@
 ||fpb1.jsq886.com^
 ||jssdhjsj.com^
 ||jszctech.com^
-||v-vpass-jp.jtohp.cn^
 ||lm10111.jtrincc.cn^
 ||junshi8181.com^
 ||y1.junshitt.com^
@@ -3301,7 +3298,6 @@
 ||kqgn.cn^
 ||kqjtj.com^
 ||kqtpd.cn^
-||kqtzl.cn^
 ||marketing.krones.com^
 ||liebao.us-uplive.ks-cdn.com^
 ||p3-ad.adukwai.com.download.ks-cdn.com^
