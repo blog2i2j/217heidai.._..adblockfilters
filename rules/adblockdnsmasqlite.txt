@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251123005137
-# Last modified: 2025/11/23 00:51:37
-# Blocked domains: 7037
+# Version: 20251123200240
+# Last modified: 2025/11/23 20:02:40
+# Blocked domains: 7039
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -397,7 +397,6 @@ local=/api-adx.52qumao.com/
 local=/adm.52swine.com/
 local=/slzs.52xiyou.com/
 local=/api.52youtu.com/
-local=/52z.com/
 local=/a.52zxw.com/
 local=/53kf.com/
 local=/54hm.cn/
@@ -800,6 +799,7 @@ local=/acjs.aliyun.com/
 local=/osfota.cdn.aliyun.com/
 local=/promotion.aliyun.com/
 local=/7vyou.oss-cn-shenzhen.aliyuncs.com/
+local=/ac9olrggo8-default-cn.rum.aliyuncs.com/
 local=/ad-host-backup-america.oss-us-west-1.aliyuncs.com/
 local=/ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com/
 local=/ad-host-backup-europe.oss-eu-central-1.aliyuncs.com/
@@ -816,7 +816,6 @@ local=/badding.oss-ap-southeast-1.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 local=/chaoku.oss-cn-chengdu.aliyuncs.com/
-local=/cknd8dw8eg-default-cn.rum.aliyuncs.com/
 local=/cloudauth.aliyuncs.com/
 local=/commondata.oss-cn-hangzhou.aliyuncs.com/
 local=/coocentpromotion.oss-us-west-1.aliyuncs.com/
@@ -1944,7 +1943,6 @@ local=/xs.dmzj.com/
 local=/dncvj.cn/
 local=/dnd2.icu/
 local=/sp.dnqc.com/
-local=/faq.dnqdl.cn/
 local=/vhs.wwstat.com.eo.dnse0.com/
 local=/ad-static.nxtsun.com.eo.dnse3.com/
 local=/ads-i1.xhscdn.com.cdn.dnsv1.com/
@@ -2295,7 +2293,6 @@ local=/medialink-adx.futunn.com/
 local=/trk.futureelectronics.cn/
 local=/fwmbjrl.cn/
 local=/down.fwqlt.com/
-local=/fwtd.cn/
 local=/ad.fx168api.com/
 local=/dms.fx678.com/
 local=/a.fxltsbl.com/
@@ -3096,7 +3093,8 @@ local=/a3.jandan.net/
 local=/japps.cn/
 local=/files.jb51.net/
 local=/icws.jb51.net/
-local=/jbzj.com/
+local=/jscode.jbzj.com/
+local=/mm.jbzj.com/
 local=/stat.jc001.cn/
 local=/jcchunya.cn/
 local=/pic.jd-bbs.com/
@@ -3926,6 +3924,7 @@ local=/mazu.sec.miui.com/
 local=/metok.sys.miui.com/
 local=/mqs-log.miui.com/
 local=/notify.sec.miui.com/
+local=/pmir.sec.miui.com/
 local=/port.sec.miui.com/
 local=/port.sec.intl.miui.com/
 local=/protect.dev.sec.intl.miui.com/
@@ -5144,6 +5143,7 @@ local=/learning.snssdk.com/
 local=/lianmengapi.snssdk.com/
 local=/log.snssdk.com/
 local=/log-hl.snssdk.com/
+local=/log-lf.snssdk.com/
 local=/log-lq.snssdk.com/
 local=/mcs.snssdk.com/
 local=/mercury-sdk.snssdk.com/
@@ -5211,6 +5211,7 @@ local=/ad.sohu.com/
 local=/ads.sohu.com/
 local=/api.danmu.tv.sohu.com/
 local=/api.k.sohu.com/
+local=/api.tv.sohu.com/
 local=/assp.sohu.com/
 local=/bd.hd.sohu.com/
 local=/changyan.sohu.com/
@@ -6040,6 +6041,7 @@ local=/mx-vcode-api.vivoglobal.com/
 local=/mx-vcode-od.vivoglobal.com/
 local=/mx-vcode-or.vivoglobal.com/
 local=/onrt-stsdk.vivoglobal.com/
+local=/pnrt-stsdk.vivoglobal.com/
 local=/ro-up.vivoglobal.com/
 local=/ru-commonitor-stsdk.vivoglobal.com/
 local=/ru-comonrt-stsdk.vivoglobal.com/
