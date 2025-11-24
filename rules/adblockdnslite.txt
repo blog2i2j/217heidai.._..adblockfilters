@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251124080116
-! Last modified: 2025/11/24 08:01:16
-! Blocked domains: 7039
+! Version: 20251124163149
+! Last modified: 2025/11/24 16:31:49
+! Blocked domains: 7038
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -205,6 +205,7 @@
 ||25662zubo23739.com^
 ||2607.cn^
 ||js.263y.com^
+||2898.com^
 ||28kc.cn^
 ||www.2b26.com^
 ||2girls1finger.org^
@@ -1718,7 +1719,6 @@
 ||bdu1.coozhi.cn^
 ||coreldrawchina.com^
 ||sentry-v2.coros.com^
-||cppty.cn^
 ||cpqhd.cn^
 ||cbjg.cqnews.net^
 ||crasheye.cn^
@@ -1781,6 +1781,7 @@
 ||daeis.cn^
 ||dagwi.cn^
 ||daiitmk.cn^
+||ad.daimatu.cn^
 ||daliantong.com.cn^
 ||api-user.dalyfeds.com^
 ||cicd-release-api.dalyfeds.com^
@@ -2062,7 +2063,6 @@
 ||ssp.dzh.com.cn^
 ||sspevent.dzh.com.cn^
 ||dl.dzqzd.com^
-||www3-vpass.dzwdy.cn^
 ||ad.dzwww.com^
 ||app.acm.dzwww.com^
 ||dzxwnews.com^
@@ -2294,6 +2294,7 @@
 ||trk.futureelectronics.cn^
 ||fwmbjrl.cn^
 ||down.fwqlt.com^
+||fwtd.cn^
 ||ad.fx168api.com^
 ||dms.fx678.com^
 ||a.fxltsbl.com^
@@ -2953,7 +2954,6 @@
 ||analytics.inbobi.com^
 ||dlres.ind9ed.com^
 ||ssp.indexmob.com^
-||inepost.top^
 ||link.infineon.cn^
 ||link.infineon.com^
 ||ssgtm.infineon.com^
@@ -3513,7 +3513,6 @@
 ||sanme2.lanzoui.com^
 ||wap1.laogu.wang^
 ||wap2.laogu.wang^
-||ads.games.laohu.com^
 ||laomaotao.net^
 ||images.newsletter.larksuite.com^
 ||un1.lawyernet.cn^
@@ -4057,7 +4056,6 @@
 ||pop.code.mytanwan.com^
 ||sy.code.mytanwan.com^
 ||sy.flash.mytanwan.com^
-||geoip.mytokenpocket.vip^
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
 ||aries.mzres.com^
@@ -4314,6 +4312,7 @@
 ||pj50.com^
 ||pkjl00l.cn^
 ||pkoplink.com^
+||pl520.com^
 ||placidocn.com^
 ||open.play.cn^
 ||res.play700.com^
@@ -5874,7 +5873,6 @@
 ||stat.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
-||stat.vipstatic.com^
 ||stat.visionular.cn^
 ||smetrics.visitsingapore.com.cn^
 ||adlog.vivo.com^
@@ -6858,6 +6856,7 @@
 ||m.zdjgj.cn^
 ||s2.zdmimg.com^
 ||s3.zdmimg.com^
+||sentry-monitor-new.zdmimg.com^
 ||zegarkirepliki.pl^
 ||analytics-dev.whoami.ecp.zenlayer.net^
 ||ad-cross-aws.whoami.zenlink.net^
