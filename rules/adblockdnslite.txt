@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251128061022
-! Last modified: 2025/11/28 06:10:22
-! Blocked domains: 7014
+! Version: 20251129070526
+! Last modified: 2025/11/29 07:05:26
+! Blocked domains: 7008
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -665,7 +665,6 @@
 ||report-oversea.agora.io^
 ||report-oversea2.agora.io^
 ||statscollector-1.agora.io^
-||statscollector-1-asia.agora.io^
 ||statscollector-1-europe.agora.io^
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
@@ -674,7 +673,7 @@
 ||brc.aigrammar.net^
 ||brc2.aigrammar.net^
 ||aihaoduo.cn^
-||aihuishou.com^
+||www.aihuishou.com^
 ||aili.com^
 ||atiws.aipai.com^
 ||mlog.aipai.com^
@@ -881,6 +880,7 @@
 ||optimus-ads.amap.com^
 ||optimus-ads-ykx.amap.com^
 ||page.amap.com^
+||advertising.amazon.cn^
 ||log.amemv.com^
 ||log0-misc-alinc2.amemv.com^
 ||log0-misc-hl.amemv.com^
@@ -1347,7 +1347,6 @@
 ||skynet.bilivideo.com^
 ||bingdianhuanyuan.cn^
 ||ai.bioon.com^
-||biqubao.com^
 ||carstat.bitauto.com^
 ||log.bitauto.com^
 ||img11.biyan8.com^
@@ -1616,7 +1615,6 @@
 ||click.com.cn^
 ||clicki.cn^
 ||app.clickmobi.cn^
-||7xi9g1.com1.z0.glb.clouddn.com^
 ||bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||log.cmbchina.com^
@@ -2286,7 +2284,6 @@
 ||trk.futureelectronics.cn^
 ||fwmbjrl.cn^
 ||down.fwqlt.com^
-||fwtd.cn^
 ||ad.fx168api.com^
 ||dms.fx678.com^
 ||a.fxltsbl.com^
@@ -2520,7 +2517,6 @@
 ||mo.haloapps.cn^
 ||adx.halomobi.com^
 ||adx-sg.halomobi.com^
-||adx-us.halomobi.com^
 ||g.haluoha.com^
 ||go.hangzhou.com.cn^
 ||hanlanad.com^
@@ -3225,7 +3221,6 @@
 ||cps.kaola.com^
 ||data.kaoyany.top^
 ||smetrics.karcher.cn^
-||www3-vpass.kczag.cn^
 ||kdcxhr.cn^
 ||panda.kdnet.net^
 ||ssp.kdnet.net^
@@ -3627,7 +3622,6 @@
 ||deeplink.locokids.cn^
 ||affiliate.loctek.com^
 ||ad.lofter.com^
-||logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn^
 ||webanalytics.logitech.com.cn^
 ||webtarget.logitech.com.cn^
 ||webanalytics.logitechg.com.cn^
@@ -3909,6 +3903,7 @@
 ||metok.sys.miui.com^
 ||mqs-log.miui.com^
 ||notify.sec.miui.com^
+||pmir.sec.miui.com^
 ||port.sec.miui.com^
 ||port.sec.intl.miui.com^
 ||protect.dev.sec.intl.miui.com^
@@ -5264,7 +5259,6 @@
 ||steamproxy.net^
 ||stg8.com^
 ||stgowan.com^
-||stnts.com^
 ||info.stockstar.com^
 ||same.stockstar.com^
 ||stragmik.com^
@@ -5715,12 +5709,10 @@
 ||h-adashx.ut.uc.cn^
 ||holmeshelptest.uc.cn^
 ||mparticle.uc.cn^
-||na61-userver-upaas.uc.cn^
 ||partner.uc.cn^
 ||s-adashx.ut.uc.cn^
 ||t.uc.cn^
 ||track.uc.cn^
-||userver-upaas.uc.cn^
 ||wmedia-track.uc.cn^
 ||woodpecker.uc.cn^
 ||u.uc123.com^
@@ -6021,6 +6013,7 @@
 ||mx-vcode-od.vivoglobal.com^
 ||mx-vcode-or.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
+||pnrt-stsdk.vivoglobal.com^
 ||ro-up.vivoglobal.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
@@ -6834,6 +6827,7 @@
 ||m.zdjgj.cn^
 ||s2.zdmimg.com^
 ||s3.zdmimg.com^
+||sentry-monitor-new.zdmimg.com^
 ||zegarkirepliki.pl^
 ||analytics-dev.whoami.ecp.zenlayer.net^
 ||ad-cross-aws.whoami.zenlink.net^
