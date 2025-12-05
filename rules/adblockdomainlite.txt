@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251204153931
-! Last modified: 2025/12/04 15:39:31
-! Blocked domains: 7358
+! Version: 20251205152125
+! Last modified: 2025/12/05 15:21:25
+! Blocked domains: 7342
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -353,7 +353,6 @@ www.495495.com
 4a9.cn
 4d0m.cn
 4pn.cn
-ad-api.4pyun.com
 1.5000yan.com
 4399stat.5054399.com
 50bang.org
@@ -1816,7 +1815,6 @@ daadr.cn
 dabaicai.com
 cd.dabansuan.cn
 daccp.cn
-dadadabababdada5975.top
 dadcc.cn
 dadde.cn
 js1.dadiniu.cn
@@ -2302,7 +2300,6 @@ ad-track.fliggy.com
 adashx.ut.fliggy.com
 channel-ad.fliggy.com
 h-adashx.ut.fliggy.com
-vpass-jp.flnmj.cn
 flsfzr.cn
 flstudiochina.com
 api-flow.flyme.cn
@@ -2540,7 +2537,6 @@ stat.gspaceteam.com
 csi.gstatic.com
 ad.gtbrowser.com
 gtcqbnu.cn
-g.gtimg.cn
 miniapp.gtimg.cn
 pgdt.gtimg.cn
 tianshu.gtimg.cn
@@ -2784,7 +2780,6 @@ smetrics.hollisterco.cn
 hologramid.cn
 ads.honor.com
 ads-adnet-drcn.cloud.honor.com
-overseascollect.hoolai.com
 hopemobi.net
 wxmini-log.hortorgames.com
 om.hotels.cn
@@ -2924,7 +2919,6 @@ hzsanjiaomao.com
 adashx.ut.hzshudian.com
 h-adashx.ut.hzshudian.com
 glxccx.hztaida.cn
-ad-collect.hzyoka.com
 hzyxd.cn
 i-click.com
 i-fk.cn
@@ -3230,7 +3224,6 @@ jeejen.com
 jesgoo.com
 analytics.services.jetbrains.com.cn
 jg1668.com
-jgoffice.com.cn
 api.jialiangad.com
 8961.jianbihua.com
 wj.jiancai365.cn
@@ -3756,7 +3749,6 @@ lrswl.com
 ny.lshdw.cc
 a1.lshou.com
 lshuaibin.cn
-ltkxvck.cn
 luciochen.cn
 ludashi.com
 metrics.lululemon.cn
@@ -4034,7 +4026,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -4355,7 +4346,6 @@ cdn-gcs.outfit7.com
 hb-af-us-central1.outfit7.com
 outin.cn
 ouyaoxiazai.com
-www3-vpass.oxhap.cn
 ozogame.com
 p2cdn.com
 p555.cc
@@ -4610,7 +4600,6 @@ t.pushauction.com
 ums.pushpia.cn
 pv4b.com
 log.pwesports.cn
-bbb.pwwbr.cn
 pxhuiben.com
 cdn.pyadx.com
 pygokay.cn
@@ -4892,7 +4881,6 @@ sngapm.qq.com
 sngmta.qq.com
 snowflake.qq.com
 sns.qzone.qq.com
-soft.tbs.imtt.qq.com
 softfile.3g.qq.com
 soup.v.qq.com
 ssp.qq.com
@@ -4961,7 +4949,6 @@ sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 img2.qqwangming6.com
 dpvc1.qqyy.com
-qsng.cn
 f.qstatic.com
 qstzar.cn
 ad-cdn.qtfm.cn
@@ -5019,7 +5006,6 @@ jr.qunar.com
 log.flight.qunar.com
 qreport.qunar.com
 userimg.qunar.com
-ad-dapp-osscp.qunarzz.com
 a.qunzou.com
 ad.quwin.cn
 vn-ebay.quxlpuj.cn
@@ -5046,7 +5032,6 @@ ndown2.ra2ol.com
 a2.rabbitpre.com
 rabuagc.cn
 luaqxb.rainso.com
-rarjzshf.cn
 rayjump.com
 bespoke-analytics.razerapi.com
 rbjpti.top
@@ -5564,7 +5549,6 @@ th.suning.com
 sunriseoutdoor.cn
 suo.im
 superads.cn
-ads06.supplyframe.com
 supplyhalal.com
 lcs.dev.surepush.cn
 test.surepush.cn
@@ -5816,7 +5800,6 @@ tgfyq.cn
 tgjkbx.cn
 th7.cn
 thacreks.com
-theguardian.cn
 advert.api.thejoyrun.com
 adpai.thepaper.cn
 imgadpai.thepaper.cn
@@ -6058,6 +6041,7 @@ uerzyr.cn
 vpass-jp.ufbjr.cn
 ugdtimg.com
 uhabo.com
+file.uhsea.com
 bdjs.uimg.cn
 ujian.cc
 countly.ulanzistudio.com
