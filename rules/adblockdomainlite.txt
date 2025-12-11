@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251210143730
-! Last modified: 2025/12/10 14:37:30
-! Blocked domains: 7189
+! Version: 20251211133539
+! Last modified: 2025/12/11 13:35:39
+! Blocked domains: 7181
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -804,6 +804,7 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 appgiftwall.oss-us-west-1.aliyuncs.com
 arms-retcode.aliyuncs.com
 arms-retcode-sg.aliyuncs.com
+axyleu11gz-default-cn.rum.aliyuncs.com
 badding.oss-ap-southeast-1.aliyuncs.com
 beacon-api.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -1373,7 +1374,6 @@ sdkapiv2.bizport.cn
 bj5iodzgyi.com
 as.bjmama.net
 bjmantis.net
-bjxcredit.cn
 file.blackint3.com
 adimage.blm.net
 www3-vpass.blruj.cn
@@ -1645,6 +1645,7 @@ clicki.cn
 app.clickmobi.cn
 cloooud.com
 clothinger.com
+7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -1684,7 +1685,6 @@ clickcount.cnool.net
 adsame1.cnr.cn
 d1.cnr.cn
 ggdata1.cnr.cn
-vpass-login.cnszzk.cn
 phpstat.cntcm.com.cn
 www3-vpass.cnxzzb.cn
 cnzz.cn
@@ -2073,11 +2073,9 @@ a-cn.duoyi.com
 sw3sydl.duoyi.com
 duxiaoman.com
 duxiaomanfintech.com
-vpass-ne.dvxudz.cn
 dvzk66.cn
 dw365.cn
 dweixin.cn
-dwstat.cn
 untitled.dwstatic.com
 dxpmedia.com
 2021.dxsbb.com
@@ -2874,7 +2872,6 @@ udblog.huya.com
 va.huya.com
 ylog.huya.com
 vpass-jp.hvnzz.cn
-www3-vpass.hwlup.cn
 www3-vpass.hxzdze.cn
 hypers.com
 t.hypers.com.cn
@@ -3542,7 +3539,6 @@ kwdgudw.cn
 ky595images.com
 kychq.cn
 vpass-jp.kysat.cn
-www3-vpass.kysat.cn
 go.eml.l-com.cn
 trk.l-com.cn
 data.adobe.l-god.cn
@@ -3875,9 +3871,9 @@ resolver.gslb.mi-idc.com
 a.hl.mi.com
 ad.mi.com
 adx.tv.mi.com
+api.e.mi.com
 api.jr.mi.com
 d.g.mi.com
-e.mi.com
 h5.tv.mi.com
 idm.api.io.mi.com
 idm.iot.mi.com
@@ -3981,7 +3977,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -4240,7 +4235,6 @@ apps5.oingo.com
 okhan.net
 www3-vpass.omnec.cn
 www3-vpass.omvhb.cn
-omvoqmz.cn
 oneapm.com
 onelnk.com
 click.oneplus.cn
@@ -5247,14 +5241,12 @@ learning.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
-log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
 mon.snssdk.com
 mssdk.snssdk.com
 mssdk-bu.snssdk.com
-novelfm.snssdk.com
 open.snssdk.com
 os-mon.snssdk.com
 pangolin.snssdk.com
@@ -6163,7 +6155,6 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
-pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -6514,7 +6505,6 @@ spider-tracker.xiaohongshu.com
 splash-online-decision.xiaohongshu.com
 store.xiaohongshu.com
 www.xiaohui2.cn
-api.xiaohuxi.cn
 xiaojifly.cn
 adtrack.xiaojukeji.com
 dorado.xiaojukeji.com
@@ -6567,6 +6557,7 @@ stats.music.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 sys.tv.india.xiaomi.com
 t1.market.xiaomi.com
+t17.market.xiaomi.com
 t2.market.xiaomi.com
 t3.market.xiaomi.com
 t4.market.xiaomi.com
@@ -6725,6 +6716,7 @@ xycdn.com
 xyizgh.cn
 a.xywy.com
 bdmjs.xywy.com
+hao123.xywy.com
 stat.xywy.com
 stat-y.xywy.com
 stat-z.xywy.com
