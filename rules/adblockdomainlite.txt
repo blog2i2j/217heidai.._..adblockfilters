@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251211133539
-! Last modified: 2025/12/11 13:35:39
-! Blocked domains: 7181
+! Version: 20251212140437
+! Last modified: 2025/12/12 14:04:37
+! Blocked domains: 7172
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -536,6 +536,7 @@ www.95599.cn
 961.com
 11.96131.com.cn
 96382zubo66756.com
+97sky.cn
 9800.com
 whfpbc.99.com.cn
 www.99469.com
@@ -828,6 +829,7 @@ first-hufu.oss-cn-shanghai.aliyuncs.com
 free-cdn.oss-cn-shanghai.aliyuncs.com
 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 g9m3a0kv73-default-cn.rum.aliyuncs.com
+g9m3a0kv73-sdk.rum.aliyuncs.com
 hdtu.oss-cn-beijing.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
@@ -1645,7 +1647,6 @@ clicki.cn
 app.clickmobi.cn
 cloooud.com
 clothinger.com
-7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -1730,7 +1731,6 @@ detaillog-global.coolbcloud.com
 detaillog-global-dual.coolbcloud.com
 logreport-global-dual.coolbcloud.com
 detaillog-global-dual.coolccloud.com
-logreport-global.coolccloud.com
 wslog-global-dual.coolccloud.com
 coolkaba.com
 detaillog-global.coolzcloud.com
@@ -2097,7 +2097,6 @@ stat-ssl.e-map.ne.jp
 api.e-toys.cn
 stat.ea3w.com
 eagle-tex.cn
-adimg.easeus.com
 track.easeus.com
 easou.com
 ay.eastmoney.com
@@ -2265,6 +2264,7 @@ fiwyjar.cn
 fjshxjs.cn
 fjsytjs.cn
 fjtroip.cn
+datareport.fkw.com
 flash.cn
 flashjoin.net
 bd1.flfgw.cn
@@ -2535,7 +2535,6 @@ gwmrb.cn
 gxbnp.cn
 gxgbvmg.cn
 gxhzv.cn
-gxuwz.edu.cn
 m.gz-bz.cn
 gz-data.com
 gzcl999.com
@@ -3332,7 +3331,6 @@ sdkapi.kookong.com
 koowo.com
 a.koudai.com
 b.kouke5.com
-vpass-jp.kpjsv.cn
 kqgn.cn
 kqjtj.com
 marketing.krones.com
@@ -3509,6 +3507,7 @@ webcollects.kugou.com
 data.kuiniuca.com
 xycdn.com.gslb.kuiniuca.com
 xyp-n.kuiniuca.com
+kuk8.com
 h1.kukuw.com
 ad-log-upload.mihoyo.com.w.kunluncan.com
 p3-ad-sign.byteimg.com.w.kunluncan.com
@@ -3685,7 +3684,6 @@ lockview.cn
 deeplink.locokids.cn
 affiliate.loctek.com
 ad.lofter.com
-logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 webanalytics.logitech.com.cn
 webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -4121,7 +4119,6 @@ gstat.myzaker.com
 aries.mzres.com
 mzwzo.cn
 n69.com
-vpass-jp.naagb.cn
 static.live.nagezan.net
 yiyuan.nagezan.net
 ytapi1.nagezan.net
@@ -4402,7 +4399,6 @@ placidocn.com
 open.play.cn
 res.play700.com
 bdx.playnext.cn
-plivlb.cn
 vpass-jp.plymst.cn
 pmensrl.cn
 vpass-jp.pmxpcf.cn
@@ -4928,7 +4924,6 @@ rentallclub.com
 renzhen8.cn
 revenuenetwork.com
 info.revvity.cn
-bursaneity.rfimu.cn
 track.msadcenter.rfjq.com
 rh31.com
 rhinogo.cn
@@ -5907,7 +5902,6 @@ unityads.unitychina.cn
 uniway.cn.com
 b.unjs.com
 unlitui.com
-vpass-jp.unxtj.cn
 unypud.cn
 uodoo.com
 iosipa.b0.upaiyun.com
@@ -6997,12 +6991,9 @@ f1.zaojv.com
 zapads.zapak.com
 zazhipu.com
 p3.zbjimg.com
-p5.zbjimg.com
-p6.zbjimg.com
 xue.zbyw.cn
 s2.zdmimg.com
 s3.zdmimg.com
-sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
 analytics-dev.whoami.ecp.zenlayer.net
 ad-cross-aws.whoami.zenlink.net
