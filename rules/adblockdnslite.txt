@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251212140437
-! Last modified: 2025/12/12 14:04:37
-! Blocked domains: 7172
+! Version: 20251213150331
+! Last modified: 2025/12/13 15:03:31
+! Blocked domains: 7155
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -656,7 +656,6 @@
 ||report-oversea.agora.io^
 ||report-oversea2.agora.io^
 ||statscollector-1.agora.io^
-||statscollector-1-asia.agora.io^
 ||statscollector-1-europe.agora.io^
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
@@ -793,7 +792,6 @@
 ||promotion.aliyun.com^
 ||update.aegis.aliyun.com^
 ||7vyou.oss-cn-shenzhen.aliyuncs.com^
-||ac9olrggo8-default-cn.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -829,7 +827,6 @@
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
-||g9m3a0kv73-default-cn.rum.aliyuncs.com^
 ||g9m3a0kv73-sdk.rum.aliyuncs.com^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
@@ -2040,7 +2037,6 @@
 ||tx2play2.douyucdn.cn^
 ||dotcounter.douyutv.com^
 ||fintech.downyi.cn^
-||www2-uccard.dpbor.cn^
 ||drdwy.com^
 ||drivethelife.com^
 ||dspunion.com^
@@ -2139,7 +2135,6 @@
 ||webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app^
 ||ediuschina.com^
 ||eeeeeef998.buzz^
-||analytics.eekang.net^
 ||faq.eevgev.cn^
 ||eexlgyn.cn^
 ||eeyy.com^
@@ -2793,7 +2788,6 @@
 ||g.hsw.cn^
 ||hswfj.cn^
 ||hsych.com^
-||www3-vpass.hszva.cn^
 ||ht55.cn^
 ||htkaoyan.com^
 ||httpdns.pro^
@@ -3508,7 +3502,6 @@
 ||data.kuiniuca.com^
 ||xycdn.com.gslb.kuiniuca.com^
 ||xyp-n.kuiniuca.com^
-||kuk8.com^
 ||h1.kukuw.com^
 ||ad-log-upload.mihoyo.com.w.kunluncan.com^
 ||p3-ad-sign.byteimg.com.w.kunluncan.com^
@@ -3722,7 +3715,6 @@
 ||www3-vpass.lykngi.cn^
 ||lyszsz.cn^
 ||lyua.cn^
-||lyw65khi.cn^
 ||ggle.lywf.me^
 ||mlog.m1905.cn^
 ||counter.m1905.com^
@@ -4072,7 +4064,7 @@
 ||apiyd.my91app.com^
 ||s.dd.myapp.com^
 ||mycleanmymac.com^
-||myhayo.com^
+||cdn.adm.myhayo.com^
 ||myhst2024.com^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com^
@@ -4167,7 +4159,6 @@
 ||al.newxue.com^
 ||ngmco.net^
 ||ggdm1.nhaidu.net^
-||vpass-jp.nherf.cn^
 ||nhjsw.cn^
 ||nhscv.cn^
 ||analytics.nike.com.cn^
@@ -4358,7 +4349,6 @@
 ||pfdth.cn^
 ||pfqwbqs.cn^
 ||vpass-jp.pgbqt.cn^
-||www3-vpass.pgbqt.cn^
 ||pgzs.com^
 ||smetrics.marketing.lighting.philips.com.cn^
 ||phormchina.com^
@@ -4451,7 +4441,6 @@
 ||sf3-pitaya-tos.pstatp.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||vpass-jp.pstqx.cn^
-||www3-vpass.psuyx.cn^
 ||ptengine.cn^
 ||ptmabek.cn^
 ||ptmind.com^
@@ -5887,7 +5876,6 @@
 ||file.uhsea.com^
 ||bdjs.uimg.cn^
 ||ujian.cc^
-||countly.ulanzistudio.com^
 ||ultrapay.net^
 ||umeng.com^
 ||gf.umenglog.com^
@@ -6242,7 +6230,6 @@
 ||ds.waimaofuzhuang.cn^
 ||tongdun-fingerprint.walmartmobile.cn^
 ||analytics.med.wanfangdata.com.cn^
-||wangqiang3.cn^
 ||mlog.wangsu.com^
 ||analytics.wanmei.com^
 ||analytics-gw.games.wanmei.com^
@@ -6354,7 +6341,6 @@
 ||ebank.wmxba.com^
 ||d.wn51.com^
 ||wn68din.cn^
-||www3-vpass.wnhfr.cn^
 ||wnp.com^
 ||dm.wo.com.cn^
 ||wo1818.cn^
@@ -6480,7 +6466,6 @@
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||xianzhice.com^
-||xiao-ad.com^
 ||b1.xiao84.com^
 ||becode.xiao84.com^
 ||salary.xiao84.com^
@@ -6552,7 +6537,6 @@
 ||storeconfig.mistat.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t1.market.xiaomi.com^
-||t17.market.xiaomi.com^
 ||t2.market.xiaomi.com^
 ||t3.market.xiaomi.com^
 ||t4.market.xiaomi.com^
@@ -6711,7 +6695,6 @@
 ||xyizgh.cn^
 ||a.xywy.com^
 ||bdmjs.xywy.com^
-||hao123.xywy.com^
 ||stat.xywy.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
