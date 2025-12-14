@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251214054515
-# Last modified: 2025/12/14 05:45:15
-# Blocked domains: 7157
+# Version: 20251214183338
+# Last modified: 2025/12/14 18:33:38
+# Blocked domains: 7152
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -179,6 +179,7 @@ local=/tj.21ic.com/
 local=/222aa333bb.com/
 local=/api-ad.233lyly.com/
 local=/baoku-safe.2345.cc/
+local=/cloud-pinyin.2345.cc/
 local=/db-safe.2345.cc/
 local=/help-tower.2345.cc/
 local=/safe-api.2345.cc/
@@ -200,7 +201,6 @@ local=/2607.cn/
 local=/js.263y.com/
 local=/a1.289.com/
 local=/2898.com/
-local=/28kc.cn/
 local=/www.2b26.com/
 local=/2girls1finger.org/
 local=/2mdn-cn.net/
@@ -435,6 +435,7 @@ local=/t1.58cdn.com.cn/
 local=/t2.58cdn.com.cn/
 local=/t3.58cdn.com.cn/
 local=/stat-58home.58che.com/
+local=/58tg.com/
 local=/595image.com/
 local=/59gt.cn/
 local=/abcd.5lu.com/
@@ -826,7 +827,6 @@ local=/first-hufu.oss-cn-shanghai.aliyuncs.com/
 local=/free-cdn.oss-cn-shanghai.aliyuncs.com/
 local=/fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/
 local=/g9m3a0kv73-default-cn.rum.aliyuncs.com/
-local=/g9m3a0kv73-sdk.rum.aliyuncs.com/
 local=/hdtu.oss-cn-beijing.aliyuncs.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
@@ -1461,9 +1461,7 @@ local=/c4d4.cn/
 local=/adashx.ut.cainiao.com/
 local=/h-adashx.ut.cainiao.com/
 local=/nbnest-admonitor.cainiao.com/
-local=/pinggai3.caixin.com/
 local=/pinggai5.caixin.com/
-local=/pinggai9.caixin.com/
 local=/ad.caiyunapp.com/
 local=/api.callget.cn/
 local=/httpdns.calorietech.com/
@@ -1510,6 +1508,7 @@ local=/ad.zijieapi.com.w.cdngslb.com/
 local=/ads-i10.xhscdn.com.w.cdngslb.com/
 local=/ads-i2.xhscdn.com.w.cdngslb.com/
 local=/ads-img-al.xhscdn.com.w.cdngslb.com/
+local=/ads-splash-i2.xhscdn.com.w.cdngslb.com/
 local=/ads-video-al.xhscdn.com.w.cdngslb.com/
 local=/ads3-normal-hl.zijieapi.com.w.cdngslb.com/
 local=/ads3-normal-lf.zijieapi.com.w.cdngslb.com/
@@ -4170,7 +4169,6 @@ local=/p.niudashu.com/
 local=/rjs.niuxgame77.com/
 local=/njzyjy.cn/
 local=/nkscdn.com/
-local=/www3-vpass.nlohn.cn/
 local=/nlyuuy.cn/
 local=/nmntgd.cn/
 local=/nndzsw1.com/
@@ -4480,7 +4478,6 @@ local=/log.game.qcplay.com/
 local=/qcx90.cn/
 local=/news.qcyz.cn/
 local=/qczcxe.cn/
-local=/vpass-jp.qdqgs.cn/
 local=/qdzilh.cn/
 local=/qedgcxi.cn/
 local=/qezpjlp.cn/
@@ -5969,7 +5966,6 @@ local=/sc-thor.vip.com/
 local=/stat.vip.com/
 local=/ads.vipbaihe.com/
 local=/in.vipliangmei.com/
-local=/www3-vpass.viqbq.cn/
 local=/stat.visionular.cn/
 local=/smetrics.visitsingapore.com.cn/
 local=/adlog.vivo.com/
@@ -6045,7 +6041,6 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-apport-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
-local=/cname-in-ctdbonrt-stsdk.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
