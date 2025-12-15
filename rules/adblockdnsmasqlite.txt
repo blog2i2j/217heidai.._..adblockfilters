@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251215120314
-# Last modified: 2025/12/15 12:03:14
-# Blocked domains: 7152
+# Version: 20251215211430
+# Last modified: 2025/12/15 21:14:30
+# Blocked domains: 7159
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -537,6 +537,7 @@ local=/1.95ye.com/
 local=/961.com/
 local=/11.96131.com.cn/
 local=/96382zubo66756.com/
+local=/97sky.cn/
 local=/9800.com/
 local=/whfpbc.99.com.cn/
 local=/www.99469.com/
@@ -792,6 +793,7 @@ local=/osfota.cdn.aliyun.com/
 local=/promotion.aliyun.com/
 local=/update.aegis.aliyun.com/
 local=/7vyou.oss-cn-shenzhen.aliyuncs.com/
+local=/ac9olrggo8-default-cn.rum.aliyuncs.com/
 local=/ad-host-backup-america.oss-us-west-1.aliyuncs.com/
 local=/ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com/
 local=/ad-host-backup-europe.oss-eu-central-1.aliyuncs.com/
@@ -2498,6 +2500,7 @@ local=/stat.gspaceteam.com/
 local=/csi.gstatic.com/
 local=/ad.gtbrowser.com/
 local=/gtcqbnu.cn/
+local=/g.gtimg.cn/
 local=/miniapp.gtimg.cn/
 local=/pgdt.gtimg.cn/
 local=/tianshu.gtimg.cn/
@@ -3499,6 +3502,7 @@ local=/webcollects.kugou.com/
 local=/data.kuiniuca.com/
 local=/xycdn.com.gslb.kuiniuca.com/
 local=/xyp-n.kuiniuca.com/
+local=/kuk8.com/
 local=/h1.kukuw.com/
 local=/ad-log-upload.mihoyo.com.w.kunluncan.com/
 local=/p3-ad-sign.byteimg.com.w.kunluncan.com/
@@ -6042,6 +6046,7 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-apport-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
+local=/cname-in-ctdbonrt-stsdk.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
@@ -6134,6 +6139,7 @@ local=/mx-vcode-api.vivoglobal.com/
 local=/mx-vcode-od.vivoglobal.com/
 local=/mx-vcode-or.vivoglobal.com/
 local=/onrt-stsdk.vivoglobal.com/
+local=/pnrt-stsdk.vivoglobal.com/
 local=/ro-up.vivoglobal.com/
 local=/ru-commonitor-stsdk.vivoglobal.com/
 local=/ru-comonrt-stsdk.vivoglobal.com/
@@ -6532,6 +6538,7 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.market.xiaomi.com/
+local=/t17.market.xiaomi.com/
 local=/t2.market.xiaomi.com/
 local=/t3.market.xiaomi.com/
 local=/t4.market.xiaomi.com/

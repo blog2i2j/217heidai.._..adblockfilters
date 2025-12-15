@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251215120314
-! Last modified: 2025/12/15 12:03:14
-! Blocked domains: 7152
+! Version: 20251215211430
+! Last modified: 2025/12/15 21:14:30
+! Blocked domains: 7159
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -537,6 +537,7 @@ www.95599.cn
 961.com
 11.96131.com.cn
 96382zubo66756.com
+97sky.cn
 9800.com
 whfpbc.99.com.cn
 www.99469.com
@@ -792,6 +793,7 @@ osfota.cdn.aliyun.com
 promotion.aliyun.com
 update.aegis.aliyun.com
 7vyou.oss-cn-shenzhen.aliyuncs.com
+ac9olrggo8-default-cn.rum.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -2498,6 +2500,7 @@ stat.gspaceteam.com
 csi.gstatic.com
 ad.gtbrowser.com
 gtcqbnu.cn
+g.gtimg.cn
 miniapp.gtimg.cn
 pgdt.gtimg.cn
 tianshu.gtimg.cn
@@ -3499,6 +3502,7 @@ webcollects.kugou.com
 data.kuiniuca.com
 xycdn.com.gslb.kuiniuca.com
 xyp-n.kuiniuca.com
+kuk8.com
 h1.kukuw.com
 ad-log-upload.mihoyo.com.w.kunluncan.com
 p3-ad-sign.byteimg.com.w.kunluncan.com
@@ -6042,6 +6046,7 @@ cname-asia-stsdk09.vivoglobal.com
 cname-de-stsdk.vivoglobal.com
 cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
+cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
@@ -6134,6 +6139,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -6532,6 +6538,7 @@ stats.music.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 sys.tv.india.xiaomi.com
 t1.market.xiaomi.com
+t17.market.xiaomi.com
 t2.market.xiaomi.com
 t3.market.xiaomi.com
 t4.market.xiaomi.com

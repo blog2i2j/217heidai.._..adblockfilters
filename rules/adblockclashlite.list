@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251215120314
-# Last modified: 2025/12/15 12:03:14
-# Blocked domains: 7152
+# Version: 20251215211430
+# Last modified: 2025/12/15 21:14:30
+# Blocked domains: 7159
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -537,6 +537,7 @@ DOMAIN-SUFFIX,1.95ye.com
 DOMAIN-SUFFIX,961.com
 DOMAIN-SUFFIX,11.96131.com.cn
 DOMAIN-SUFFIX,96382zubo66756.com
+DOMAIN-SUFFIX,97sky.cn
 DOMAIN-SUFFIX,9800.com
 DOMAIN-SUFFIX,whfpbc.99.com.cn
 DOMAIN-SUFFIX,www.99469.com
@@ -792,6 +793,7 @@ DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,promotion.aliyun.com
 DOMAIN-SUFFIX,update.aegis.aliyun.com
 DOMAIN-SUFFIX,7vyou.oss-cn-shenzhen.aliyuncs.com
+DOMAIN-SUFFIX,ac9olrggo8-default-cn.rum.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-america.oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -2498,6 +2500,7 @@ DOMAIN-SUFFIX,stat.gspaceteam.com
 DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,ad.gtbrowser.com
 DOMAIN-SUFFIX,gtcqbnu.cn
+DOMAIN-SUFFIX,g.gtimg.cn
 DOMAIN-SUFFIX,miniapp.gtimg.cn
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,tianshu.gtimg.cn
@@ -3499,6 +3502,7 @@ DOMAIN-SUFFIX,webcollects.kugou.com
 DOMAIN-SUFFIX,data.kuiniuca.com
 DOMAIN-SUFFIX,xycdn.com.gslb.kuiniuca.com
 DOMAIN-SUFFIX,xyp-n.kuiniuca.com
+DOMAIN-SUFFIX,kuk8.com
 DOMAIN-SUFFIX,h1.kukuw.com
 DOMAIN-SUFFIX,ad-log-upload.mihoyo.com.w.kunluncan.com
 DOMAIN-SUFFIX,p3-ad-sign.byteimg.com.w.kunluncan.com
@@ -6042,6 +6046,7 @@ DOMAIN-SUFFIX,cname-asia-stsdk09.vivoglobal.com
 DOMAIN-SUFFIX,cname-de-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-apport-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-bom01-nginxpool03.vivoglobal.com
+DOMAIN-SUFFIX,cname-in-ctdbonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-sin01-stsdk09.vivoglobal.com
 DOMAIN-SUFFIX,co-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,co-onrt-stsdk.vivoglobal.com
@@ -6134,6 +6139,7 @@ DOMAIN-SUFFIX,mx-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,onrt-stsdk.vivoglobal.com
+DOMAIN-SUFFIX,pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ro-up.vivoglobal.com
 DOMAIN-SUFFIX,ru-commonitor-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comonrt-stsdk.vivoglobal.com
@@ -6532,6 +6538,7 @@ DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,sys.tv.india.xiaomi.com
 DOMAIN-SUFFIX,t1.market.xiaomi.com
+DOMAIN-SUFFIX,t17.market.xiaomi.com
 DOMAIN-SUFFIX,t2.market.xiaomi.com
 DOMAIN-SUFFIX,t3.market.xiaomi.com
 DOMAIN-SUFFIX,t4.market.xiaomi.com
