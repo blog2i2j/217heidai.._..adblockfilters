@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xdTHwhBNbXA0NSm0uM5paQ
-! Version: 202512160011
+! Checksum: gv+/y9BylwHmZXQONaYlGA
+! Version: 202512161501
 ! Title: EasyPrivacy
-! Last modified: 16 Dec 2025 00:11 UTC
+! Last modified: 16 Dec 2025 15:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1630,6 +1630,7 @@
 /oo/*/l.js
 /oo/*/lsync.
 /oo/cl*.js?rd=
+/oo/cl-$~third-party
 /oo/cl.js|$~third-party
 /op/analytics.js?domain=
 /opdc.js
@@ -3199,6 +3200,7 @@ _WebVitalsReporter_
 /c.vialoops.com/*$image
 /ck.m.honto.jp/c/*$image
 /click.*/q/*$image
+/click.comicomi-studio.com/mail/u/*$image
 /click.em.nike.com/*$image
 /click.email.$image
 /click.instahyre.com/*$image
@@ -52133,6 +52135,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mirtesen.ru/js/ms.js
 ||ms.dzen.ru^
 ||ms.vk.com^
+||ms.vk.ru^
 ||mstat.mos.ru^
 ||mts.ru/fe-api/logger
 ||mtsbank.ru/hustonwehaveaproblem/
@@ -52188,6 +52191,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||umschool.net/_jts/api/s/track
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||vk.ru/rtrg
 ||vkvideo.ru/al_video.php?act=track
 ||vstat.rtr-vesti.ru^
 ||webbff.ru.4game.ru/api/exporter/events
