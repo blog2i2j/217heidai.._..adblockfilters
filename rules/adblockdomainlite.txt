@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251216231835
-! Last modified: 2025/12/16 23:18:35
-! Blocked domains: 7140
+! Version: 20251218000232
+! Last modified: 2025/12/18 00:02:32
+! Blocked domains: 7119
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -112,7 +112,6 @@ crash.163.com
 crashlytics.163.com
 du.163.com
 e-p4p.163.com
-fa.163.com
 fl.reg.163.com
 fp-upload.dun.163.com
 g.163.com
@@ -127,7 +126,6 @@ lofter.httpdns.c.163.com
 log.study.163.com
 log.uu.163.com
 mmonitor.cc.163.com
-mshare.cc.163.com
 music.httpdns.c.163.com
 n.3g.163.com
 netapm.music.163.com
@@ -366,7 +364,6 @@ web.51fishplace.com
 stat.51hchc.com
 trace.51jingying.com
 scdata.51job.com
-www.51link.com
 a1.51shiti.cn
 51taifu.com
 ad.video.51togic.com
@@ -791,7 +788,6 @@ osfota.cdn.aliyun.com
 promotion.aliyun.com
 update.aegis.aliyun.com
 7vyou.oss-cn-shenzhen.aliyuncs.com
-ac9olrggo8-default-cn.rum.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -879,7 +875,6 @@ logs.amap.com
 optimus-ads.amap.com
 optimus-ads-ykx.amap.com
 page.amap.com
-advertising.amazon.cn
 log.amemv.com
 log0-misc-alinc2.amemv.com
 log0-misc-hl.amemv.com
@@ -1399,7 +1394,6 @@ boyidianqi.com.cn
 vpass-ne.bpxvrr.cn
 bpztsxx.com
 bqdhrr.top
-bqyvip.cn
 brattymilf.com
 vpass-jp.brwkcx.cn
 www3-vpass.brwkcx.cn
@@ -1641,7 +1635,6 @@ clicki.cn
 app.clickmobi.cn
 cloooud.com
 clothinger.com
-7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -2244,7 +2237,6 @@ ffnvhig.cn
 21.fh21static.com
 fhitagd.cn
 fileshider.com
-findbigsoftpack.cn
 ad.findic.com
 epoch.finzfin.com
 fire2333.com
@@ -2782,7 +2774,6 @@ hsych.com
 ht55.cn
 htkaoyan.com
 httpdns.pro
-www.huabian.com
 ad.huajiao.com
 api-analytics-cn.huami.com
 api-analytics-in.huami.com
@@ -2876,7 +2867,6 @@ dd.iask.cn
 mwzbp.iask.com.cn
 qiyeb.iaskbus.com
 wneia.iaskhot.com
-ib88.cn
 ibozys.cn
 sensors.ibreader.com
 busuanzi.ibruce.info
@@ -3229,7 +3219,6 @@ jsczde.cn
 jsdajp.click
 jsebmcv.cn
 jsing.net
-jslogo.cn
 jsmxkj.com
 fpb1.jsq886.com
 jszctech.com
@@ -3669,7 +3658,6 @@ lockview.cn
 deeplink.locokids.cn
 affiliate.loctek.com
 ad.lofter.com
-logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 webanalytics.logitech.com.cn
 webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
@@ -3909,7 +3897,6 @@ sensors.mihuashi.com
 trk.miltonroy.com.cn
 ad.mingruidata.com
 src1.minibai.com
-minisplat.cn
 wm.mipcdn.com
 gg.miued.com
 abroad.api.comm.intl.miui.com
@@ -3960,7 +3947,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -4029,7 +4015,6 @@ motuopj.cn
 elq.mouser.cn
 loggate.moxigame.cn
 mp83fkx.cn
-mrtoss03.com
 msecret.cn
 event.msi.com
 srtb.msn.cn
@@ -4851,6 +4836,7 @@ a.qunzou.com
 ad.quwin.cn
 vn-ebay.quxlpuj.cn
 zzy1.quyaoya.com
+api.qvpublish.com
 u.qxen.com
 api.ts.feedback.qy.net
 msg.qy.net
@@ -5038,7 +5024,6 @@ shijincx.cn
 shijixinrui.cn
 shilian168.cn
 analysis.shixunsuda.com
-tracking.shopee.cn
 1.shopit.cn
 ads-shopping.shouqianba.com
 d1.showself.com
@@ -5359,7 +5344,6 @@ info.stockstar.com
 same.stockstar.com
 autotrack.studyquicks.com
 stats.studyquicks.com
-www3-vpass.suduf.cn
 uc9.suinidai.com.cn
 client-dmp.suishenyun.cn
 log-dmp.suishenyun.cn
@@ -5581,7 +5565,6 @@ tongji.techweb.com.cn
 tecunonline.com
 teddymobile.cn
 telegramcn.co
-jpz.telegramn.com.cn
 teleqpnm.cn
 apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -5929,7 +5912,6 @@ v66v66.com
 vamaker.com
 collect.vans.com.cn
 vaxgyly.cn
-vpass-jp.vbfbk.cn
 log.vcgame.cn
 stat.meitudata.com.c.vedcdnlb.com
 vegaschina.cn
@@ -6519,7 +6501,6 @@ stats.music.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 sys.tv.india.xiaomi.com
 t1.market.xiaomi.com
-t17.market.xiaomi.com
 t2.market.xiaomi.com
 t3.market.xiaomi.com
 t4.market.xiaomi.com
@@ -6949,7 +6930,6 @@ stat.game.yy.com
 yylady.cn
 adapi.yynetwk.com
 yystzl.cn
-yyw114.cn
 yktj.yzz.cn
 zampda.net
 zamplus.com
@@ -6961,7 +6941,6 @@ p3.zbjimg.com
 xue.zbyw.cn
 s2.zdmimg.com
 s3.zdmimg.com
-sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
 analytics-dev.whoami.ecp.zenlayer.net
 ad-cross-aws.whoami.zenlink.net
