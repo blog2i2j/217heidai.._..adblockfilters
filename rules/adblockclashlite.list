@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251223051716
-# Last modified: 2025/12/23 05:17:16
-# Blocked domains: 7086
+# Version: 20251224040536
+# Last modified: 2025/12/24 04:05:36
+# Blocked domains: 7082
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -1507,6 +1507,7 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
 DOMAIN-SUFFIX,pixel.bxtag.com.w.cdngslb.com
 DOMAIN-SUFFIX,stats-cdn.polyspeak.ai.w.cdngslb.com
+DOMAIN-SUFFIX,sgtm.dhgate.com.cdngtm.com
 DOMAIN-SUFFIX,v26-reading-ad.qznovelvod.com.51296c5e.c.cdnhwc1.com
 DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
@@ -1624,6 +1625,7 @@ DOMAIN-SUFFIX,clicki.cn
 DOMAIN-SUFFIX,app.clickmobi.cn
 DOMAIN-SUFFIX,cloooud.com
 DOMAIN-SUFFIX,clothinger.com
+DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,bkt.clouddn.com
 DOMAIN-SUFFIX,advertise.cloudlinks.cn
 DOMAIN-SUFFIX,log.cmbchina.com
@@ -2073,7 +2075,6 @@ DOMAIN-SUFFIX,stat.ea3w.com
 DOMAIN-SUFFIX,eagle-tex.cn
 DOMAIN-SUFFIX,track.easeus.com
 DOMAIN-SUFFIX,easou.com
-DOMAIN-SUFFIX,mini.eastday.com
 DOMAIN-SUFFIX,ay.eastmoney.com
 DOMAIN-SUFFIX,bddtlog.eastmoney.com
 DOMAIN-SUFFIX,bdstatic.eastmoney.com
@@ -2111,7 +2112,6 @@ DOMAIN-SUFFIX,webmail-ahu9fi8hu2.edgeone.app
 DOMAIN-SUFFIX,webmailssostorageupdates-epfsa543h5.edgeone.app
 DOMAIN-SUFFIX,webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
 DOMAIN-SUFFIX,ediuschina.com
-DOMAIN-SUFFIX,eeeeeef998.buzz
 DOMAIN-SUFFIX,eexlgyn.cn
 DOMAIN-SUFFIX,eeyy.com
 DOMAIN-SUFFIX,efusc.com
@@ -2479,7 +2479,6 @@ DOMAIN-SUFFIX,tianshu.gtimg.cn
 DOMAIN-SUFFIX,bla.gtimg.com
 DOMAIN-SUFFIX,ra.gtimg.com
 DOMAIN-SUFFIX,splashqqlive.gtimg.com
-DOMAIN-SUFFIX,tui.gtimg.com
 DOMAIN-SUFFIX,vmat.gtimg.com
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,gtpxvpi.cn
@@ -3263,7 +3262,6 @@ DOMAIN-SUFFIX,up.wps.kingsoft.com
 DOMAIN-SUFFIX,kinleung.cn
 DOMAIN-SUFFIX,smetrics.kioxia.com.cn
 DOMAIN-SUFFIX,kivo.fun
-DOMAIN-SUFFIX,www3-vpass.kjzcj.cn
 DOMAIN-SUFFIX,adl.kkguan.com
 DOMAIN-SUFFIX,houyi.kkmh.com
 DOMAIN-SUFFIX,ipv4.kkmh.com
@@ -4439,7 +4437,6 @@ DOMAIN-SUFFIX,qezpjlp.cn
 DOMAIN-SUFFIX,qfcdgy.cn
 DOMAIN-SUFFIX,qfnoyix.cn
 DOMAIN-SUFFIX,vpass-jp.qfrne.cn
-DOMAIN-SUFFIX,www3-vpass.qfrne.cn
 DOMAIN-SUFFIX,qguwoq.cn
 DOMAIN-SUFFIX,qhicumg.cn
 DOMAIN-SUFFIX,jspassport.ssl.qhimg.com
@@ -6074,7 +6071,6 @@ DOMAIN-SUFFIX,mx-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,mx-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,onrt-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ro-up.vivoglobal.com
 DOMAIN-SUFFIX,ru-commonitor-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comonrt-stsdk.vivoglobal.com
@@ -6290,7 +6286,6 @@ DOMAIN-SUFFIX,matomo.wongcw.com
 DOMAIN-SUFFIX,woniu.com
 DOMAIN-SUFFIX,analytics.woozooo.com
 DOMAIN-SUFFIX,statics.woozooo.com
-DOMAIN-SUFFIX,www3-vpass.wopwg.cn
 DOMAIN-SUFFIX,www.wowostar.cn
 DOMAIN-SUFFIX,v1.wphonelife.com
 DOMAIN-SUFFIX,ad.docer.wps.cn
@@ -6472,6 +6467,7 @@ DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,sys.tv.india.xiaomi.com
 DOMAIN-SUFFIX,t1.market.xiaomi.com
+DOMAIN-SUFFIX,t17.market.xiaomi.com
 DOMAIN-SUFFIX,t2.market.xiaomi.com
 DOMAIN-SUFFIX,t3.market.xiaomi.com
 DOMAIN-SUFFIX,t4.market.xiaomi.com
@@ -6627,7 +6623,6 @@ DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xyizgh.cn
 DOMAIN-SUFFIX,a.xywy.com
 DOMAIN-SUFFIX,bdmjs.xywy.com
-DOMAIN-SUFFIX,hao123.xywy.com
 DOMAIN-SUFFIX,stat.xywy.com
 DOMAIN-SUFFIX,stat-y.xywy.com
 DOMAIN-SUFFIX,stat-z.xywy.com
@@ -6907,6 +6902,7 @@ DOMAIN-SUFFIX,p3.zbjimg.com
 DOMAIN-SUFFIX,xue.zbyw.cn
 DOMAIN-SUFFIX,s2.zdmimg.com
 DOMAIN-SUFFIX,s3.zdmimg.com
+DOMAIN-SUFFIX,sentry-monitor-new.zdmimg.com
 DOMAIN-SUFFIX,zegarkirepliki.pl
 DOMAIN-SUFFIX,analytics-dev.whoami.ecp.zenlayer.net
 DOMAIN-SUFFIX,ad-cross-aws.whoami.zenlink.net
