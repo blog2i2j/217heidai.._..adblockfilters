@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251224040536
-! Last modified: 2025/12/24 04:05:36
-! Blocked domains: 7082
+! Version: 20251225022210
+! Last modified: 2025/12/25 02:22:10
+! Blocked domains: 7058
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -99,7 +99,6 @@ adgeo.163.com
 adimg.163.com
 analytics.163.com
 api.iplay.163.com
-apm.music.163.com
 c.m.163.com
 channel.m.163.com
 clientlog.music.163.com
@@ -158,6 +157,7 @@ st.19mi.net
 ad.1kxun.com
 1l1.cc
 1mpi.com
+ssp.1nmob.com
 d1.1ppt.com
 1qingdao.com
 uimg.1qwe3r.com
@@ -514,8 +514,6 @@ web.900.la
 bcs.91.com
 www.91.com
 zs.91.com
-cpt.9136.com
-js.9136.com
 new.915yzt.cn
 m.91heima.cn
 t.91syun.com
@@ -714,7 +712,6 @@ umlazada.alibaba.com
 mum.alibabachengdun.com
 umdc.alibabachengdun.com
 images.info.alibabacloud.com
-ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com
 beacon-api.aliyuncs.com.gds.alibabadns.com
 na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 alibabaonline.com
@@ -824,7 +821,6 @@ g9m3a0kv73-sdk.rum.aliyuncs.com
 hdtu.oss-cn-beijing.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
-hwztx6svg3-default-cn.rum.aliyuncs.com
 hxyhxsq4jc-sdk.rum.aliyuncs.com
 j2c03hoppk-default-cn.rum.aliyuncs.com
 jinshi123.oss-cn-beijing.aliyuncs.com
@@ -1289,7 +1285,6 @@ beigonggroup.com
 ad.beihai365.com
 beizi.biz
 smetrics.benefitcosmetics.com.cn
-benzf.com
 count.bestedm.net
 better.com.np
 betterzip.net
@@ -1384,7 +1379,6 @@ bootcss.com
 vstat.borderlessbd.com
 noyvyv.bosonshop.com
 ap1-ad2-app.botslab.com
-na1-ad2-app.botslab.com
 boyidianqi.com.cn
 vpass-ne.bpxvrr.cn
 bpztsxx.com
@@ -1482,7 +1476,6 @@ analytics.cditv.cn
 cdluck.com
 shazam-insights.cdn-apple.com
 business-ad.cdn-go.cn
-ad.zijieapi.com.c.dsa.cdnbuild.net
 ads5-normal-hj.zijieapi.com.c.dsa.cdnbuild.net
 ads5-normal-hl.zijieapi.com.c.dsa.cdnbuild.net
 ads5-normal-lf.zijieapi.com.c.dsa.cdnbuild.net
@@ -2944,7 +2937,6 @@ sla-media.immomo.com
 atb-stats-api.imolive.tv
 imop.com
 ads-gdl.imovideo.ru
-pyk.in-neo.cn
 inad.com
 analytics.inbobi.com
 dlres.ind9ed.com
@@ -2975,7 +2967,6 @@ intely.cn
 smetrics.marketing.interact-lighting.com.cn
 ads.intergreat.com
 link.intergreat.com
-ads.inteyun.cn
 inveno.com
 ioiksw.cn
 stat.ionewu.com
@@ -3491,7 +3482,6 @@ open.kwaizt.com
 kwdgudw.cn
 ky595images.com
 kychq.cn
-vpass-jp.kysat.cn
 go.eml.l-com.cn
 trk.l-com.cn
 data.adobe.l-god.cn
@@ -3613,7 +3603,6 @@ liebaovip.com
 log.liepin.com
 lihongli5.cn
 vda-global.lilisi.com
-sch.line.me
 sentry1.lingkou.xyz
 ads.linkedin.cn
 linkedme.cc
@@ -3803,7 +3792,6 @@ credits.bz.mgtv.com
 dflow.bz.mgtv.com
 disp.titan.mgtv.com
 encounter.bz.mgtv.com
-fantuan.bz.mgtv.com
 floor.bz.mgtv.com
 galaxy.bz.mgtv.com
 imgaliyun.res.mgtv.com
@@ -3925,7 +3913,6 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
-pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -4176,7 +4163,6 @@ oicp.net
 apps5.oingo.com
 okhan.net
 www3-vpass.omnec.cn
-www3-vpass.omvhb.cn
 oneapm.com
 onelnk.com
 click.oneplus.cn
@@ -5087,7 +5073,6 @@ stat.sina.com.cn
 woocall.sina.com.cn
 pfp.sina.net
 sinacloud.net
-adimg.gslb.sinaedge.com
 ad.us.sinaimg.cn
 d1.sinaimg.cn
 d6.sinaimg.cn
@@ -5168,7 +5153,6 @@ learning.snssdk.com
 lianmengapi.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
-log-lf.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
 mercury-sdk.snssdk.com
@@ -5582,7 +5566,6 @@ imgadpai.thepaper.cn
 event.thermoscientific.cn
 info.thermoscientific.cn
 sstats.thermoscientific.cn
-analytics.thinkingcloud.net
 thinkingdata.cn
 thinkmd.cn
 tatrack.thinkyeah.com
@@ -5718,7 +5701,6 @@ cs.twcczhu.com
 twdjn.cn
 tjpv.twh5.com
 twjsx.cn
-j.bs.twlxxl.cn
 tb.code.twyxi.com
 twzui6.com
 livetech.shopee.co.id.txlivecdn.com
@@ -6225,7 +6207,6 @@ uba.weikayun.com
 ads.weilitoutiao.net
 weiluyan.cn
 mj.weimob.net
-statistic.weimobdc.com
 badjs.weixinbridge.com
 code.wenbanzhu.com
 wenjian.net
@@ -6282,7 +6263,6 @@ go.pardot.wondershare.com
 helper-stats.wondershare.com
 platform.wondershare.com
 irurng.wondershare.jp
-matomo.wongcw.com
 woniu.com
 analytics.woozooo.com
 statics.woozooo.com
@@ -6754,7 +6734,6 @@ union.youdao.com
 ydpushserver.youdao.com
 bdcode.youke.com
 ad.youku.com
-ad-feedback.youku.com
 ad.api.3g.youku.com
 ad.api.mobile.youku.com
 ad.mobile.youku.com
@@ -6902,10 +6881,7 @@ p3.zbjimg.com
 xue.zbyw.cn
 s2.zdmimg.com
 s3.zdmimg.com
-sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
-analytics-dev.whoami.ecp.zenlayer.net
-ad-cross-aws.whoami.zenlink.net
 api-analytics-cn3.zepp.com
 api-analytics-de.zepp.com
 api-analytics-us.zepp.com

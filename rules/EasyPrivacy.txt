@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pPWEBGsDaPpWdS3L/P8xIA
-! Version: 202512231951
+! Checksum: uAdwh6DzOYnxQK3leJ1dSg
+! Version: 202512241811
 ! Title: EasyPrivacy
-! Last modified: 23 Dec 2025 19:51 UTC
+! Last modified: 24 Dec 2025 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3330,6 +3330,7 @@ _WebVitalsReporter_
 ://line.karte.io/CI0/$image
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
+://mail01.monex.co.jp/bin/checker?
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
 ://openedlog.
 ://parcel-api.delivery-status.*/open/$image
@@ -9065,6 +9066,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lederer.nl/incl/stats.js.php?
 ||legacy.com/globalscripts/tracking/
 ||legacy.com^*/unicaclicktracking.js?
+||lemrock.com/v1/publishers/tracking/
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||levelaccess.net/analytics/
@@ -12390,6 +12392,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||click.nudevista.com^
 ||clickindia.com/cimem/ad-post-ajax.php?FormName=browsingHistory
 ||clickins.slixa.com^
+||client-errors.rebble.io/log-client-error
 ||client-log.box.com^
 ||client-metrics.chess.com^
 ||cloudflare.com/_cf/analytics.js
@@ -38348,6 +38351,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! ||info.mouser.com^
 ! ||visit.tafensw.edu.au^
 ! ||sw.broadcom.com^
+! ||lrbelgium.wolterskluwer.com^
+! ||belgium.wolterskluwer.com^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -38896,7 +38901,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||bbk.pnc.com^
 ||bbworld.blackboard.com^
 ||be-go.experian.com^
-||belgium.wolterskluwer.com^
 ||belong.curtin.edu.au^
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
@@ -41378,7 +41382,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lp.tix.lehigh.edu^
 ||lp3.dentsplysirona.com^
 ||lps-info.arval.com^
-||lrbelgium.wolterskluwer.com^
 ||lrgermany.wolterskluwer.com^
 ||lrhungary.wolterskluwer.com^
 ||lritaly.wolterskluwer.com^
@@ -46125,6 +46128,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! ||app.teachfx.com^
 ! ||open.airtelxstream.in^
 ! ||deeplink.xeropan.com^
+! ||app.naga.com^
 !
 ! Company name: Branch.io
 !
@@ -46704,7 +46708,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||app.mylogoinc.com^
 ||app.myrbhs.com.au^
 ||app.mywaggle.com^
-||app.naga.com^
 ||app.naked.insure^
 ||app.nala.money^
 ||app.nalogi.online^
