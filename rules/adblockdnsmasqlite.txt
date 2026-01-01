@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260101065516
-# Last modified: 2026/01/01 06:55:16
-# Blocked domains: 6791
+# Version: 20260101155203
+# Last modified: 2026/01/01 15:52:03
+# Blocked domains: 6784
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -2012,7 +2012,6 @@ local=/effectivehealthy.cn/
 local=/efusc.com/
 local=/metrics.egencia.cn/
 local=/eghyahl.cn/
-local=/vpass-jp.egnnq.cn/
 local=/egrent.cn/
 local=/plugin-check.egret.com/
 local=/egsxdp.cn/
@@ -3521,7 +3520,6 @@ local=/lyl9ivo.cn/
 local=/lyszsz.cn/
 local=/lyua.cn/
 local=/ggle.lywf.me/
-local=/fokmyqox.lyz6dlvl.cn/
 local=/pmpmtbb.lyz6dlvl.cn/
 local=/mlog.m1905.cn/
 local=/counter.m1905.com/
@@ -4037,7 +4035,6 @@ local=/imagzine.oppomobile.com/
 local=/stat.browser.oppomobile.com/
 local=/optimix.asia/
 local=/vpass-jp.opyei.cn/
-local=/oqrviq.cn/
 local=/oqyiapj.cn/
 local=/tk.oray.com/
 local=/visit.oschina.net/
@@ -5113,7 +5110,6 @@ local=/t28goe.cn/
 local=/taboola.com.cn/
 local=/tagmanager.cn/
 local=/tagtic.cn/
-local=/en.taichuan.com/
 local=/takjttz.cn/
 local=/v1.taksh.cn/
 local=/talk99.cn/
@@ -5450,7 +5446,6 @@ local=/md.tvzhe.com/
 local=/cs.twcczhu.com/
 local=/twdjn.cn/
 local=/tjpv.twh5.com/
-local=/www.twwwpww.cn/
 local=/tb.code.twyxi.com/
 local=/twzui6.com/
 local=/livetech.shopee.co.id.txlivecdn.com/
@@ -6446,7 +6441,6 @@ local=/payment.yodo1api.com/
 local=/rodeoconfig.yodo1api.com/
 local=/sensors.yodo1api.com/
 local=/uc-ap.yodo1api.com/
-local=/vpass-jp.yojirm.cn/
 local=/sdk.yolanda.hk/
 local=/yongtai.cn/
 local=/a.youdao.com/
@@ -6740,7 +6734,6 @@ local=/c.zlongad.com/
 local=/r.zlongad.com/
 local=/s.zlongad.com/
 local=/zmdesf.cn/
-local=/wrongfic.zn7jhec.cn/
 local=/p.zol-img.com.cn/
 local=/cpro.zol.com.cn/
 local=/dynamic.zol.com.cn/
