@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260104042543
-! Last modified: 2026/01/04 04:25:43
+! Version: 20260104194601
+! Last modified: 2026/01/04 19:46:01
 ! Blocked Filters: 42983
 !
 ###AC_ad
@@ -27494,7 +27494,7 @@ allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.c
 allthatsinteresting.com,scientificamerican.com##.footer-banner
 allthetests.com,bom.gov.au,lapoderosa.com###advertising
 alocdn.co,serialeonline.biz#%#//scriptlet("prevent-window-open")
-alotav.com,javbraze.com,javdoe.fun,javdoe.sh,javhat.tv,javhd.*,javhdz.today,javseen.tv,javseenz.tv,javtape.site,xjav.online###previewBox
+alotav.com,javbraze.com,javdoe.fun,javdoe.sh,javfindx.com,javhat.tv,javhd.*,javhdz.today,javseen.tv,javseenz.tv,javtape.site,xjav.online###previewBox
 alotporn.com,amateurest.com,onlinestars.net,bravoerotica.net,gettubetv.com,hoes.tube,jizzberry.com,love4porn.com,gaysearch.com,submityourflicks.com,chubbyporn.com##.fp-ui > div[style^="position: absolute;"][style*="background: transparent;"]
 alotporn.com,amateurporn.me##[id^="list_videos_"] > [class="item"]
 alotporn.com,porneq.com,dato.porn$$script[tag-content="var __htapop = {};"][max-length="400"]
@@ -37277,10 +37277,10 @@ turbobits.cc,turbobiyt.net,turbobit.net##center > a > img
 turbobiyt.net,turbobyte.net##a[href*="/ybrowser/"]
 turbobyt.com,turbobyte.net,turbobits.cc,turbobiyt.net,turbobit.net#%#//scriptlet('trusted-click-element', 'a#no-thanks-btn')
 turbobyte.net,turbobit.net##div[style^="text-align:center;"] > a[target="_blanck"] > img
+turbocloud.xyz,turbovidhls.com,trailerhg.xyz,turboplayers.xyz,javggvideo.xyz,turtleviplay.xyz,findjav.com,stbturbo.xyz,emturbovid.com#%#//scriptlet('prevent-setTimeout', 'window.open')
+turbocloud.xyz,turbovidhls.com,trailerhg.xyz,turboplayers.xyz,javggvideo.xyz,turtleviplay.xyz,findjav.com,stbturbo.xyz,emturbovid.com#%#//scriptlet('set-constant', 'premium', 'undefined')
 turbovid.co,upvid.*#%#//scriptlet("abort-on-property-read", "_run")
 turbovid.co,upvid.*#%#//scriptlet("prevent-window-open")
-turbovidhls.com,trailerhg.xyz,turboplayers.xyz,javggvideo.xyz,turtleviplay.xyz,findjav.com,stbturbo.xyz,emturbovid.com#%#//scriptlet('prevent-setTimeout', 'window.open')
-turbovidhls.com,trailerhg.xyz,turboplayers.xyz,javggvideo.xyz,turtleviplay.xyz,findjav.com,stbturbo.xyz,emturbovid.com#%#//scriptlet('set-constant', 'premium', 'undefined')
 tureng.com#$?#.termresults-ad-tr { remove: true; }
 turystyka.wp.pl,finanse.wp.pl,film.wp.pl,kobieta.wp.pl,komorkomania.pl,tech.wp.pl,gadzetomania.pl,polygamia.pl,dobreprogramy.pl##div[class*=" "]:has(> img[src*="://v.wpimg.pl/"] + div[class] > style:first-child + div:last-child)
 turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,moto.wp.pl,gwiazdy.wp.pl,tech.wp.pl,kobieta.wp.pl,wiadomosci.wp.pl#?#div[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
