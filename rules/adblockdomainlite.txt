@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260112142605
-! Last modified: 2026/01/12 14:26:05
-! Blocked domains: 6727
+! Version: 20260113161438
+! Last modified: 2026/01/13 16:14:38
+! Blocked domains: 6722
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -86,6 +86,7 @@ yt-adp.nosdn.127.net
 1360.cn
 ad.mcloud.139.com
 lyapi.1391.com
+d.14yaa.com
 www.150170.com
 ad.163.com
 ad.mh.163.com
@@ -767,7 +768,6 @@ aixuntupian.oss-cn-hongkong.aliyuncs.com
 alime-pic.oss-cn-hangzhou.aliyuncs.com
 appgiftwall.oss-us-west-1.aliyuncs.com
 arms-retcode-sg.aliyuncs.com
-axyleu11gz-default-cn.rum.aliyuncs.com
 beacon-api.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 chaoku.oss-cn-chengdu.aliyuncs.com
@@ -795,6 +795,7 @@ haa3j9plpi-default-cn.rum.aliyuncs.com
 hdtu.oss-cn-beijing.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
+hwztx6svg3-default-cn.rum.aliyuncs.com
 hxyhxsq4jc-sdk.rum.aliyuncs.com
 j2c03hoppk-default-cn.rum.aliyuncs.com
 jinshi123.oss-cn-beijing.aliyuncs.com
@@ -944,7 +945,6 @@ collect.azazie.cn
 azdxypf.cn
 collector.azure.cn
 dc.applicationinsights.azure.cn
-live.applicationinsights.azure.cn
 b1.b2b168.com
 b1.b2b168.net
 log.b612kaji.com
@@ -1601,7 +1601,6 @@ ws2.cootekservice.com
 bdu1.coozhi.cn
 coreldrawchina.com
 sentry-v2.coros.com
-cot-google.com.cn
 cpanclean.cn
 cbjg.cqnews.net
 crasheye.cn
@@ -1841,7 +1840,6 @@ sensors-log.dongqiudi.com
 stat.dongqiudi.com
 cloudcdn.dopa.com
 cloudcdn.dopa.com.cn
-dot-google.com.cn
 monitor-web.dotfashion.cn
 erebor.douban.com
 ad.doubanio.com
@@ -2070,6 +2068,7 @@ api-fp-retry-sa.fengkongcloud.com
 cloudconf.fengkongcloud.com
 fp-bj.fengkongcloud.com
 fp-it.fengkongcloud.com
+fp-it-acc.fengkongcloud.com
 fp-na-it-acc.fengkongcloud.com
 fp-sa-it.fengkongcloud.com
 fp-sa-it-acc.fengkongcloud.com
@@ -2252,7 +2251,6 @@ nwww.gkxs.com
 media.globalsign.com
 seal.globalsign.com
 africa.edm.globalsources.com
-analytics.globalsources.com
 electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
 exhibition.edm.globalsources.com
@@ -2318,7 +2316,6 @@ googletagmanager.com
 googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
-r3.sn-npoe7nez.googlevideo.com
 gostats.cn
 kad.gotokeep.com
 govkunming.cn
@@ -2344,6 +2341,7 @@ tianshu.gtimg.cn
 bla.gtimg.com
 ra.gtimg.com
 splashqqlive.gtimg.com
+tui.gtimg.com
 vmat.gtimg.com
 wa.gtimg.com
 guance.com
@@ -2515,6 +2513,7 @@ hiido.com
 analytics.shop.hisense.com
 api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
+api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -2652,6 +2651,7 @@ u8.hujiang.com
 hulichuang.mobi
 humiliatrice.com
 log.hunantv.com
+log.v2.hunantv.com
 huoche.com.cn
 huoying666.com
 adx.hupu.com
@@ -3004,7 +3004,6 @@ jl368.cn
 jlifm.org.cn
 www.jmine.cn
 jnzbtb.cn
-job-google.com.cn
 ub1.job592.com
 yqg.jobui.com
 jollyspring.com
@@ -3058,7 +3057,6 @@ tracking.kdnet.net
 ab.ke.com
 gateway-bugly.ke.com
 scene.ke.com
-kexin001.com
 keyshot.cc
 elq.keysight.com.cn
 p.kf3msfm.com
@@ -3101,7 +3099,6 @@ a.koudai.com
 b.kouke5.com
 kqgn.cn
 kqjtj.com
-kqz-google.com.cn
 marketing.krones.com
 liebao.us-uplive.ks-cdn.com
 slb-p2p.vcloud.ks-live.com
@@ -3426,7 +3423,6 @@ log.liepin.com
 lihongli5.cn
 vda-global.lilisi.com
 lingd.cn
-sentry1.lingkou.xyz
 ads.linkedin.cn
 linkedme.cc
 linkhaitao.com
@@ -3612,7 +3608,6 @@ rprain.bz.mgtv.com
 vod-box.bz.mgtv.com
 mgzjin.cn
 resolver.gslb.mi-idc.com
-a.hl.mi.com
 ad.mi.com
 adx.tv.mi.com
 api.e.mi.com
@@ -4349,6 +4344,7 @@ jqmt.qq.com
 kde.qq.com
 l.qq.com
 lcsdk.3g.qq.com
+log.node.minigame.qq.com
 log.tbs.qq.com
 log.weixin.qq.com
 log.wtlogin.qq.com
@@ -4548,7 +4544,6 @@ a2.rabbitpre.com
 rabuagc.cn
 data-6dde45f576.radio.es
 luaqxb.rainso.com
-rat-google.com.cn
 rayjump.com
 bespoke-analytics.razerapi.com
 rbjpti.top
@@ -5063,6 +5058,7 @@ taboola.com.cn
 tagmanager.cn
 tagtd.cn
 tagtic.cn
+en.taichuan.com
 takjttz.cn
 v1.taksh.cn
 talk99.cn
@@ -5420,7 +5416,6 @@ applog.uc.cn
 applog-perf.uc.cn
 applog.ucdns.uc.cn
 applogios.uc.cn
-bench.uc.cn
 coral-task.uc.cn
 dispatcher.upmc.uc.cn
 feedback.uc.cn
@@ -5835,6 +5830,7 @@ mlog.wangsu.com
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
 clientlog.wanmei.com
+dlog.wanmei.com
 log1.wanmei.com
 log2.wanmei.com
 k1.wanwenwan.cn
@@ -5857,7 +5853,6 @@ wcoswaj.cn
 manage.wdfans.cn
 wdpkx.cn
 dhl-center.wdqnyoj.cn
-wdujldz.cn
 m1.we556.com
 analyse.weather.com.cn
 ctc.weather.com.cn
@@ -5957,7 +5952,6 @@ analytics.woozooo.com
 statics.woozooo.com
 workingkeys.com
 www.wowostar.cn
-wp-wpsoffice.com.cn
 v1.wphonelife.com
 ad.docer.wps.cn
 dyn.wps.cn
@@ -6255,7 +6249,6 @@ stat.download.xunlei.com
 sys7.msg.xunlei.com
 upgrade.xl9.xunlei.com
 watch.advertising.speed.cdn.vip.xunlei.com
-xlgamebox-youxi.xunlei.com
 youxi.xunlei.com
 prd-collect-llm.xverse.cn
 xwmr.com.cn
@@ -6279,6 +6272,7 @@ y4n.cn
 yahekby.cn
 stats.video.search.yahoo.com
 yahoo.com.cn
+ta.yangkeduo.com
 yangot.com
 img.yangshengtang123.com
 ca.yangshengtv.com
@@ -6553,6 +6547,7 @@ xue.zbyw.cn
 log.zcool.com.cn
 s2.zdmimg.com
 s3.zdmimg.com
+sentry-monitor-new.zdmimg.com
 zegarkirepliki.pl
 api-analytics.zepp.com
 api-analytics-cn3.zepp.com
