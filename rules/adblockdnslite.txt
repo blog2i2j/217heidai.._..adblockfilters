@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260119143807
-! Last modified: 2026/01/19 14:38:07
-! Blocked domains: 6689
+! Version: 20260120144230
+! Last modified: 2026/01/20 14:42:30
+! Blocked domains: 6686
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1572,7 +1572,6 @@
 ||log-eap-in.coloros.com^
 ||log-eap-sg.coloros.com^
 ||moa-upload-online.coloros.com^
-||trk.compair.com.cn^
 ||strack.concur.cn^
 ||track.concur.cn^
 ||marketing.container-xchange.cn^
@@ -1869,7 +1868,6 @@
 ||tx2play1.douyucdn.cn^
 ||tx2play2.douyucdn.cn^
 ||dotcounter.douyutv.com^
-||fintech.downyi.cn^
 ||s.doyo.cn^
 ||dpjzzgw.cn^
 ||drdwy.com^
@@ -1993,7 +1991,6 @@
 ||elex.com^
 ||metrics.ellechina.com^
 ||trk.elmorietschle.cn^
-||aeon.elrusw.cn^
 ||ename.com.cn^
 ||ename.net^
 ||count.enet.com.cn^
@@ -2499,6 +2496,7 @@
 ||analytics.shop.hisense.com^
 ||api-4know-em.hismarttv.com^
 ||api-4know-eu.hismarttv.com^
+||api-cloudfalcon.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -3031,7 +3029,6 @@
 ||download.kaobeitu.com^
 ||smetrics.karcher.cn^
 ||kdcxhr.cn^
-||www3-vpass.kdlatr.cn^
 ||panda.kdnet.net^
 ||ssp.kdnet.net^
 ||super.kdnet.net^
@@ -3386,7 +3383,6 @@
 ||static.app.m.letv.com^
 ||i0.letvimg.com^
 ||i3.letvimg.com^
-||lfw2duh2f.cn^
 ||lgygy.cn^
 ||lhippac.cn^
 ||engine.liandaomobi.com^
@@ -5231,7 +5227,6 @@
 ||tendata.cn^
 ||tengfeidn.cn^
 ||tepusi888.cn^
-||answers.teradata.cn^
 ||answers.teradata.com.cn^
 ||testplus.cn^
 ||tgfyq.cn^
@@ -6087,6 +6082,7 @@
 ||storeconfig.mistat.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t1.market.xiaomi.com^
+||t17.market.xiaomi.com^
 ||t2.market.xiaomi.com^
 ||t3.market.xiaomi.com^
 ||t4.market.xiaomi.com^
@@ -6442,6 +6438,7 @@
 ||cnuspider.yuanshen.com^
 ||overseauspider.yuanshen.com^
 ||ads.reader.yueyouxs.com^
+||yumimobi.com^
 ||report.yumobi.cn^
 ||ad.yunliyun.com^
 ||netstat.yunnan.cn^
