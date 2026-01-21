@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260120144230
-# Last modified: 2026/01/20 14:42:30
-# Blocked domains: 6686
+# Version: 20260121161118
+# Last modified: 2026/01/21 16:11:18
+# Blocked domains: 6688
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -355,6 +355,7 @@ local=/admaster-public.51downapp.cn/
 local=/web.51fishplace.com/
 local=/trace.51jingying.com/
 local=/scdata.51job.com/
+local=/m1.51kaowang.com/
 local=/51link.com/
 local=/a1.51shiti.cn/
 local=/51taifu.com/
@@ -756,7 +757,6 @@ local=/promotion.aliyun.com/
 local=/update.aegis.aliyun.com/
 local=/1hlahoc4rpc-sdk.rum.aliyuncs.com/
 local=/7vyou.oss-cn-shenzhen.aliyuncs.com/
-local=/ac9olrggo8-default-cn.rum.aliyuncs.com/
 local=/ad-host-backup-america.oss-us-west-1.aliyuncs.com/
 local=/ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com/
 local=/ad-host-backup-europe.oss-eu-central-1.aliyuncs.com/
@@ -789,12 +789,12 @@ local=/feedback-api.aliyuncs.com/
 local=/first-hufu.oss-cn-shanghai.aliyuncs.com/
 local=/free-cdn.oss-cn-shanghai.aliyuncs.com/
 local=/fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/
-local=/g9m3a0kv73-default-cn.rum.aliyuncs.com/
 local=/g9m3a0kv73-sdk.rum.aliyuncs.com/
 local=/haa3j9plpi-default-cn.rum.aliyuncs.com/
 local=/hdtu.oss-cn-beijing.aliyuncs.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
+local=/hwztx6svg3-default-cn.rum.aliyuncs.com/
 local=/hxyhxsq4jc-sdk.rum.aliyuncs.com/
 local=/j2c03hoppk-default-cn.rum.aliyuncs.com/
 local=/jinshi123.oss-cn-beijing.aliyuncs.com/
@@ -2495,7 +2495,6 @@ local=/hiido.com/
 local=/analytics.shop.hisense.com/
 local=/api-4know-em.hismarttv.com/
 local=/api-4know-eu.hismarttv.com/
-local=/api-cloudfalcon.hismarttv.com/
 local=/api-gps.hismarttv.com/
 local=/api-gps-em.hismarttv.com/
 local=/api-gps-eu.hismarttv.com/
@@ -2958,6 +2957,7 @@ local=/udiab1.jianshu.com/
 local=/events.jianshu.io/
 local=/jiaopei.com/
 local=/v3.jiathis.com/
+local=/www.jiathis.com/
 local=/www.jiayuan.com/
 local=/ad.jiemian.com/
 local=/api.jietuhb.com/
@@ -3432,6 +3432,7 @@ local=/game.loveota.com/
 local=/sdk.loveota.net/
 local=/dlimg.lovfp.com/
 local=/lrswl.com/
+local=/ny.lshdw.cc/
 local=/a1.lshou.com/
 local=/ltijnh.cn/
 local=/luciochen.cn/
@@ -4317,6 +4318,7 @@ local=/jqmt.qq.com/
 local=/kde.qq.com/
 local=/l.qq.com/
 local=/lcsdk.3g.qq.com/
+local=/log.node.minigame.qq.com/
 local=/log.tbs.qq.com/
 local=/log.weixin.qq.com/
 local=/log.wtlogin.qq.com/
@@ -4829,7 +4831,6 @@ local=/learning.snssdk.com/
 local=/lianmengapi.snssdk.com/
 local=/log.snssdk.com/
 local=/log-hl.snssdk.com/
-local=/log-lf.snssdk.com/
 local=/log-lq.snssdk.com/
 local=/mcs.snssdk.com/
 local=/mercury-sdk.snssdk.com/
@@ -6512,6 +6513,7 @@ local=/xue.zbyw.cn/
 local=/log.zcool.com.cn/
 local=/s2.zdmimg.com/
 local=/s3.zdmimg.com/
+local=/sentry-monitor-new.zdmimg.com/
 local=/zegarkirepliki.pl/
 local=/api-analytics.zepp.com/
 local=/api-analytics-cn3.zepp.com/
