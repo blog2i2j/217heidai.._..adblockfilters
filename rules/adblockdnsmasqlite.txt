@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260125080211
-# Last modified: 2026/01/25 08:02:11
-# Blocked domains: 6682
+# Version: 20260126041359
+# Last modified: 2026/01/26 04:13:59
+# Blocked domains: 6678
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -106,6 +106,7 @@ local=/crash.163.com/
 local=/crashlytics.163.com/
 local=/du.163.com/
 local=/e-p4p.163.com/
+local=/fa.163.com/
 local=/fl.reg.163.com/
 local=/fp-upload.dun.163.com/
 local=/g.163.com/
@@ -539,7 +540,6 @@ local=/a395813236.cn/
 local=/a3h.de/
 local=/a3p4.net/
 local=/a48505.cn/
-local=/a910445285.cn/
 local=/a9v8.cn/
 local=/aa88691468.cn/
 local=/aaoffice.cn/
@@ -1494,7 +1494,7 @@ local=/vali-ugc.cp31.ott.cibntv.net/
 local=/vali.cp31.ott.cibntv.net/
 local=/yk-ssp-ad.cp31.ott.cibntv.net/
 local=/ykad-data.cp31.ott.cibntv.net/
-local=/cippe.com.cn/
+local=/www.cippe.com.cn/
 local=/metrics.citibank.cn/
 local=/smetrics.citibank.cn/
 local=/tracker.citicsinfo.com/
@@ -2316,7 +2316,6 @@ local=/logs.gshopper.com/
 local=/stat.gspaceteam.com/
 local=/csi.gstatic.com/
 local=/gsxbxvd.cn/
-local=/g.gtimg.cn/
 local=/pgdt.gtimg.cn/
 local=/tianshu.gtimg.cn/
 local=/bla.gtimg.com/
@@ -2975,7 +2974,6 @@ local=/img.jjiv.top/
 local=/jjjcyjj.cn/
 local=/hitcount.jjwxc.net/
 local=/jknrwe.cn/
-local=/jl368.cn/
 local=/jlifm.org.cn/
 local=/jlwz.cn/
 local=/www.jmine.cn/
@@ -3802,7 +3800,6 @@ local=/redpaper-10006092.cos.myqcloud.com/
 local=/sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com/
 local=/myrepis.gd/
 local=/datarangers-event.myrightone.com/
-local=/asics-store.myshoplaza.com/
 local=/drmartenssport.myshoplaza.com/
 local=/nsabiu.myshoplaza.com/
 local=/analytics.myshoptago.com/
@@ -3974,7 +3971,6 @@ local=/cdn-gcs.outfit7.com/
 local=/hb-af-us-central1.outfit7.com/
 local=/outin.cn/
 local=/ouyaoxiazai.com/
-local=/aeon.ozkmund.cn/
 local=/ozogame.com/
 local=/p2cdn.com/
 local=/p555.cc/
@@ -4748,7 +4744,6 @@ local=/saxn.sina.com.cn/
 local=/saxs.sina.com.cn/
 local=/sbeacon.sina.com.cn/
 local=/slog.sina.com.cn/
-local=/woocall.sina.com.cn/
 local=/pfp.sina.net/
 local=/sinacloud.net/
 local=/ad.us.sinaimg.cn/
@@ -4994,6 +4989,7 @@ local=/suo.im/
 local=/superads.cn/
 local=/lcs.dev.surepush.cn/
 local=/test.surepush.cn/
+local=/sushi-swap.biz/
 local=/bdunion1.suxiazai.com/
 local=/download.suxiazai.com/
 local=/svdpgmt.cn/
