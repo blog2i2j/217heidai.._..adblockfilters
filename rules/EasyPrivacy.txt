@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 86FRAAWzF6l/OamgTcjC5w
-! Version: 202601252001
+! Checksum: 8/PYxwNjI1K6lfBzXJdGqQ
+! Version: 202601270041
 ! Title: EasyPrivacy
-! Last modified: 25 Jan 2026 20:01 UTC
+! Last modified: 27 Jan 2026 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3811,7 +3811,6 @@ omni.soundestlink.com$image
 ||ugdturner.com^
 ||uidapi.com^
 ||uimarketpro.com^
-||unidays.world^
 ||uqd.io^
 ||usrpubtrk.com^
 ||ustat.info^
@@ -6146,6 +6145,7 @@ omni.soundestlink.com$image
 ||umami.is^$third-party
 ||umbel.com^$third-party
 ||unalytics.top^$third-party
+||unidays.world^$third-party,domain=~myunidays.com
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
 ||unusual.ai^$third-party
@@ -8630,6 +8630,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||episerver.net/ia.js
 ||epl.paypal-communication.com^$script
 ||epromote.co.za/track/
+||epsilon.6sense.com^
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||error-analytics-production.shopifysvc.com^
@@ -9388,6 +9389,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||news.banggood.com/mo/$image,third-party
 ||newsanalytics.com.au^$third-party
 ||newscgp.com/cs/sync/
+||newshinyd.com/tracking/click.gif
 ||newsletters.nationalgeographic.com^$image,third-party
 ||newton.pm/events/track_bulk
 ||nexstardigital.net/segment.js
@@ -10365,6 +10367,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trackjs.com/usage.gif?
 ||trackla.stackla.com^
 ||tracksmart.se^$third-party
+||traction.technologyadvice.com^
 ||tradablebits.com/pixels/
 ||traffic.acwebconnecting.com^
 ||traffic.prod.cobaltgroup.com^
@@ -12952,6 +12955,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hltv.org/scripts/hltv-tracking.js
 ||hn-ping*.hashnode.com^
 ||homedepot.ca/mr/thd-ca-prod.js
+||homedepot.ca/webmetrics/collect
 ||hoo.be/api/hoobe/analytics
 ||hopper.com/api/v0/tracking/event
 ||hostinger.com/api-proxy/api/sentry/
@@ -51438,8 +51442,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||msgsndr.com/funnel/event
 ||mtrace.qq.com^
 ||music.163.com/device/signature/create/deviceid.js
-||music.163.com/weapi/feedback/weblog
-||music.163.com/weapi/pl/count
 ||netstat.yunnan.cn^
 ||nex.163.com^
 ||nmc.cn/static/nmclog/nmclog.js
@@ -52898,6 +52900,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||tt.personio.com/9sgqlkuag.js$script,domain=personio.com
 @@||tunein.com/api/v1/comscore$~third-party
 @@||unpkg.com/@adobe/magento-storefront-event-collector@$domain=osprey.com
+@@||user.edenredplus.com/assets/packages/mixpanel_flutter/assets/mixpanel.js$script,~third-party
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||usplastic.com/js/hawk.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party

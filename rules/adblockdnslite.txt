@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260126041359
-! Last modified: 2026/01/26 04:13:59
-! Blocked domains: 6678
+! Version: 20260127085553
+! Last modified: 2026/01/27 08:55:53
+! Blocked domains: 6672
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -408,7 +408,6 @@
 ||legoclick.58.com^
 ||luna.58.com^
 ||poro.58.com^
-||rentercenter.58.com^
 ||reportwpush.58.com^
 ||track.58.com^
 ||tracklog.58.com^
@@ -537,7 +536,6 @@
 ||image.9xsecndns.cn^
 ||telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn^
 ||a32a.com.cn^
-||a395813236.cn^
 ||a3h.de^
 ||a3p4.net^
 ||a48505.cn^
@@ -758,6 +756,7 @@
 ||update.aegis.aliyun.com^
 ||1hlahoc4rpc-sdk.rum.aliyuncs.com^
 ||7vyou.oss-cn-shenzhen.aliyuncs.com^
+||ac9olrggo8-default-cn.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -1406,7 +1405,6 @@
 ||api-access.pangolin-sdk-toutiao.com.w.cdngslb.com^
 ||api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com^
 ||log-api.pangolin-sdk-toutiao.com.w.cdngslb.com^
-||sentry-eu.ecoflow.com.w.cdngslb.com^
 ||sgtm.dhgate.com.cdngtm.com^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
@@ -1956,7 +1954,6 @@
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||pointball-llvwkkfsoo.edgeone.app^
 ||wealotheoloagathalimda.edgeone.app^
-||webjolsksdjdhfurieowpdddjcnbvm-l91qjpjscw.edgeone.app^
 ||webmail-ahu9fi8hu2.edgeone.app^
 ||webmailssostorageupdates-epfsa543h5.edgeone.app^
 ||webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app^
@@ -2493,6 +2490,7 @@
 ||analytics.shop.hisense.com^
 ||api-4know-em.hismarttv.com^
 ||api-4know-eu.hismarttv.com^
+||api-cloudfalcon.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -2976,7 +2974,6 @@
 ||hitcount.jjwxc.net^
 ||jknrwe.cn^
 ||jlifm.org.cn^
-||jlwz.cn^
 ||www.jmine.cn^
 ||jnzbtb.cn^
 ||ub1.job592.com^
@@ -3458,12 +3455,10 @@
 ||track.oasis.magictavern.com^
 ||magicwindow.cn^
 ||zc1.maillist-manage.com.cn^
-||sentry.maimemo.com^
 ||mairuan.cn^
 ||mairuan.com^
 ||mairuan.com.cn^
 ||accoun.majhvdx.cn^
-||aeon.majhvdx.cn^
 ||makeding.com^
 ||usejj.makepolo.cn^
 ||adx.mala.cn^
@@ -3517,7 +3512,6 @@
 ||dreport.meituan.net^
 ||mtvod.meituan.net^
 ||wreport1.meituan.net^
-||wreport2.meituan.net^
 ||cloudcollect.meitudata.com^
 ||mea.meitudata.com^
 ||meitubeauty.meitudata.com^
@@ -3574,7 +3568,6 @@
 ||ott-v0-al.data.mgtv.com^
 ||ott.v1.data.mgtv.com^
 ||pcweb.v1.mgtv.com^
-||recom.api.mgtv.com^
 ||rprain.bz.mgtv.com^
 ||vod-box.bz.mgtv.com^
 ||mgzjin.cn^
@@ -3892,7 +3885,6 @@
 ||c.ns8d.com^
 ||marketing.nsfocus.com^
 ||nshvhfw.cn^
-||reg.ntcccz.com^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
 ||ntvlwef.cn^
@@ -4745,6 +4737,7 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||slog.sina.com.cn^
+||woocall.sina.com.cn^
 ||pfp.sina.net^
 ||sinacloud.net^
 ||ad.us.sinaimg.cn^
@@ -4824,6 +4817,7 @@
 ||lianmengapi.snssdk.com^
 ||log.snssdk.com^
 ||log-hl.snssdk.com^
+||log-lf.snssdk.com^
 ||log-lq.snssdk.com^
 ||mcs.snssdk.com^
 ||mercury-sdk.snssdk.com^
@@ -5908,6 +5902,7 @@
 ||platform.wondershare.com^
 ||irurng.wondershare.jp^
 ||woniu.com^
+||static.wooboo.com.cn^
 ||analytics.woozooo.com^
 ||statics.woozooo.com^
 ||workingkeys.com^
@@ -6288,7 +6283,6 @@
 ||api.yidaomobi.com^
 ||imagelx.yidianzixun.com^
 ||mb.yidianzixun.com^
-||oppo.yidianzixun.com^
 ||static-ssp.yidianzixun.com^
 ||yidop.com^
 ||bd1.yidu.cc^
