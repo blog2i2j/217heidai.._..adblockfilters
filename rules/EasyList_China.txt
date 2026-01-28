@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ADB/EdIdrIgQiHIB2BTbIQ
-! Version: 202601272351
+! Checksum: UfxIH7YKXfOyYAgUhIc5XQ
+! Version: 202601281951
 ! Title: EasyList China
-! Last modified: 27 Jan 2026 23:51 UTC
+! Last modified: 28 Jan 2026 19:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1780,6 +1780,17 @@ newduba.cn###jq_youxi
 ||gsk801280hh.com^
 ||volcano93.top^
 ||tempest33.com^
+||6acupxubky.com^
+||mkff.cn^
+||m485oq2gym.top^
+||wvrp.cn^
+||224oztn8dq.com^
+||gsk801281hh.com^
+||6b8emvi3ya.com^
+||k0winsnua2.com^
+||16xxq8lb4g.com^
+||truunnoi.com^
+||otiladgyo.com^
 ||lp780937a.com^
 ||gsk801270hh.com^
 ||i5qquywfz.com^
@@ -10799,7 +10810,6 @@ meijutt.*/js/pcjs/
 ||mysteel.com/ads/
 ||wujinyuzhou.top/ny/*00x
 ||wujinyuzhou.top/ny/ny852x116.
-||ping0.cc/static/images/ad/
 ||workers.dev^$domain=axiang.cc
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||douyucdn.cn/adxdsp/
@@ -10808,7 +10818,8 @@ meijutt.*/js/pcjs/
 ||wnacg.com/game/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
-dailijichang.com,qv2ray.org##.elementor-popup-modal
+ping0.cc##.myeles
+linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
 dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 supercloudsms.com##.container > img
 muinz.top##.module
@@ -10834,7 +10845,6 @@ orzice.com##.ad-guanggao
 orzice.com###jinzhu_top
 twkan.com###mobile-ad
 axiang.cc###achang-related-adsense
-ping0.cc##.adeles
 hcbbs.com##.plc > .pct + :last-child
 mysteel.com###float-adv
 91porna.com##.dx-banner-item
