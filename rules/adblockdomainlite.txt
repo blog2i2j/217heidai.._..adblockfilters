@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260215090611
-! Last modified: 2026/02/15 09:06:11
-! Blocked domains: 6569
+! Version: 20260216063008
+! Last modified: 2026/02/16 06:30:08
+! Blocked domains: 6563
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -94,7 +94,6 @@ ad.mh.163.com
 adgeo.163.com
 adimg.163.com
 analytics.163.com
-api.iplay.163.com
 channel.m.163.com
 clientlog.music.163.com
 clientlog3.music.163.com
@@ -357,6 +356,7 @@ ad-android.51wnl.com
 51xuex.com.cn
 51yes.com
 game.51yund.com
+go.5211game.com
 522.com.cn
 52aoteman.com
 52kuwang.cn
@@ -417,7 +417,6 @@ efgh.5lu.com
 adjb.5nd.com
 5pub.com
 5qzone.net
-5s98.com
 5tmobi.cn
 5uxmusq.cn
 5vkyqkc.cn
@@ -733,6 +732,7 @@ osfota.cdn.aliyun.com
 promotion.aliyun.com
 1hlahoc4rpc-sdk.rum.aliyuncs.com
 7vyou.oss-cn-shenzhen.aliyuncs.com
+ac9olrggo8-default-cn.rum.aliyuncs.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1153,6 +1153,7 @@ event.bblmw.com
 perf.bblmw.com
 umami.bboysoul.cn
 umami-api.bboysoul.cn
+bcb5.com
 aod-image-material.cdn.bcebos.com
 baiducom.bj.bcebos.com
 bdyingxiaocms.cdn.bcebos.com
@@ -1210,7 +1211,6 @@ a.bfking.cn
 bfkq.com
 bfshan.cn
 info.bgi.com
-bh-google.com.cn
 bhaoea.cn
 bhpprfk.cn
 bhyuu.com
@@ -1605,7 +1605,6 @@ bd.czxuexi.com
 ggjs.d17.cc
 c.d3iz9md.com
 d7ytrv7yxa.com
-da-googlee.com.cn
 dabaicai.com
 cd.dabansuan.cn
 daccp.cn
@@ -1764,7 +1763,6 @@ code.ditiezu.net
 img16.diyifanwen.com
 sentry-io.djiops.com
 statistical-report.djiservice.org
-dkm-google.com.cn
 dlads.cn
 dle-news.xyz
 dllfix.cn
@@ -2035,7 +2033,6 @@ ad.findic.com
 epoch.finzfin.com
 fire2333.com
 fiwyjar.cn
-fjk-google.com.cn
 fjshxjs.cn
 fjsytjs.cn
 datareport.fkw.com
@@ -2133,7 +2130,6 @@ gdtimg.com
 log.geetest.com
 onepass.geetest.com
 g.gegeyingshi.com
-gemini3-google.com
 image.gentags.com
 gepush.com
 getmyip.top
@@ -2302,7 +2298,6 @@ ggw.gusuwang.com
 guzsjdl.cn
 gxbnp.cn
 pvsa.gxfugy.cn
-gxg-google.com.cn
 gxgbvmg.cn
 gxhzv.cn
 gz-data.com
@@ -2543,6 +2538,7 @@ hswfj.cn
 hsych.com
 ht55.cn
 htkaoyan.com
+httpcn.com
 httpdns.pro
 huabian.com
 ad.huajiao.com
@@ -3214,6 +3210,7 @@ msstatic.com.gslb.kuiniuca.com
 v1conf.darwin.kuiniuca.com
 xycdn.com.gslb.kuiniuca.com
 xyp-n.kuiniuca.com
+kuk8.com
 h1.kukuw.com
 img.adnyg.com.w.kunlungr.com
 web-sentry.kurogame.com
@@ -3630,6 +3627,7 @@ mazu.sec.miui.com
 metok.sys.miui.com
 mqs-log.miui.com
 notify.sec.miui.com
+pmir.sec.miui.com
 port.sec.miui.com
 port.sec.intl.miui.com
 protect.dev.sec.intl.miui.com
@@ -3795,7 +3793,6 @@ yt-adv.bn.netease.com
 abt-online.netease.im
 netor.net
 networkbench.com
-newbeiyang.net
 webd.home.news.cn
 nfksjkfs.com
 nfvj.cn
@@ -3928,7 +3925,6 @@ parking-pcnzz.cn
 partnerboost.com
 passionsex.vip
 pbaiyho.cn
-pc-chrome-google.com.cn
 ipad.pc899.cn
 count.pcauto.com.cn
 counter.pcauto.com.cn
@@ -4007,7 +4003,6 @@ pn36.cn
 dluat.pokerbros.net
 i.pokerbros.net
 polyfill-js.cn
-pop800.com
 poqwua.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
@@ -4673,7 +4668,6 @@ saxn.sina.com.cn
 saxs.sina.com.cn
 sbeacon.sina.com.cn
 slog.sina.com.cn
-woocall.sina.com.cn
 pfp.sina.net
 sinacloud.net
 ad.us.sinaimg.cn
@@ -5250,7 +5244,6 @@ tb.code.twyxi.com
 twzui6.com
 livetech.shopee.co.id.txlivecdn.com
 livetech.shopee.co.th.txlivecdn.com
-livetech.shopee.ph.txlivecdn.com
 m.txtxr.com
 u.txuesoft.cn
 tydouke.com
@@ -5581,6 +5574,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+pnrt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -5738,11 +5732,12 @@ mj.weimob.net
 statistic.weimobdc.com
 badjs.weixinbridge.com
 code.wenbanzhu.com
-wenjian.net
 weod.cn
 ad.weplayer.cc
 crosspromotion.weplayer.cc
 weq.me
+s1.wesiedu.com
+www.wesiedu.com
 count.west263.com
 crashsight.wetest.net
 perfsight.wetest.net
@@ -6115,7 +6110,6 @@ stat-y.xywy.com
 stat-z.xywy.com
 cp.xz6.com
 bmjs.xzw.com
-xzz-google.com.cn
 y0764.cn
 y4n.cn
 yahekby.cn
