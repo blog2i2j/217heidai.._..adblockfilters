@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260216063008
-! Last modified: 2026/02/16 06:30:08
-! Blocked domains: 6563
+! Version: 20260217071609
+! Last modified: 2026/02/17 07:16:09
+! Blocked domains: 6555
 ! unBlocked domains: 15
 !
 ||kwcdn.000dn.com^
@@ -106,6 +106,7 @@
 ||crashlytics.163.com^
 ||du.163.com^
 ||e-p4p.163.com^
+||fa.163.com^
 ||fl.reg.163.com^
 ||fp-upload.dun.163.com^
 ||g.163.com^
@@ -704,9 +705,6 @@
 ||aemetrics.aliexpress.ru^
 ||cddp-track.aligames.com^
 ||g.aligames.com^
-||member-log.aligames.com^
-||upp-log.aligames.com^
-||vanguard.aligames.com^
 ||optimus-ads.amap.com.w.alikunlun.com^
 ||a.alimama.cn^
 ||bm.alimama.cn^
@@ -1154,7 +1152,6 @@
 ||perf.bblmw.com^
 ||umami.bboysoul.cn^
 ||umami-api.bboysoul.cn^
-||bcb5.com^
 ||aod-image-material.cdn.bcebos.com^
 ||baiducom.bj.bcebos.com^
 ||bdyingxiaocms.cdn.bcebos.com^
@@ -1202,7 +1199,6 @@
 ||beigonggroup.com^
 ||ad.beihai365.com^
 ||beizi.biz^
-||belivelovecode.top^
 ||smetrics.benefitcosmetics.com.cn^
 ||betterzip.net^
 ||betterzipcn.com^
@@ -1475,7 +1471,6 @@
 ||app.clickmobi.cn^
 ||clickon.cn^
 ||clothinger.com^
-||7xi9g1.com1.z0.glb.clouddn.com^
 ||bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||log.cmbchina.com^
@@ -1727,7 +1722,6 @@
 ||dd.ma^
 ||ip.ddnspod.com^
 ||dm1.ddwk8.cn^
-||ddx-google.com.cn^
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^
 ||ad.dedecms.com^
@@ -2539,7 +2533,6 @@
 ||hsych.com^
 ||ht55.cn^
 ||htkaoyan.com^
-||httpcn.com^
 ||httpdns.pro^
 ||huabian.com^
 ||ad.huajiao.com^
@@ -3247,7 +3240,6 @@
 ||sanme2.lanzoui.com^
 ||laomaotao.net^
 ||images.newsletter.larksuite.com^
-||law-google.com.cn^
 ||un1.lawyernet.cn^
 ||jmacs-m.lazada.co.id^
 ||msgacs-m.lazada.co.id^
@@ -3792,7 +3784,6 @@
 ||vmonitor.ws.netease.com^
 ||yt-adv.bn.netease.com^
 ||abt-online.netease.im^
-||netor.net^
 ||networkbench.com^
 ||webd.home.news.cn^
 ||nfksjkfs.com^
@@ -4066,7 +4057,6 @@
 ||pzkrgcp.cn^
 ||www.q4ee.top^
 ||ssh.q4hwkg.cn^
-||ip.qaros.com^
 ||qawxpzm.cn^
 ||cp.qbaobei.com^
 ||apilog.qbb6.com^
@@ -4669,6 +4659,7 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||slog.sina.com.cn^
+||woocall.sina.com.cn^
 ||pfp.sina.net^
 ||sinacloud.net^
 ||ad.us.sinaimg.cn^
@@ -4750,6 +4741,7 @@
 ||lianmengapi.snssdk.com^
 ||log.snssdk.com^
 ||log-hl.snssdk.com^
+||log-lf.snssdk.com^
 ||log-lq.snssdk.com^
 ||mcs.snssdk.com^
 ||mercury-sdk.snssdk.com^
@@ -5503,7 +5495,6 @@
 ||eu-onrt-stsdk.vivoglobal.com^
 ||eu-ort-stsdk.vivoglobal.com^
 ||eu-p.vivoglobal.com^
-||eu-pnrt-stsdk.vivoglobal.com^
 ||eu-romsp-unifyconfig.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-stsdk.vivoglobal.com^
@@ -5576,6 +5567,7 @@
 ||mx-vcode-or.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
 ||pnrt-stsdk.vivoglobal.com^
+||prt-stsdk.vivoglobal.com^
 ||ro-up.vivoglobal.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
