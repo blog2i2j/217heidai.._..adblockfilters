@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260224173545
-! Last modified: 2026/02/24 17:35:45
-! Blocked domains: 6756
+! Version: 20260226092930
+! Last modified: 2026/02/26 09:29:30
+! Blocked domains: 6744
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -417,8 +417,6 @@
 ||t3.58cdn.com.cn^
 ||stat-58home.58che.com^
 ||58tg.com^
-||59593210rpobhpqmnf852.top^
-||59593211ztbncqdrwz510.top^
 ||595image.com^
 ||59gt.cn^
 ||abcd.5lu.com^
@@ -874,7 +872,6 @@
 ||chassis-cdn.appcloudcdn.com^
 ||appdriver.cn^
 ||apple-lq.cn^
-||apple-quickq.com.cn^
 ||iadsdk.apple.com^
 ||securemetrics.apple.com.cn^
 ||fpb1.apple886.com^
@@ -1314,7 +1311,6 @@
 ||booklives.cn^
 ||bootcss.com^
 ||vstat.borderlessbd.com^
-||bos-google3.com.cn^
 ||noyvyv.bosonshop.com^
 ||boyidianqi.com.cn^
 ||bpztsxx.com^
@@ -1336,7 +1332,6 @@
 ||ad.bwton.com^
 ||bxwccii.cn^
 ||bybitglobal.club^
-||bybitn.com.cn^
 ||byscy.cn^
 ||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
 ||s3.bytecdn.cn^
@@ -2575,7 +2570,6 @@
 ||hnxxt.net^
 ||ho521.cn^
 ||hologramid.cn^
-||home-google.com.cn^
 ||adtracking-dra.ads.honor.com^
 ||hopemobi.net^
 ||wxmini-log.hortorgames.com^
@@ -3005,7 +2999,6 @@
 ||eo.jinzpeng.cn^
 ||h5.jiumaster.com^
 ||jiuzhilan.com^
-||jiz-google.com.cn^
 ||jizhimobi.com^
 ||jj123.com.cn^
 ||img.jjiv.top^
@@ -3078,7 +3071,6 @@
 ||ssp1.kfadx.tech^
 ||j.kfd3sm2c.com^
 ||accoun.kfworfy.cn^
-||kgmuenew.top^
 ||kgmuioeiucoe.top^
 ||mail.kguapp.com^
 ||kidsdown.com^
@@ -4651,7 +4643,6 @@
 ||s3d4.cn^
 ||g.s8dj.com^
 ||sacre.cn^
-||safe-google.com.cn^
 ||404.safedog.cn^
 ||sagetrc.com^
 ||saitef.cn^
@@ -5043,7 +5034,6 @@
 ||ossup.suning.com^
 ||ssac.suning.com^
 ||tad.suning.com^
-||th.suning.com^
 ||sunriseoutdoor.cn^
 ||suo.im^
 ||superads.cn^
@@ -5490,7 +5480,8 @@
 ||b.unjs.com^
 ||unlitui.com^
 ||unypud.cn^
-||uodoo.com^
+||global-tokenserver-la.headline.uodoo.com^
+||hl-img.peco.uodoo.com^
 ||iosipa.b0.upaiyun.com^
 ||upceshop.cn^
 ||uphzxdv.cn^
@@ -5560,7 +5551,6 @@
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
 ||smetrics.visitsingapore.com.cn^
-||vitoboy.com^
 ||adlog.vivo.com^
 ||ads-api.vivo.com^
 ||bhwkju.vivo.com^
@@ -5869,7 +5859,6 @@
 ||zgzxm.weathercn.com^
 ||zgzxs.weathercn.com^
 ||web-chrome-google.hl.cn^
-||web-google1.com.cn^
 ||webdissector.com^
 ||webgo-google.hl.cn^
 ||log.webnovel.com^
@@ -5958,7 +5947,6 @@
 ||woniu.com^
 ||analytics.woozooo.com^
 ||statics.woozooo.com^
-||wop-google.com.cn^
 ||www.wowostar.cn^
 ||v1.wphonelife.com^
 ||wps-wpsoffice-wps.com.cn^
