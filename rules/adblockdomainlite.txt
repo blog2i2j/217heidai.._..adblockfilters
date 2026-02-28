@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260227022136
-! Last modified: 2026/02/27 02:21:36
-! Blocked domains: 6735
+! Version: 20260228151738
+! Last modified: 2026/02/28 15:17:38
+! Blocked domains: 6722
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -181,6 +181,7 @@ db-safe.2345.cc
 help-tower.2345.cc
 safe-api.2345.cc
 t-safe.2345.cc
+t.khd.2345.cc
 update-khd.2345.cc
 update-pcsafe.2345.cc
 update-zl.2345.cc
@@ -1329,7 +1330,6 @@ bvmlt.top
 accoun.bwdspwj.cn
 ad.bwton.com
 bxwccii.cn
-bybitglobal.club
 byscy.cn
 log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com
 s3.bytecdn.cn
@@ -2042,6 +2042,7 @@ z2.fakutownee.cn
 falal.cn
 api-ad-callback.falconnet.app
 api-event.falconnet.app
+config.ad.falconnet.app
 flux.faloo.com
 s.faloo.com
 kdewa111.familydoctor.com.cn
@@ -2195,7 +2196,6 @@ log.geetest.com
 onepass.geetest.com
 g.gegeyingshi.com
 image.gentags.com
-geowps-office.com.cn
 gepush.com
 getmyip.top
 getui.cn
@@ -2272,7 +2272,6 @@ techgifts.tradeshow.globalsources.com
 1.glook.cn
 sensorsdata.glowapp.vip
 l.glrcy.cn
-glsmagyarorszg.bond
 glwxw.net
 gmanhua.com
 cpux.gmud.top
@@ -2310,7 +2309,6 @@ googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
 gorvikinvion-ai.net
-gos-google.com.cn
 gostats.cn
 kad.gotokeep.com
 govkunming.cn
@@ -2654,7 +2652,6 @@ uba.huaweicloud.com
 huazirc.com
 hubcloud.com.cn
 hubiazhi.com
-huibangqyh.cn
 huishenghuiying.com.cn
 huitoukao.com
 track.hujiang.com
@@ -2687,7 +2684,6 @@ statwup.huya.com
 udblog.huya.com
 va.huya.com
 ylog.huya.com
-ns1.hwclouds-dns.com
 hypers.com
 hw-t.hypers.com.cn
 t.hypers.com.cn
@@ -2857,7 +2853,6 @@ paopao.iqiyi.com
 paopao-monitor.iqiyi.com
 policy.video.iqiyi.com
 puma-api.iqiyi.com
-puma.api.iqiyi.com
 sns-paopao.iqiyi.com
 static-s.iqiyi.com
 static.g.iqiyi.com
@@ -3285,6 +3280,7 @@ kuheju.com
 comfylink.com.gslb.kuiniuca.com
 data.kuiniuca.com
 msstatic.com.gslb.kuiniuca.com
+v1conf.darwin.kuiniuca.com
 xycdn.com.gslb.kuiniuca.com
 xyp-n.kuiniuca.com
 accoun.kujwvim.cn
@@ -3345,7 +3341,6 @@ jmacs-m.lazada.sg
 msgacs-m.lazada.sg
 jmacs-m.lazada.vn
 msgacs-m.lazada.vn
-lazyshop.com
 cc.lbesec.com
 cdn1.lbesec.com
 pscdn1.lbesec.com
@@ -3411,7 +3406,6 @@ static.app.m.letv.com
 i0.letvimg.com
 i3.letvimg.com
 lhippac.cn
-li-you.com
 li122.cn
 engine.liandaomobi.com
 ab.lianjia.com
@@ -3768,7 +3762,6 @@ tianji.moonrailgun.com
 ad.moonton.cn
 cdnjs.mopair-erm.net
 moquanad.com
-mossy.top
 elq.mouser.cn
 falsaceous.mrbois.cn
 events-sandbox.data.msn.cn
@@ -4028,8 +4021,6 @@ parking-pcnzz.cn
 partnerboost.com
 passionsex.vip
 bt1.patexplorer.com
-paypalcomdenglu.com.cn
-paypalzhanghudenglu.com.cn
 pbaiyho.cn
 pc-google.hl.cn
 ipad.pc899.cn
@@ -4538,7 +4529,6 @@ a.qunzou.com
 ad.quwin.cn
 vn-ebay.quxlpuj.cn
 zzy1.quyaoya.com
-api.qvpublish.com
 u.qxen.com
 api.ts.feedback.qy.net
 msg.qy.net
@@ -4598,7 +4588,6 @@ cyclitive.ritbxr.cn
 bi-tracker-cn.rivergame.net
 bi-tracker-global.rivergame.net
 tatracker-us.rivergame.net
-rjzxw.com
 rkzby.cn
 rljjt.cn
 rmlvjtf.cn
@@ -4686,7 +4675,6 @@ sensorsdata.cn
 seordl.cn
 sfbixfd.cn
 logstat.t.sfht.com
-track.sgdmobile.com
 sglyd.cn
 sha2021.com
 shangdu.com
@@ -5941,7 +5929,6 @@ analytics.woozooo.com
 statics.woozooo.com
 www.wowostar.cn
 v1.wphonelife.com
-wps-wpsoffice-wps.com.cn
 ad.docer.wps.cn
 dyn.wps.cn
 dynsrv.wps.cn
