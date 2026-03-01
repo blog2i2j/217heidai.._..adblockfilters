@@ -3,9 +3,9 @@
 # Description: 适用于 Clash 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20260228151738
-# Last modified: 2026/02/28 15:17:38
-# Blocked domains: 6722
+# Version: 20260301152409
+# Last modified: 2026/03/01 15:24:09
+# Blocked domains: 6715
 #
 DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -56,7 +56,6 @@ DOMAIN-SUFFIX,web.11h5.com
 DOMAIN-SUFFIX,eclick.120ask.com
 DOMAIN-SUFFIX,log.120ask.com
 DOMAIN-SUFFIX,bdwmhz.120askimages.com
-DOMAIN-SUFFIX,120jj.cn
 DOMAIN-SUFFIX,js1.122cha.com
 DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,123ad.com
@@ -489,7 +488,6 @@ DOMAIN-SUFFIX,zs.91.com
 DOMAIN-SUFFIX,new.915yzt.cn
 DOMAIN-SUFFIX,m.91heima.cn
 DOMAIN-SUFFIX,t.91syun.com
-DOMAIN-SUFFIX,91wan.com
 DOMAIN-SUFFIX,93692zubo66936.com
 DOMAIN-SUFFIX,9377.cn
 DOMAIN-SUFFIX,9377s.com
@@ -1542,7 +1540,6 @@ DOMAIN-SUFFIX,ggx.cmvideo.cn
 DOMAIN-SUFFIX,ad-api.cnblogs.com
 DOMAIN-SUFFIX,analytics.cnblogs.com
 DOMAIN-SUFFIX,count.cnblogs.com
-DOMAIN-SUFFIX,cnbp.net
 DOMAIN-SUFFIX,adm.cloud.cnfol.com
 DOMAIN-SUFFIX,abcd.cnhuoche.com
 DOMAIN-SUFFIX,cnitblog.com
@@ -1763,8 +1760,6 @@ DOMAIN-SUFFIX,events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn
 DOMAIN-SUFFIX,events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 DOMAIN-SUFFIX,grs-dbankcloud-com-dra.appacc.dbankedge.cn
 DOMAIN-SUFFIX,grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
-DOMAIN-SUFFIX,grs-dbankcloud-com-dre.appacc.dbankedge.cn
-DOMAIN-SUFFIX,grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
 DOMAIN-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 DOMAIN-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 DOMAIN-SUFFIX,metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn
@@ -2514,7 +2509,6 @@ DOMAIN-SUFFIX,log-drcn.platform.hihonorcloud.com
 DOMAIN-SUFFIX,log-dre.platform.hihonorcloud.com
 DOMAIN-SUFFIX,log-drru.platform.hihonorcloud.com
 DOMAIN-SUFFIX,hiido.com
-DOMAIN-SUFFIX,hillock.help
 DOMAIN-SUFFIX,analytics.shop.hisense.com
 DOMAIN-SUFFIX,api-4know-em.hismarttv.com
 DOMAIN-SUFFIX,api-4know-eu.hismarttv.com
@@ -2684,6 +2678,7 @@ DOMAIN-SUFFIX,statwup.huya.com
 DOMAIN-SUFFIX,udblog.huya.com
 DOMAIN-SUFFIX,va.huya.com
 DOMAIN-SUFFIX,ylog.huya.com
+DOMAIN-SUFFIX,ns1.hwclouds-dns.com
 DOMAIN-SUFFIX,hypers.com
 DOMAIN-SUFFIX,hw-t.hypers.com.cn
 DOMAIN-SUFFIX,t.hypers.com.cn
@@ -4030,7 +4025,6 @@ DOMAIN-SUFFIX,ivy.pcauto.com.cn
 DOMAIN-SUFFIX,qdfront.pcauto.com.cn
 DOMAIN-SUFFIX,pccleaner.cn
 DOMAIN-SUFFIX,count5.pconline.com.cn
-DOMAIN-SUFFIX,imgad0.pconline.com.cn
 DOMAIN-SUFFIX,ivy.pconline.com.cn
 DOMAIN-SUFFIX,pcpop.com
 DOMAIN-SUFFIX,video-dsp.pddpic.com
@@ -6001,7 +5995,6 @@ DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,sensors.h5.xed.plus
 DOMAIN-SUFFIX,sensors.xeknow.com
 DOMAIN-SUFFIX,xerhibx.cn
-DOMAIN-SUFFIX,bbb.xfrwu.cn
 DOMAIN-SUFFIX,xftsjv.top
 DOMAIN-SUFFIX,dt.xfyun.cn
 DOMAIN-SUFFIX,analytics.xgimi.com

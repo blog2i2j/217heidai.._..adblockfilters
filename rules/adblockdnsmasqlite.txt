@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260228151738
-# Last modified: 2026/02/28 15:17:38
-# Blocked domains: 6722
+# Version: 20260301152409
+# Last modified: 2026/03/01 15:24:09
+# Blocked domains: 6715
 #
 local=/kwcdn.000dn.com/
 local=/kwcscdn.000dn.com/
@@ -56,7 +56,6 @@ local=/web.11h5.com/
 local=/eclick.120ask.com/
 local=/log.120ask.com/
 local=/bdwmhz.120askimages.com/
-local=/120jj.cn/
 local=/js1.122cha.com/
 local=/ad.12306.cn/
 local=/123ad.com/
@@ -489,7 +488,6 @@ local=/zs.91.com/
 local=/new.915yzt.cn/
 local=/m.91heima.cn/
 local=/t.91syun.com/
-local=/91wan.com/
 local=/93692zubo66936.com/
 local=/9377.cn/
 local=/9377s.com/
@@ -1542,7 +1540,6 @@ local=/ggx.cmvideo.cn/
 local=/ad-api.cnblogs.com/
 local=/analytics.cnblogs.com/
 local=/count.cnblogs.com/
-local=/cnbp.net/
 local=/adm.cloud.cnfol.com/
 local=/abcd.cnhuoche.com/
 local=/cnitblog.com/
@@ -1763,8 +1760,6 @@ local=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/
 local=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/
 local=/grs-dbankcloud-com-dra.appacc.dbankedge.cn/
 local=/grs-dbankcloud-com-dra.appacc-region.dbankedge.cn/
-local=/grs-dbankcloud-com-dre.appacc.dbankedge.cn/
-local=/grs-dbankcloud-com-dre.appacc-region.dbankedge.cn/
 local=/hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn/
 local=/hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn/
 local=/metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn/
@@ -2514,7 +2509,6 @@ local=/log-drcn.platform.hihonorcloud.com/
 local=/log-dre.platform.hihonorcloud.com/
 local=/log-drru.platform.hihonorcloud.com/
 local=/hiido.com/
-local=/hillock.help/
 local=/analytics.shop.hisense.com/
 local=/api-4know-em.hismarttv.com/
 local=/api-4know-eu.hismarttv.com/
@@ -2684,6 +2678,7 @@ local=/statwup.huya.com/
 local=/udblog.huya.com/
 local=/va.huya.com/
 local=/ylog.huya.com/
+local=/ns1.hwclouds-dns.com/
 local=/hypers.com/
 local=/hw-t.hypers.com.cn/
 local=/t.hypers.com.cn/
@@ -4030,7 +4025,6 @@ local=/ivy.pcauto.com.cn/
 local=/qdfront.pcauto.com.cn/
 local=/pccleaner.cn/
 local=/count5.pconline.com.cn/
-local=/imgad0.pconline.com.cn/
 local=/ivy.pconline.com.cn/
 local=/pcpop.com/
 local=/video-dsp.pddpic.com/
@@ -6001,7 +5995,6 @@ local=/xdrig.com/
 local=/sensors.h5.xed.plus/
 local=/sensors.xeknow.com/
 local=/xerhibx.cn/
-local=/bbb.xfrwu.cn/
 local=/xftsjv.top/
 local=/dt.xfyun.cn/
 local=/analytics.xgimi.com/
